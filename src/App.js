@@ -27,7 +27,32 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "-Title: Product Intern\n\nDescription: As part of our product team, you will work on researching a wide\nvariety of e-commerce tools, surveying their feature sets, and participating in the\nroadmap of Tectonic admin tooling and storefronts.\nSkill sets:\n1. Understanding of Technology with a spike in Data Analytics\n2. Familiar with analytics tools.\n3. Strong critical thinking and communication skills.\nTraits expectation:\n1. Initiative: Demonstrate strong work ethic and drive to achieve personal\nand team goals\n2. Resourcefulness: Seeking out resources and learning opportunities\nindependently, researching the problem and using online resources.\n3. Willingness to learn: Strong desire to learn new technologies, grasp new\ntechnologies and be open to feedback.\nExpected learning:\n1. Product strategy and road mapping\n2. Witness the growth and journey of an early-stage tech startup.\n3. User experience and design\n4. Collaboration and teamwork\nSpecific courses required for project execution:\n1. Probability and statistics",
+      "Title: Product Intern\n\nDescription: As part of our product team, you will work on researching a wide\nvariety of e-commerce tools, surveying their feature sets, and participating in the\nroadmap of Tectonic admin tooling and storefronts.\nSkill sets:\n1. Understanding of Technology with a spike in Data Analytics\n2. Familiar with analytics tools.\n3. Strong critical thinking and communication skills.\nTraits expectation:\n1. Initiative: Demonstrate strong work ethic and drive to achieve personal\nand team goals\n2. Resourcefulness: Seeking out resources and learning opportunities\nindependently, researching the problem and using online resources.\n3. Willingness to learn: Strong desire to learn new technologies, grasp new\ntechnologies and be open to feedback.\nExpected learning:\n1. Product strategy and road mapping\n2. Witness the growth and journey of an early-stage tech startup.\n3. User experience and design\n4. Collaboration and teamwork\nSpecific courses required for project execution:\n1. Probability and statistics",
+  },
+  {
+    "Station Name": "MSCI Services Pvt. Ltd. - NPD",
+    City: "Mumbai",
+    Domain: "Finance,Python",
+    Title: "Title: New Product development Research",
+    Stipend: "60000INR",
+    Degree: "A7 B3 B4",
+    Holidays: "Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: New Product development Research\nDescription: Creation and maintenance of MSCI Indexes\nSkill sets: Coding skills (preferably python, MATLAB), Finance, Excellent Communication Skills\nTraits expectation:\nExpected learning:\n·        Index construction and maintenance for the various MSCI Factor, Thematic, Capped, Custom and ESG Indexes including the quarterly and semi-annual rebalancing of indices, the analysis and recommendation of securities for index additions and/or deletions\n·        Development and expansion of the index rebalancing framework\n·        Monitor developments in the investment management process and evaluate the continued relevance of the MSCI index methodologies in line with trends in investment styles.\n·        Prepare and present various index methodological reports to the equity decision committees, participate in product enhancement and product development efforts\nSpecific courses required for project execution: A7, B3, B4",
+  },
+  {
+    "Station Name": "CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",
+    City: "Pune",
+    Domain: "Automobile,EMC Testing",
+    Title: "Details awaited",
+    Stipend: "20000INR",
+    Degree: "B3 A7 A2 AA A8 A3 A1 A4",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "Details awaited",
   },
   {
     "Station Name": "Bisquare Systems Private Limited",
@@ -57,7 +82,7 @@ const stations = [
     "Project Details": "-",
   },
   {
-    "Station Name": "GreyOrange Ltd,Gurugram",
+    "Station Name": "GreyOrange Ltd, Gurugram",
     City: "Gurgaon",
     Domain: "Electrical",
     Title: "Software Development",
@@ -68,6 +93,19 @@ const stations = [
     "Office-End-Time": "f17:00:00",
     "Project Details":
       "Description: We are seeking a highly skilled and motivated Software Development Engineer to join our dynamic team. The ideal candidate will have a strong background in software development,\nexcellent problem-solving skills, and a passion for creating high-quality software solutions.\nSkill sets: \nGood knowledge of SQL databases (Postgres, Oracle, MySQL)\nGood knowledge of writing high performance API\nExposure to any micro service stack\nTraits expectation: \nProblem Solving Skills\nComputer Science Fundamentals\nGood Coding skills in any language\nGood Knowledge of data structures and algorithms\n\nExpected learning: \nSpecific courses required for project execution:  \nEducation: Bachelor’s or master’s degree in computer science, Software Engineering, or a related\nfield.\n• Technical Skills: Proficiency in one or more programming languages such as Java, C++, Python,\nC#, or JavaScript. Experience with frameworks and libraries relevant to the technology stack.\n• Problem-Solving: Strong analytical and troubleshooting skills. Ability to diagnose and resolve\ncomplex technical issues.\n• Communication: Excellent verbal and written communication skills. Ability to convey technical\ninformation to non-technical stakeholders.\n• Teamwork: Ability to work effectively in a team environment. Strong interpersonal skills and the\nability to collaborate with colleagues at all levels.",
+  },
+  {
+    "Station Name": "Digicert Security India Pvt Ltd",
+    City: "Bengaluru",
+    Domain: "Python,Programming and Scripting,Java",
+    Title: "Project details given in Description",
+    Stipend: "40000INR",
+    Degree: "A7 AA",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "JOB DESCRIPTION\n Candidate should be able to help enhancing our test automation framework for improved test coverage and security posture. Candidate will be responsible for extending the framework's capabilities for both REST APIs and UI testing using Tavern, Python, Cypress, JS, shell script and implementing security validations, and exploring CI/CD integration possibilities.\n RESPONSIBILITIES\n Test Automation Framework Enhancement: Analyse and understand existing REST API test framework using Tavern, Python.\nAnalyse and understand existing Cypress UI test framework using Cypress, JS, shell script.\n Develop utilities to: Map various test modules into a single, reusable template.\n Execute multiple test modules together locally and remotely in a scalable manner.\nCreate comprehensive test reports providing test status, failures with error details and logs.\nExplore CI/CD integration possibilities for the test automation framework.\nSecurity Automation Development: Design and develop automated security assessment tools for web applications and REST APIs.\n Focus on vulnerabilities like session management weaknesses, IDOR (Indirect Object Reference), privilege escalation, and HTTP 403 bypass using predefined payloads.\n Implement functionalities for: Creating test data (accounts, orders, organizations etc.)\n Running automated assessments, storing test requests and responses for manual analysis Generating comprehensive security assessment reports\n.\nREQUIRED QUALIFICATIONS\n ·        B.E. Computer Science or equivalent degree\n NICE TO HAVE QUALIFICATIONS\n·        Programming knowledge on Python, Java etc.",
   },
   {
     "Station Name":
@@ -82,6 +120,19 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": "WILP Project",
+  },
+  {
+    "Station Name": "MELSS",
+    City: "Chennai",
+    Domain: "IT,Computer Science,IT and Electronics",
+    Title: "Details Awaited",
+    Stipend: "10000INR",
+    Degree: "A8 A3 AA A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "skill sets like python, machine interfacing, web development etc.",
   },
   {
     "Station Name": "Nomura- Global Markets-Analyst role",
@@ -209,7 +260,7 @@ const stations = [
     City: "Bengaluru",
     Domain: "Computer Science",
     Title: "FD Lock",
-    Stipend: "0INR",
+    Stipend: "88000INR",
     Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
@@ -243,6 +294,45 @@ const stations = [
       "Description:\nIITM Pravartak Technologies Foundation is a Technology Innovation Hub (TIH) funded by the Department of Science and Technology, Government of India under the National Mission on Interdisciplinary Cyber-Physical Systems. The TIH is hosted by IIT Madras and specializes in Sensors, Networking, Actuators, and Control Systems (SNACS). \n\nThe key objectives of Technology, Entrepreneurship, and Human Resources Development, IITM Pravartak is preparing young India for the next generation of world-class technologies. IITM Pravartak provides an eco-system that enables fundamental research to translate to products, integrating academics, industry, government and international organizations.\n One such initiative is to develop a secure database with High availability support covering the various features across operating systems which is deployable on-premises and cloud platforms. The aim of this database will be to make it available with Enterprise support and eligible/suitable for use across commercial and government enterprises. \nThe DB is planned to be built from the forked version of PostgreSQL as the secured base version and fulcrum to retain compatibility with some of the existing tools and ease migration in a DBMS ecosystem.  \n\nThe database will be extended/enhanced by utilizing selective open-Source packages / products / tools. This will be in addition to come out with innovative features to improve the performance of the core database engine wherever possible. The vision is to enable creation of multiple streams of applications for the database (enterprise, mobile, in memory etc.). \n\nSkill sets: C, C++, Linux, OS internals, Networking, PostgreSQL/MySQL/Oracle/MSSQL, Python/Perl, Open-source development methodology, Data Structures, Algorithms\n\nTraits expectation: Teamwork, Go-getter, analytical thinking, problem-solving, critical thinking, time management, willingness to learn, Previous successful completion of open-source projects (preferable)\n\nExpected learning: DB design principles, query optimization, performance tuning, debugging, system-level understanding, collaboration on large-scale projects, database security concepts, testing methodologies, software development lifecycle\n\nSpecific courses required for project execution: C programming, Operating Systems, Data Structures / Advanced Data Structures, Linux programming, Database concepts (RDBMS), Python Programming",
   },
   {
+    "Station Name": "Dezerv Investments Pvt. Ltd , Bangalore",
+    City: "Bengaluru",
+    Domain: "Mobile App Development,Backend Development",
+    Title: "Comprehensive Portfolio Review",
+    Stipend: "75000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f18:30",
+    "Project Details":
+      "Build a system capable of fetching and analyzing customer portfolios\nincluding multiple asset classes (MF’s, stocks etc.)\nSkill sets: Golang, Python programming, API Development, Flutter mobile app\ndevelopment\nTraits expectation: Ability to write clean functional code, ability to debug a code in\nstepwise manner, ability to read existing code and trace an end-to-end functional\nflow to identify where changes need to be made to support a new requirement.\nExpected learning: Backend software development, Mobile app development, AWS\nCloud infrastructure fundamentals.",
+  },
+  {
+    "Station Name": "Dezerv Investments Pvt. Ltd , Bangalore",
+    City: "Bengaluru",
+    Domain: "Backend Development,Web Development",
+    Title: "Customer funds tracking",
+    Stipend: "75000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f18:30",
+    "Project Details":
+      "Track and manage customer funds flows between\nbanks and its utilization in Dezerv investment products\nSkill sets: Golang programming, API development, React web\ndevelopment\nTraits expectation: Ability to write clean functional code, Ability to debug a\nproblem in stepwise manner, Ability to read existing code and trace an end-to-end\nfunctional flow to identify where changes need to be made to support a new\nrequirement\nExpected learning: Backend software development, Web app development, AWS\ncloud infrastructure fundamentals",
+  },
+  {
+    "Station Name": "Dezerv Investments Pvt. Ltd , Bangalore",
+    City: "Bengaluru",
+    Domain: "Web Development,Backend Development",
+    Title: "Order Execution System",
+    Stipend: "75000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f18:30",
+    "Project Details":
+      "Automatically create, execute and track market orders across multiple\nasset classes to maintain accurate customer portfolios\nSkill sets: Golang programming, API development, React web development\nTraits expectation: Ability to write clean functional code, Ability to debug a\nproblem in stepwise manner, Ability to read existing code and trace an end-to-end\nfunctional flow to identify where changes need to be made to support a new\nrequirement\nExpected learning: Backend software development, Web app development, AWS\ncloud infrastructure fundamentals",
+  },
+  {
     "Station Name": "KPMG,Gurugram",
     City: "Gurgaon",
     Domain: "Business Analyst",
@@ -266,6 +356,19 @@ const stations = [
     "Office-End-Time": "f17:15:00",
     "Project Details":
       "Title: FrontEnd\nDescription: NA\nSkill sets: React\nTraits expectation: NA\nExpected learning: Advanced Frontend Technologies\nSpecific courses required for project execution:  B.Tech(CS, ECE)",
+  },
+  {
+    "Station Name": "Time tooth Technologies Pvt Ltd, Noida/Bengaluru",
+    City: "Noida",
+    Domain: "Design engineering",
+    Title: "Title: Aircraft Seating Systems",
+    Stipend: "30000INR",
+    Degree: "A4",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Aircraft Seating Systems\nDescription: https://timetooth.in/seating-systems/aircraft-economy-passenger-seats/\nSkill sets: Mechanical Design, Engineering Analysis, Manufacturing, Aerospace Regulations\nSpecific courses required for project execution:  Core Mechanical",
   },
   {
     "Station Name": "Wissen Infotech",
@@ -336,6 +439,19 @@ const stations = [
       "Project 1 Title: Reduce TCP retransmissions\n\nDescription: Analyzing cause for TCP retransmission, finding root cause and presenting\nsolution to reduce them\nSkill sets: Networking & C++\nTraits expectation: Problem solving, debugging\nExpected learning: Deep understanding of networking\nSpecific courses required for project execution: Networking, C++\n\nProject 2 Title: Creating pseudo/virtual production setups\n\nDescription: We have complex trading setups, with multiple components governed by specific\nconfigurations & connected via multiple ways/protocols. We want to mimic exact replica of\nthese setups required for varied workflows including release testing\nSkill sets: C++, networking, DS-Algo\nTraits expectation: Problem solving, debugging\nExpected learning: Virtualization, networking, Order Manager\nSpecific courses required for project execution: C++, networking, DS-Algo",
   },
   {
+    "Station Name": "Morningstar - Index Management and Analytics,Mumbai",
+    City: "Mumbai",
+    Domain: "Finance and Mgmt",
+    Title: "Title: Index Management & Analytics",
+    Stipend: "50000INR",
+    Degree: "A7 B3 C7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Index Management &amp; Analytics\nDescription: The primary function of Index Management and Analytics (IMA) team is to\nmaintain the Morningstar Indexes across asset classes, periodic methodology\nenhancements and provide research &amp; analytics for the client support. It provides enough\nopportunity for the students to understand the real world investment and portfolio\nmanagement concepts. They will be working on the following\n1. Provide support in maintaining eligible equity universe and reference data\nmodule for the reconstitution of the global index series\n2. Support ongoing reconstitution of Morningstar indexes in an accurate and\ntimely manner\n3. Handle client request and queries related to existing index products\nProvide ideas on process enhancements and automation\nSkill sets: SQL, Python\nExpected learning:\n1) Portfolio Management Concepts\n2) Programming in python and SQL\n3) Data Analysis\nSpecific courses required for project execution:\n1)Security and Portfolio Analysis",
+  },
+  {
     "Station Name": "SEDEMAC Mechatronics Limited",
     City: "Pune",
     Domain: "Electronic Hardware",
@@ -346,7 +462,7 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "Represents hardware team as a single point of contact for cross functional engineering team for product specific hardware development initiatives\nDefines and manages changes to hardware product requirements and leads product feasibility assessment activities.\nDrives selection of major components considering competing constraints such as costing, performance, reliability, availability etc.\nProactively assesses and de-risks high severity failure modes during the design phase to achieve industry leading product reliability\nPerforms worst case design simulations / calculations & prototype studies to ensure compliance to requirements\nDefines and communicates HW-SW, HW-Mechanical interface requirements and constraints (for example PCB sizing constraints)\nAssesses and communicates risks associated with design trade-offs\n\nSkill sets: \nSupports development of manufacturing SOPs (standard operating procedures) and EOL (end-of-line) test rigs\nDefines hardware verification plan and performs V&V activities\nLeads design implementation activities working closely with ECAD/MCAD engineers\nRepresents HW team for RCA activities and ensures implementation of CAPA during the complete HW product lifecycle\nTraits expectation: \nProactively identifies and implements opportunities to minimize BOM cost and improve product robustness and reliability\nTechnically mentors team members\nConducts internal product training & sharing of LLBP and technical knowhow\nExpected learning: \nRequirements analysis\nProduct architecture definition, Component selection\nDesign calculation & simulation, Worst Case Analysis, Component derating\nThermal analysis, Signal Integrity Analysis\nFunctional/Piece Part FMEA, DRBFM\nPCB design, DFM, DFT, DFR aspects\nUsage of lab equipment like DSO/MSO, Function generators, Power supplies etc.",
+      "Title: Intern, Electronic Hardware\nDescription: \nRepresents hardware team as a single point of contact for cross functional engineering team for product specific hardware development initiatives\nDefines and manages changes to hardware product requirements and leads product feasibility assessment activities.\nDrives selection of major components considering competing constraints such as costing, performance, reliability, availability etc.\nProactively assesses and de-risks high severity failure modes during the design phase to achieve industry leading product reliability\nPerforms worst case design simulations / calculations & prototype studies to ensure compliance to requirements\nDefines and communicates HW-SW, HW-Mechanical interface requirements and constraints (for example PCB sizing constraints)\nAssesses and communicates risks associated with design trade-offs\n\nSkill sets: \nSupports development of manufacturing SOPs (standard operating procedures) and EOL (end-of-line) test rigs\nDefines hardware verification plan and performs V&V activities\nLeads design implementation activities working closely with ECAD/MCAD engineers\nRepresents HW team for RCA activities and ensures implementation of CAPA during the complete HW product lifecycle\nTraits expectation: \nProactively identifies and implements opportunities to minimize BOM cost and improve product robustness and reliability\nTechnically mentors team members\nConducts internal product training & sharing of LLBP and technical knowhow\nExpected learning: \nRequirements analysis\nProduct architecture definition, Component selection\nDesign calculation & simulation, Worst Case Analysis, Component derating\nThermal analysis, Signal Integrity Analysis\nFunctional/Piece Part FMEA, DRBFM\nPCB design, DFM, DFT, DFR aspects\nUsage of lab equipment like DSO/MSO, Function generators, Power supplies etc.",
   },
   {
     "Station Name": "Samsung Semiconductor India Research",
@@ -359,6 +475,20 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": "Details awaited",
+  },
+  {
+    "Station Name": "NI (National Instruments)",
+    City: "Bengaluru",
+    Domain: "Electronics,Quantum Communication",
+    Title:
+      "Project : Research and development of wireless algorithms for upcoming standards like 5G NR, WLAN 11ax and 11be.",
+    Stipend: "45000INR",
+    Degree: "0",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Internship project would primarily be related to research and development of wireless algorithms for upcoming standards like 5G NR, WLAN 11ax and 11be.\nBrief Description\nResearch, design, development, and implementation of complex physical layer wireless algorithms for upcoming wireless standards (connectivity and cellular) like 5G NR, NR-V2X, NR-Unlicensed, WLAN 11ax and 11be, Bluetooth HADM etc. This would require thorough and in-depth understanding of Digital Signal Processing and wireless communications knowledge\nInternship programme would enrich individual’s knowledge by providing\nRich experience in designing and implementing PHY layer algorithms for Wireless standards\nHands on experience and understanding of specification documents from standard bodies for wireless standards like 3GPP, IEEE, Bluetooth SIG etc\nExpertise on PHY layer in standards like 5G NR, WLAN 11ax, 11be, Bluetooth, LTE etc\nDiscipline specialization\nCore Skills: \nKnowledge on Digital Signal processing and Wireless Communications are must to have. Master’s degree in this area of specialization is required\nOther Skills: \nKnowledge on Teststand and LabVIEW are nice to have.\nGood communication skills (verbal and Writing), taking initiatives, Works effectively in a group development environment",
   },
   {
     "Station Name": "Quinbay technologies",
@@ -425,7 +555,7 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "Accenture’s Data &amp; AI practice helps our clients grow their business in entirely new ways. Analytics enables our clients to\nachieve high performance through insights from data - insights that inform better decisions and strengthen customer\nrelationships. From strategy to execution, Accenture works with organizations to develop analytic capabilities - from\naccessing and reporting on data to predictive modelling - to outperform the competition.\nAs part of our Analytics practice, you will join a worldwide network of smart and driven colleagues experienced in leading\nAI/ML/Statistical tools, methods and applications. From data to analytics and insights to actions, our forward-thinking\nconsultants provide analytically-informed, issue-based insights at scale to help our clients improve outcomes and achieve\nhigh performance.\nPosition Summary\nPrimary responsibility is to deliver analytics-based solutions.\nDuties and Responsibilities:\n? Develop analytics solutions to support business analytics such as marketing analytics, customer segmentation,\nacquisition, business operations, retention and forecasting.\n? Develop statistical testing programs to measure and improve on-going performance.\n? Apply appropriate techniques, such as exploratory data analysis, regression analysis, bootstrapping, decision trees,\ncluster analysis, choice modeling, survival analysis etc.? Should have done forecasting/modeling, data analysis, used regression/optimization models and techniques.\nExperience in machine learning osure to one or more of Data science capabilities; preferably python. Others are -\nR, SAS\n? Needs to have data management capabilities, with skills in SQL, Spark and data visualization capabilities in\nTableau/power BI\n? Strong ability to process and extract strategic insights from large data sets\n? Exposure to computer programming in some form.\n? Good communication skills\n? Open to extensive travel (upto 2 months at a stretch)\n? Advanced Excel and PowerPoint skills",
+      "Accenture S&C Global Network – Data & AI\n\nAccenture’s Data & AI practice helps our clients grow their business in entirely new ways.  Analytics enables our clients to achieve high performance through insights from data - insights that inform better decisions and strengthen customer relationships. From strategy to execution, Accenture works with organizations to develop analytic capabilities - from accessing and reporting on data to predictive modelling - to outperform the competition.\nAs part of our Analytics practice, you will join a worldwide network of smart and driven colleagues experienced in leading AI/ML/Statistical tools, methods and applications. From data to analytics and insights to actions, our forward-thinking consultants provide analytically-informed, issue-based insights at scale to help our clients improve outcomes and achieve high performance.\n\nPosition Summary \n\nPrimary responsibility is to deliver analytics-based solutions. \n\nDuties and Responsibilities: \n\nDevelop analytics solutions to support business analytics such as marketing analytics, customer segmentation, acquisition, business operations, retention and forecasting. \nDevelop statistical testing programs to measure and improve on-going performance. \nApply appropriate techniques, such as exploratory data analysis, regression analysis, bootstrapping, decision trees, cluster analysis, choice modeling, survival analysis etc.\n\nRequirements: \n\nMaster’s degree in Statistics or Quantitative Science or MBA\nShould have done forecasting/modeling, data analysis, used regression/optimization models and techniques. Experience in machine learning osure to one or more of Data science capabilities; preferably python. Others are - R, SAS\nNeeds to have data management capabilities, with skills in SQL, Spark and data visualization capabilities in Tableau/power BI\nStrong ability to process and extract strategic insights from large data sets \nExposure to computer programming in some form.\nGood communication skills \nOpen to extensive travel (upto 2 months at a stretch) \nAdvanced Excel and PowerPoint skills",
   },
   {
     "Station Name": "Align (Invisalign India LLP) - System Integration",
@@ -465,6 +595,20 @@ const stations = [
     "Project Details": "Details awaited",
   },
   {
+    "Station Name": "ITC Limited, PSPD - Tribeni (Kolkata)",
+    City: "Kolkata",
+    Domain: "Mechanical,Chemical",
+    Title:
+      "Title: Image Analytics based Quality variation reduction of Décor Paper Machines in Tribeni",
+    Stipend: "30000INR",
+    Degree: "A4 A1",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Image Analytics based Quality variation reduction of Décor Paper Machines in Tribeni\nDescription: To work on building Quality monitoring systems and data models for root cause\nanalysis of quality defects in Manufacturing process of a paper machine (from pulp to paper)\nSkill sets: Knowledge of basic chemical and mechanical engineering concepts, Data analytics and\nMachine learning in Excel and Python/R, Image Analytics\nTraits expectation: Passionate about solving production and quality related problems through data\nExpected learning: Techno-managerial skill set to drive mill-wide projects on Quality improvement\nSpecific courses required for project execution: Mechanical, Chemical Engg",
+  },
+  {
     "Station Name": "AtkinsRealis,Gurugram",
     City: "Gurgaon",
     Domain: null,
@@ -487,6 +631,18 @@ const stations = [
     "Office-Start-Time": "09:00:12",
     "Office-End-Time": "f18:30:30",
     "Project Details": "1",
+  },
+  {
+    "Station Name": "IMC India Securities Private Limited",
+    City: "Mumbai",
+    Domain: "Finance and Mgmt",
+    Title: "Constrain allotment",
+    Stipend: "550000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "Constrain allotment",
   },
   {
     "Station Name": "Nomura IT Internship - GMIT - Trade Processing",
@@ -515,6 +671,18 @@ const stations = [
       "At Humantic AI, we are building a new 'people intelligence' segment from\nscratch. Our product is at the cutting-edge of AI, Psychology and large-scale data.\nWe believe that we have an opportunity (and even a responsibility) to\npersonalise and humanize how people interact over the internet; and an\nopportunity to inspire far more trustworthy relationships online than it has ever\nbeen possible before.\nWe currently focus on selling ‘buyer intelligence’ to sales teams and help them\nbook more meetings and close more deals. Our customers include enterprises\nlike Cushman & Wakefield, Foundever, Mitel; startups like Domo, AcuityMD,\nResourceWise and even the sales team at the legendary Manchester United!\nAnd we have barely started!\nResponsibilities\nAs a full stack engineering intern at Humantic AI, you will help enhance and scale\nnext generation people intelligence solutions.\nWhat Really Matters\n? Know how to debug an issue and navigate a large codebase. Looking at\nyou, GSoC students (or similar programs)\n? Knowledge of using JavaScript (NodeJS) at the backend\n? Good knowledge of at least one of ReactJS, JQuery or Angular\n? Worked with Chrome Extensions before\n? Some familiarity with SQL\n\nWhat Matters Somewhat\n? Deployment and performance tuning of web applications\n? Knowledge of HTML5 & CSS3\n? The school that you come from\n\nWhat Does Not Matter (Unless Exceptionally Great)\n? Your scores and grades in school\n? Your Codeforces/Leetcode rating\n\nPersonality Expectations:\nWe believe that it takes a certain type of personality to do a certain kind of role\nwell. For this role, we expect that you are someone who is passionate about\nmaking things work, and making them look good. You know how to maintain\nbalance between perfectionism and pragmatism. You plan your work, and do\nnot leave things for the last minute (unlike most engineers). You are creative and\nresearch oriented, and love to explore ways to find things that you do not\nalready know.\nOn the other side, there is only one thing that we care for apart from\nperformance - your values. We have room for mistakes on the performance side;\nwe have no room for mistakes on your values.",
   },
   {
+    "Station Name": "Trane Technologies, Bengaluru",
+    City: "Bengaluru",
+    Domain: "Mechanical",
+    Title: "HD CO",
+    Stipend: "23000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "HD CO",
+  },
+  {
     "Station Name": "D. E. Shaw India Private Limited - Project 2,Hyderabad",
     City: "Hyderabad",
     Domain: "Finance and Mgmt",
@@ -538,6 +706,32 @@ const stations = [
     "Office-Start-Time": "09:30:25",
     "Office-End-Time": "f18:00:30",
     "Project Details": "1",
+  },
+  {
+    "Station Name": "Quadrant Technologies, Hyderabad",
+    City: "Hyderabad",
+    Domain: "AI & ML,Python",
+    Title: "AIML",
+    Stipend: "15000INR",
+    Degree: "A7",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title:\nDescription:  AIML\nSkill sets: Python, LLM\nTraits expectation: \nExpected learning:  AIML\nSpecific courses required for project execution:  Python",
+  },
+  {
+    "Station Name": "Quadrant Technologies, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Azure Data Bricks,Computer Science",
+    Title: "Data bricks migraion",
+    Stipend: "15000INR",
+    Degree: "A7 AA",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Description: Data bricks migraion\nSkill sets:Python, Azure Data Bricks\nTraits expectation: \nExpected learning:Data Engineering \nSpecific courses required for project execution:  Azure Data Bricks",
   },
   {
     "Station Name": "AECOM, Asia",
@@ -564,6 +758,19 @@ const stations = [
     "Office-End-Time": "f18:00:30",
     "Project Details":
       "As general consultant we are involved in review of all design & drawings of structures\n\nDesign of Bridges including both Substructure & superstructures.",
+  },
+  {
+    "Station Name": "Yugabyte, Bengaluru",
+    City: "Bengaluru",
+    Domain: "Java,Computer Science,Databases for GSRF",
+    Title: "Software project",
+    Stipend: "125000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "1. Java; Kubernetes\n2. Java; AWS/GCP/Azure\n3. C/C++; Postgres DB\n4. Good at Databases; Preferably SQL Databases",
   },
   {
     "Station Name": "Qube Research and Technology India LLP",
@@ -607,13 +814,27 @@ const stations = [
     "Station Name": "WILP - Additive Manufacturing, Hyderabad",
     City: "Hyderabad",
     Domain: "Others",
-    Title: "WILP - Additive Manufacturing, Hyderabad",
+    Title: "DMA analysis and simulation of Additively manufactured components.",
     Stipend: "25000INR",
     Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
-    "Project Details": "WILP - Additive Manufacturing, Hyderabad",
+    "Project Details":
+      "DMA analysis and simulation of Additively manufactured components.",
+  },
+  {
+    "Station Name": "Agnext Technologies",
+    City: "Sahibzada Ajit Singh Nagar",
+    Domain: "IT, IoT,IoT,Machine Learning",
+    Title: "Title: IoT-Based Smart Monitoring and Control Systems",
+    Stipend: "25000INR",
+    Degree: "A7 A3 AA A8",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: IoT-Based Smart Monitoring and Control Systems\nDescription: Develop an IoT system to monitor and control devices or environments remotely using sensor data.\nSkill sets:  IoT architecture, microcontroller programming, sensor integration, wireless communication, cloud platform integration\nTraits expectation: Curiosity, troubleshooting skills, innovation, adaptability\nExpected learning: End-to-end IoT solution design, real-time data processing, cloud integration.\nSpecific courses required for project execution:  IoT Systems Design, Embedded Systems, Cloud Computing, Wireless Communication Protocols.\nTitle: Machine Learning for Predictive Analytics\nDescription: Build predictive models using machine learning techniques to solve real-world problems such as forecasting and classification.\nSkill sets:Machine learning algorithms, data preprocessing, Python/R, model evaluation, time-series data analysis.\nTraits expectation: Analytical mindset, problem-solving, persistence in model optimization, data handling skills.\nExpected learning: Application of ML techniques, model optimization, handling large datasets\nSpecific courses required for project execution: Machine Learning, Data Science, Python for ML, Advanced ML Algorithms.\nTitle: Software Development Lifecycle Implementation\nDescription: Work on a software development project, covering all phases of SDLC from requirements gathering to deployment.\nSkill sets: Programming (Python, Java, JavaScript), front-end and back-end development, database management, version control.\nTraits expectation: Problem-solving, scalable architecture thinking, attention to security, teamwork.\nExpected learning: End-to-end software development, Agile, DevOps, coding best practices.\nSpecific courses required for project execution:  Full Stack Development, Database Design, Software Engineering, Agile and DevOps.\nTitle: Data Analytics for Business Intelligence\nDescription: Analyze data to generate actionable insights for business decisions, using statistical models and visualization tools.\nSkill sets: Data preprocessing, visualization (Tableau, Power BI), SQL, statistical analysis, Python/R for data manipulation.\nTraits expectation:  Attention to detail, data interpretation, communication skills, analytical thinking\nExpected learning: Data analysis, visualization, dashboard creation, predictive and prescriptive analytics.\nSpecific courses required for project execution:  Data Analytics, SQL, Statistics, Python for Data Science.\nTitle: IoT and Machine Learning Integration for Smart Applications\nDescription: Integrate IoT and machine learning to create smart systems for predictive maintenance or real-time monitoring.\nSkill sets: IoT system design, data transmission, machine learning model development, cloud storage, Python for IoT and ML integration.\nTraits expectation: Innovation, logical reasoning, troubleshooting, adaptability.\nExpected learning: IoT-ML integration, real-time data processing, deployment on edge devices.\nSpecific courses required for project execution:  IoT and Cloud Computing, ML Algorithms, Python for IoT, Data Processing in IoT.",
   },
   {
     "Station Name": "Binocs - SDE & Machine Learning Intern",
@@ -1135,6 +1356,32 @@ const stations = [
       "Description: CFD analysis using OpenFOAM\nSkill sets: CFD, OpenFOAM /Fluent, basics of fluid mechanics\nTraits expectation:\nExpected learning: OpenFOAM, fluid mechanics\nSpecific courses required for project execution: NA",
   },
   {
+    "Station Name": "iCIMS",
+    City: "Hyderabad",
+    Domain: "Java,Computer Science",
+    Title: "Title: Talent Cloud, Title: Hire (ATS)",
+    Stipend: "100000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:30:00",
+    "Project Details":
+      "Title: Talent Cloud\nDescription: A single, future-fit platform built for talent acquisition and mobility with security in mind\nSkill sets: Java, React, Node & AWS\nExpected learning: Full- Stack Development, AWS, SDLC.\nSpecific courses required for project execution:  Basic Programming skills \nTitle: Hire (ATS)\nDescription: core functionality of ATS and integrated third party apps to enable for smooth hire process\nSkill sets: Java JSP, Reat, Spring boot Microservices.\nExpected learning: Full Stack Developments\nSpecific courses required for project execution: Programming skills & Learning ability.",
+  },
+  {
+    "Station Name": "iCIMS",
+    City: "Hyderabad",
+    Domain: "Java,Computer Science",
+    Title: "Title: Text Engagement",
+    Stipend: "80000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Text Engagement\nDescription: Automate Text conversations to connect with candidates anywhere with AI powered conversational text messages\nSkill sets: Java, react, node & AWS.\nExpected learning: Agile methodologies, Full-stack Java development, AWS.\nSpecific courses required for project execution:  Basic programming skills and principals, zeal to learn",
+  },
+  {
     "Station Name": "Truva (Porch Technologies Private Limited) - NON IT",
     City: "Mumbai",
     Domain: "Management",
@@ -1149,32 +1396,35 @@ const stations = [
   },
   {
     "Station Name":
-      "WILP-Vehicle security penetration testing facility in collaboration with Bosch",
+      "Centre for Effective Governance of India States (CEGIS) -Bengaluru",
+    City: "Bangalore",
+    Domain:
+      "Coding,Data Analysis,Data Analytics,Data Science,Software Development",
+    Title:
+      "Title: Discrepancy Simulator, Title:Project Stock Account system for Bodoland",
+    Stipend: "25000INR",
+    Degree: "A3 A7 A8 AA",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Discrepancy Simulator\nDescription: This software development project aims to create a Digital Public Good which will be used by Civil Society Organizations for sampling design and data analysis. This project will be a continuation of existing work being done.\nSkill sets: Python, Data analytics\nTraits expectation: Attention to detail, analysis, collaboration, curiosity\nExpected learning: Building for scale, DPG\nSpecific courses required for project execution:  Python, C++, Intro to analytics\nTitle:Project Stock Account system for Bodoland\nDescription: The Project Stock Account is an IT system that is developed by CEGIS for the Bodoland Territorial Council. It traces the stock from order to delivery and generates analytics for different layers of Government\nSkill sets: ReactJS, Node, PostgreSQL, Power BI\nTraits expectation: Attention to detail, analysis, collaboration, curiosity\nExpected learning:\nSpecific courses required for project execution: Database, Analytics, ",
+  },
+  {
+    "Station Name":
+      "WILP - ACS & Cyber Security and Pentration Testing , Hyderabad",
     City: "Hyderabad",
     Domain:
       "Electronics,Embedded Systems,Embeded System,Embedding,RTOS and Embedded Systems",
     Title:
-      "WILP-Vehicle security penetration testing facility in collaboration with Bosch",
+      "Vehicle security penetration testing facility in collaboration with Bosch:",
     Stipend: "25000INR",
     Degree: "A7 A3",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "WILP-Vehicle security penetration testing facility in collaboration with Bosch",
-  },
-  {
-    "Station Name": "Intel,Bengaluru",
-    City: "Bengaluru",
-    Domain: "IT",
-    Title: "Hardware Engineer (SoC/IP)",
-    Stipend: "45000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f17:00:00",
-    "Project Details":
-      "Hardware engineer conducts research, definition, design , verification and documents SoC (Systems on chip) development.\n*Performs logic design for intergration cell libraries , functional units, and sub -sysytesm into SCO full chip designs, Register trasnfer level coding and simulation for SoCs.",
+      "·         Students will be working on setting up the pen testing facility with Experts from Bosch.\n·         Penetration testing, or pen testing, is a cybersecurity process where ethical hackers simulate attacks on a system, network, or application to identify vulnerabilities before malicious actors can exploit them. It involves stages like reconnaissance, vulnerability analysis, exploitation, and reporting, each designed to uncover weak points in security defences.\n·         Projects will be based on network security, HAckerRF, Automotive security, Post-quantum cryptography, Hardware Security Modules, Side channel attack etc.\n·         Preferable tools and skills:\nCANoe, CANalyzer, Ghidra, IDA Pro, HackRF, Burp Suite, Nmap, quiskit (IBM)\nIn-vehicle communication protocols CAN, LIN, Ethernet, embedded systems programming (C/C++), firmware analysis, wireless communication security, cryptography, threat modelling, risk assessment, penetration testing, secure coding practices, and application security.",
   },
   {
     "Station Name": "Intel,Bengaluru",
@@ -1252,6 +1502,45 @@ const stations = [
     "Project Details": "-",
   },
   {
+    "Station Name": "AMD,Bengaluru",
+    City: "Bangalore",
+    Domain: "Electronics",
+    Title: "Graphics Engineering",
+    Stipend: "45000INR",
+    Degree: "0",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Description: Strong knowledge in C/C++, Assembly languages and Test development methodologies\nStrong knowledge in Computer/Graphics Architecture, System knowledge\nStrong knowledge in debugging skills and scripting languages\nSkill sets: C/C++/Comp/Graphics Arch, Scripting languages",
+  },
+  {
+    "Station Name": "Carbon Reduction Capital, LLC , Mumbai",
+    City: "Mumbai",
+    Domain: "Investment,Banking",
+    Title: "DD-Continuing",
+    Stipend: "80000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:54",
+    "Office-End-Time": "f20:30:23",
+    "Project Details": "DD-Continuing ",
+  },
+  {
+    "Station Name": "Harman DTS",
+    City: "Bengaluru",
+    Domain:
+      "Digital Content,Digital Marketing,IT Digitilzation,IT Digitization",
+    Title: "HARMAN DTS Global Internship Program",
+    Stipend: "40000INR",
+    Degree: "B4 A4",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "HARMAN DTS Global Internship Program\nInterns at HARMAN can make an impact with real work and network with brilliant\nprofessionals during their time with us. The Harman DTS Specialized Program\nInternship program https://jobs.harman.com/students make sure our interns receive a\nwell-rounded experience in advanced technology and business areas. The interns we\nrecruit bring with them personal attributes such as learnability, leadership capability,\nclient focus, analytical, critical thinking skills, and the ability to communicate your\nideas to technical and non-technical audience. Your responsibilities would include\nbuilding solutions and frameworks in emerging technology and business areas. Ideate\n& create IP, build demonstrable innovative & path breaking PoC, prototypes, products,\nplatforms, accelerators. You will be mentored by Global Product, Technology and\nBusiness Leaders and will drive the development and design of new platforms and\ncapabilities in areas such as Mobility, Advanced Analytics, AI/ML, Quantum Computing,\nCybersecurity, Big Data, Cloud Computing, Internet of Things, 5G, No-code\nLow-code development, Platform businesses, New Business Models, Vertical Specific\nSolutions, Open Innovation, Innovation Crowdsourcing and IP licensing.\n\nProject Descriptions of Technology Internships\n\n© 2022 HARMAN International | services.harman.com\nVideo Patient Monitoring and anomaly detection\nEnhancing patient safety while optimizing resources is a continued area of focus\nfor the global health care environment. Sitters, or one-to-one observers, are\ncommonly used in inpatient settings to meet monitoring needs of high-risk\npatients. Utilizing AI/ML based video analytics technology such as continuous\nvideo monitoring can relieve sitters to allow for optimal productivity, increased\nsafety, cost reduction, and nurse/family satisfaction. The project involves building\nAI/ML driven video analytics module to monitor patients as well as surveillance\nof people in contact with the patient as well as the surrounding facilities. Once\nan anomaly id identified, the system should push them to the nursing staff.\n\nIntelligent Document Processing\nGlobally about 80-90% of all data is unstructured. Insurance companies have a\nlarge and rapidly growing unstructured data content and many of them do not\nhaving the ability to make use of it to take the right business decisions.\nUnstructured content includes Policy Documents, Claims Documents, Annual\nReports, Emails, Broker Submissions, Knowledge Repositories, paper documents\netc. The Intelligent Document Processing engine executes document\npre-processing using image analytics and readies the document for information\nextraction. The extracted data is them analysed using NLP techniques and\ncorrected for errors, thereby ensuring an extremely high degree of data\nextraction accuracy. The engine checks for inter-field validity and flags values that\noccur with low confidence to call for manual intervention.\nHospital Readmission Prediction\nA hospital readmission is when a patient who is discharged from the hospital,\ngets re-admitted again within a certain period such as 30 days, after the\ndischarge. Hospital readmission prediction involves learning from historical\nmedical data to predict probability of a patient returning to hospital in a certain\nperiod after the discharge. The objective is to help health providers improve\nquality of care, deliver better treatment, lower hospital readmission rate, and\nreduce the medical costs. This project aims to achieve Interpretable &\nExplainable Machine Learning results for the following questions:\nHow accurately can we predict hospital readmission?\nWhat factors are the strongest predictors of hospital readmissions in a certain\ndisease category?\n\n© 2022 HARMAN International | services.harman.com\n\nClaims Analytics\nInsurers rely on rule-based engines which raise alerts for Claims fraud in casualty\ninsurance. A large team triages these alerts and select the candidate claims for\nfurther investigation. There is also the problem of False positives, where only a\nsmall percentage of the of the validated claims turn out to be actual fraudulent\nclaims. Businesses can automate the triaging process with AI model validating\nFraudulent claim alerts using multivariate data. Create features from the\nmultivariate data along with the associated claims description (free text). Robust\nmachine learning algorithms to create models with \u003C0.2% false negatives and\nnone of the actual fraudulent claims being missed. Reduce the number of alerts\nto be reviewed by the triage team by 90%. Incorporate model explainability.\n\nSmart Medical Devices Management\nPredictive Intelligence to monitor and predict the health of devices, based on\nusage and log data. The objective is to help the monitoring and maintenance\nteam to get device intelligence data on a regular basis and predict and visualize\nthe data so they can take preventive actions. Key features of the solution include\nDevice Monitoring, Device Health Prediction, Workflow Management,\nOmni-channel support through cloud based always on dashboard. The intern\nwill work on key features of the solution and build descriptive and predictive\nAI/ML models.\n\nCybersecurity Asset Management\nHARMAN Cybersecurity Asset Management Platform helps enterprises keep\ntheir IT systems safe and secure using real-time threat intelligence analytics. The\npatent pending Cybersecurity Asset Management Platform analyses enterprise\nsystems at the hardware, operating system, and application levels to discover\nsecurity vulnerabilities, conduct risk scoring, classification, and automated\nremediation of vulnerabilities. This results in effective vulnerability scans, accurate\ndiscovery of vulnerabilities, enhanced compliance to security policies, reduced\nvulnerability patch response times, faster deviations discovery, reduced false\npositives through risk scoring powered by the cybersecurity intelligence engine,\neffective compliance analysis and reduced costs through automated remediation.\nThis project involves working on key AI/ML modules of the platform including\nrisk scoring, anomaly detection, NLP of vulnerability descriptions and automation\nof remediation.\n\nProject Descriptions of Business Internships\n\nHARMAN Remote Care Platform\nHARMAN Remote Care Platform is a connected care solution that gathers data\nto derive insights, can improve care delivery efficiency, increase patient\nengagement, and influence outcomes in a big way, outside of traditional clinical\nsettings. Our solution can form the backbone of your virtual care strategy with\npatient data collection, contextualization, patient-provider communication,\nmedication adherence, and more in the form of a highly secure, robust, and\nscalable platform. Project objective is to Identify Complementarities for the\nPlatform, identify new use cases, reexamine the current pricing strategy, and\nidentify new Growth levers for the Platform.\n\nHARMAN Mediasuite\nHARMAN Media Suite is an enterprise video content management platform to\nenable immersive webcasts and recorded video assets. It can provide\norganizations with streaming scalability. With a complete solution for Enterprise\nCDN (content delivery network) delivery, organizations can seamlessly optimize\nvideo sharing on their network or choose to leverage best-of-breed third-party\ncontent delivery solutions. The distributed architecture of Media Suite allows up\nto 50,000 web viewers to access it at the same time and supports recording for\nup to one hundred concurrent video sessions and streaming of up to fifty live\nevents. Media Suite also offers tight integration with video conferencing solutions,\nallowing users to playback video-on-demand content into a multiparty meeting\nor conference room. Project objective is to Identify Complementarities for the\nPlatform, identify new use cases, reexamine the current pricing strategy, and\nidentify new Growth levers for the Platform.",
+  },
+  {
     "Station Name": "Nomura - Risk Management - Market Risk role",
     City: "Mumbai",
     Domain: "Finance and Mgmt",
@@ -1262,6 +1551,34 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": "--",
+  },
+  {
+    "Station Name": "ITC Limited, PSPD - Financial Data Analysis, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Finance & IT,Finance",
+    Title:
+      "Title: Financial Data analysis and business insights generation through ML and visualization,",
+    Stipend: "40000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Financial Data analysis and business insights generation through ML and visualization\nDescription: To work on building financial data models for the business to aid decision making of the\nsenior management on critical topics. Developing KPI-target dashboards for showcasing key insights\nand structuring business projects to create high impact/value\nSkill sets: Knowledge of Data analytics in Excel and Python/R, dashboarding in Power BI and a\nstrong Business Acumen. Costing of Manufacturing products and familiarity with Financial terms\nwould help.\nTraits expectation: Passionate about data analysis and finding non-linear relations across business\ndata\nExpected learning: Techno-managerial skill set to analyze business financials and balance sheets\nSpecific courses required for project execution: Open to all – Data analytics, Financial modelling",
+  },
+  {
+    "Station Name": "ITC Limited, PSPD - Financial Data Analysis, Hyderabad",
+    City: "Hyderabad",
+    Domain: "sales,Sales & Marketing",
+    Title:
+      "Title: Sales and Marketing Strategy for a B2B India’s largest Paperboard firm (Domestic + Exports)",
+    Stipend: "40000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Sales and Marketing Strategy for a B2B India’s largest Paperboard firm (Domestic + Exports)\nDescription: To work alongside the Sales and Marketing teams to develop “Data-driven” strategies\nfor sales and marketing for ITC Paperboards in Domestic and International markets. Technical\ninterface with the mill teams for understanding product specifications and meeting customer’s\nexpectations.\nSkill sets: String business acumen, Data analytics skills, Proficient in Excel/Python, Understanding of\nfinancials and sales terminologies is a bonus.\nTraits expectation: Passionate about data driven decision making and insight generation\nExpected learning: Techno-managerial skill set in managing, communicating and developing\nsystems for sales and marketing teams interfacing with the manufacturing and quality teams at\nfactory\nSpecific courses required for project execution: Business and Data analytics, Communication\nskills",
   },
   {
     "Station Name": "Align (Invisalign India LLP) - Release Engineering",
@@ -1288,6 +1605,20 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Pressure drops calculations\nUnderstanding of Control valves and different types of valves\nThermodynamic Calculations\nP&IDs\nInstruments Engineer\n\nDifferent type of instruments for flow , pressure and transmitter measurements\nFlow Transmitters calculations\nUnderstanding of Configuration of Controls of Waste heat Power Plants\n\nMechanical Engineer\n\nTitle: explore and develop energy generation , storage technologies\nDescription: Explore , design and development of technologies in new energy generation & storage\nSkill sets: Thermal cycle buildup , FEA , Matlab\nTraits expectation: Self-motivated, agile growth mindset\nExpected learning: Develop skills in energy field\nSpecific courses required for project execution: Thermodynamics / Thermal cycle buildup , strength of material , Awareness of global\nenergy transition technologies in generation & storage, Fluid Mechanics\n\nMechanical Engineering\n/Manufacturing\nEngineering\n\nTitle: Design to manufacture through Additive manufacturing\nDescription: Additive Manufacturing Design\nSkillsets –Finite Element Analysis , MATLAB\nTraits expectation: Self-motivated, agile growth mindset\nExpected learning: Develop skills in additive manufacturing suitable designs\nSpecific courses required for project execution- Additive Manufacturing , Materials , strength of material , Manufacturing Process\n\nComputer Engineering\n/Mechanical Engineering\n\nTitle: Digital Twin\nDescription: Digital Twin of rotating components\nSkillsets : Fortran , Machine Learning-Python , Haskell, MATLAB\nTraits expectation: Self-motivated, agile growth mindset\nExpected learning: ML hands on experience\nPreferable Skillset – Fortran , Machine Learning-Python , Haskell, MATLAB , Vibrations\n\nMechanical Engineer\n\nPassionate about Thermal Engineering\nGood fundamental concept about Thermodynamics, principles\nKnowledge of Steam Turbines, heat exchangers for power plant cycle applications, including surface condensers, oil coolers (shell\nand tube type), air coolers, and plate heat exchangers. ORC cycle for waste heat recovery systems\nData Analysis and interpretation of designed v/s actual performance of steam turbines\nEvaluation of Train based on lateral and Torsional analysis\nAdaptability to work on different tool chain\nUsing database for data evaluation of heat exchangers\n\nMechanical Engineer\n\nLearn about steam turbine design principles and their application in real-world projects.\nConverting thermal calculations into detailed construction drawings for components such as inner casings, diaphragms, shafts, blades,\nand sealing shells.\nGain experience in reverse engineering and translating site measurements into manufacturing drawings to ensure accurate fit and\nfunction.\nContribute to the quality control of documentation and drawings to meet design and construction requirements.\nConduct FEA simulations for static, transient, linear, nonlinear, fatigue, and thermal analyses.\nInterpret FEA results and propose design changes to optimize component performance.\nDocument FE calculations in the form of structural integrity design reports.\n\nMechanical Engineer\n\nSupervises production activities according to established quality standards and EHS requirements.\nEnsures adherence to defined manufacturing guidelines, processes and procedures.\nContributes to production planning processes, and determines manufacturing priorities based on established weekly production\nschedules. Makes daily assignments, and assigns work and tasks to the member of the production group.\nInterprets specifications and makes judgments about the acceptability of production that is in process.\nProposes procedures improvements and implements technical infrastructure.\nLeads and supervises assigned Production Technicians, Operators and workers.\n\nMechanical Engineer\n\nGood Understanding and knowhow of Manufacturing drawings and Techniques Manpower Handling on Shop floor\nFamiliarity with digitalization and automation techniques for shop floor\n\nMechanical Engineer\n\nInnovation in conventional 3D scanning & reverse engineering methodologies for Modernisation & Upgrades job of Old oOEM assets\nfor efficiency improvement.",
+  },
+  {
+    "Station Name": "VINJEY Software Systems Pvt. Ltd., Bengaluru",
+    City: "Bengaluru",
+    Domain: "Multimedia Software,Audio Signal Processing",
+    Title:
+      "Title: Porting and Optimization of Audio Codecs on ARM, RISC-V and RX MCUs",
+    Stipend: "40000INR",
+    Degree: "A3 A7 A8 AA",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Porting and Optimization of Audio Codecs on ARM, RISC-V and RX MCUs\n\nDescription: Work involves three phases\n1. E2A (Literature Survey and Case Study): In this phase, Intern will be asked to do following\n• Perform literature survey on topics provided by reviewing materials available from the\nCompany and other sources\n• Synthesis of ideas and organizing them in a logical and coherent fashion in form crisp\nnotes on the subject (Notes.pdf)\n• Document the findings as a technical brief that can be published to the external world\n(tbrief.pdf)\n• Solve the identified quiz, problem set and lab projects to demonstrate clarity on the\ntopics provided.\n\n2. E2B (Performance Library): In this phase, Intern will be asked to optimize signal processing\nalgorithms available in Performance libraries like ARM CMSIS-DSP, Intel MKL and meet/beat\nthe performance of functions provided by Silicon Vendors.\n\n3. E3 (Production): In this phase, Intern will be asked to optimize 2 to 3 codecs on ARM, RISC-\nV and RX MCU platforms. Base code which need to be optimized will be provided by the\n\nCompany.\nDuration for Phase 1 and 2 is 2 months and Phase 3 is for 3 months.\nSkill sets:\n1. Programming: Proven low level programming skills in C and Assembly and High level\ndesign/programming Matlab or Python.\n2. Theory: Strong foundational knowledge in Computer Architecture and Digital Signal\nProcessing.\n3. Writing: Ability to author technical briefs/papers that can be published and write crisp notes\nthat assist future work.\n4. Reading: Ability to read graduate level text books in Computer Architecture, Digital/Audio\nSignal Processing and Audio Coding and solve problems provided in it. Ability to read\nIEEE/ACM Papers and implement ideas noted in them.\nTraits expectation:\n1. Communication: Can articulate the work product and issues in a way that fosters team work\nand win-win for all parties.\n2. Time Management: Deliver tasks assigned to them on time and quality.\nExpected learning:\n1. Algorithms in Signal Processing/Audio Coding\n2. Performance Engineering in MCUs",
   },
   {
     "Station Name": "Druva Data Solutions Pvt. Ltd , Pune",
@@ -1326,19 +1657,6 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Project 1 Title:Business Analytics Interns\n\nDescription:\nStudents will be working with the Analytics team at Flipkart. Please refer to the\nJD for more info\nJD Link:\nhttps://drive.google.com/file/d/1PcyklYuLRAXE7zXixKdWfcGNi-Zhu7bl/view?\nusp=sharing\nSkill sets: Analytical knowledge (R/Python/SQL,etc)\nExpected learning:\n? Being part of the Central Analytics Organization at Flipkart, you get an\nopportunity to work on a diverse set of problems that cut across\nMarketing, Consumer as well as Seller Facing Products on Web &\nMobile, Pricing, Customer, various Business Categories, end-to-end\nSupply Chain, Customer Support & so on.\n? The ability to see what your contribution does to the business\nSpecific courses required for project execution: Single Degree or Dual degree\nAny (most preferred option)",
-  },
-  {
-    "Station Name": "Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",
-    City: "Bengaluru",
-    Domain: "Business Analyst,Business Analysis",
-    Title: "Business Analytics",
-    Stipend: "50000INR",
-    Degree: "AB A8 AA A7 A4 A5 A3 A2 B4 A1",
-    Holidays: "Saturday",
-    "Office-Start-Time": "10:00:49",
-    "Office-End-Time": "f18:00:08",
-    "Project Details":
-      "Students will be working with the Analytics team at Flipkart. Please refer to\nthe JD for more info\nJD Link:\nhttps://drive.google.com/file/d/1PcyklYuLRAXE7zXixKdWfcGNi-Zhu7bl/vie\nw? usp=sharing\nSkill sets: Analytical knowledge (R/Python/SQL,etc)\nExpected learning:\n? Being part of the Central Analytics Organization at Flipkart, you get\nan opportunity to work on a diverse set of problems that cut across\nMarketing, Consumer as well as Seller Facing Products on Web &\nMobile, Pricing, Customer, various Business Categories, end-to-end\nSupply Chain, Customer Support & so on.\n? The ability to see what your contribution does to the business\nSpecific courses required for project execution: Single Degree or Dual degree",
   },
   {
     "Station Name": "PRATT & WHITNEY",
@@ -1568,6 +1886,32 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Description:\nThis project aims to give interns practical experience in managing and improving customer service\nstandards within a diverse, multi-industry organization. Interns will handle customer inquiries, analyze\nfeedback, and develop strategies for enhancing customer satisfaction across healthcare diagnostics,\nmanufacturing, and travel-related healthcare services. Key tasks include managing multi-channel\ncommunication, analyzing customer feedback, and collaborating with cross-functional teams to\npropose service improvements.\nSkill sets:\n• Strong communication and interpersonal skills\n• Basic understanding of customer service principles\n• Familiarity with CRM systems or willingness to learn\n• Analytical skills for data interpretation\n• Adaptability to different industries and regions\n• Team collaboration abilities\nTraits expectation:\n• Empathy: Ability to understand customer needs and provide compassionate service.\n• Proactivity: Eager to take initiative and resolve issues independently.\n• Adaptability: Flexibility to work with diverse teams across regions and industries.\n• Attention to Detail: Accuracy in recording and analyzing customer interactions.\n• Problem-Solving Orientation: Eagerness to find practical solutions to customer concerns.\nExpected learning:\n• Mastery of customer service operations across multiple industries and regions.\n• Proficiency in handling multi-channel communication, including social media, email, and\nphone.\n• Practical experience in analyzing customer feedback and identifying trends.\n• Familiarity with compliance requirements in healthcare, manufacturing, and travel.\n• Real-world experience in collaborating with cross-functional teams to implement service\nimprovements.\nThis internship program provides a comprehensive foundation in global customer service\nmanagement, enabling interns to contribute effectively to an organization’s customer service\nexcellence across industries.",
+  },
+  {
+    "Station Name": "Synergiz Global Services Pvt Ltd",
+    City: "Hyderabad",
+    Domain: "Computer Science,Java,SQL",
+    Title: "Project 1 Title: Client Management System,",
+    Stipend: "15000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Project 1\nTitle: Client Management System\nDescription: Manage new tenders, client contacts, BD visits, sales strategy using IT platform build on Javascript, MS SQL.\nSkill sets: Java development, MS SQL database\nTraits expectation: ability to learn & understand the coding using e-learning tools\nExpected learning: Develop complete app from UI to backend development. Discuss with teams to understand requirements and prepare business process document.\nSpecific courses required for project execution: Java & Database",
+  },
+  {
+    "Station Name": "Synergiz Global Services Pvt Ltd",
+    City: "Hyderabad",
+    Domain: "Machine Learning,Python",
+    Title: "Title: OCR Recognition tool",
+    Stipend: "15000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: OCR Recognition tool\nDescription: In infrastructure industry, every day 1000s of letters are scanned and stored in document management system. We would like to read those scanned letters, use AI & ML to bring out the summary and key contractual clauses from the letter to provide quick analysis and outcomes to Project Experts\nSkill sets: Machine Learning, Image Processing, Python or Tensorflow\nTraits expectation: knowledge of Python is required\nExpected learning: learn how to handle complex images reading and text recognition challeges\nSpecific courses required for project execution: Python, Machine Learning",
   },
   {
     "Station Name": "Nirmaan (Stratos Infra Technologies Pvt Ltd.)",
@@ -1800,6 +2144,19 @@ const stations = [
     "Project Details": "RIGI - NON TECH",
   },
   {
+    "Station Name": "Weekday (Dayworks pvt ltd), Bengaluru",
+    City: "Bengaluru",
+    Domain: "Computer Science,MS Office,SQL",
+    Title: "Growth initiatives",
+    Stipend: "20000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "What will you work on?\nThe growth team at Weekday engages with ~20,000 companies every week across various growth initiatives, and this number is consistently growing. Your primary job will be to help us grow this number through hands-on execution of initiatives that are provably working.\nYour typical week might look like this in the initial months:\n1. Discovering job boards and platforms where companies that fit our ICP are hiring from\n2. Researching companies and openings to identify whether or not they are a good prospect for us\n3. Identifying relevant PoCs at target companies, enriching lead lists with their contact information, and processing prospect data\n4. Preparing and sending ad-hoc outbound campaigns\n5. Regularly monitoring fundraising activity and emerging startups to identify prospects\n6. Maintaining a record of growth experiments and related metrics to ensure visibility and trackability\n7. Ad-hoc operational tasks to keep the growth engine running\nYou will be a good fit if:\n1. You have 6-12 months of experience in a startup environment and are looking to dive deeper into hands-on execution in a fast paced setup. If you’re an exceptional fresh grad, we are flexible.\n2. You can work with basic SQL queries and are tech-savvy enough to quickly learn how to use tools like Airtable, Sendgrid etc.\n3. You have high ownership and the ability to work efficiently and get things done.\n4. You are able to work with high operational rigour and attention to detail",
+  },
+  {
     "Station Name": "ProteanTecs - Electronic Design Automation",
     City: "Bengaluru",
     Domain: "Semiconductor Physics, VLSI,VLSI Design",
@@ -1940,6 +2297,44 @@ const stations = [
     "Project Details": "WILP Project",
   },
   {
+    "Station Name": "Petasense Technologies Pvt. Ltd",
+    City: "Bengaluru",
+    Domain: "Web Development",
+    Title: "Web Development",
+    Stipend: "50000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f18:30",
+    "Project Details": "Web Development",
+  },
+  {
+    "Station Name": "Petasense Technologies Pvt. Ltd",
+    City: "Bengaluru",
+    Domain: "Firmware",
+    Title: "Petasense Device Firmware",
+    Stipend: "50000INR",
+    Degree: "A3 A7 AA A8",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f17:30",
+    "Project Details":
+      "Do you love tinkering with your Raspberries or Arduinos? We are looking for minds who can help us build the next generation of IoT solutions at Petasense(first 25 employees). Critical to it is building world-class IoT devices running fast, efficient, smart and power-saving software. You'll have the opportunity to define, drive and execute some of the most interesting problems in IoT involving latest Connectivity technologies, Machine Learning, Edge Computing, Embedded software stacks.?\nSkill sets:\nC/C++ Programming, Real-time operating systems, Microcontrollers\nTraits expectation:\nSincere, team spirit and interest in research\nExpected learning:\nAn embedded software intern learns to develop efficient, reliable code for specialized hardware, navigate debugging challenges, collaborate effectively with cross-functional teams, and adapt quickly to new technologies and project requirements.\nSpecific courses required for project execution: \nOperating Systems, Networking",
+  },
+  {
+    "Station Name": "Petasense Technologies Pvt. Ltd",
+    City: "Bengaluru",
+    Domain: "Data Science",
+    Title: "Petasense ARO Cloud - Data Science",
+    Stipend: "50000INR",
+    Degree: "A7 A8 A3 AA",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "09:30",
+    "Office-End-Time": "f17:30",
+    "Project Details":
+      "You will work closely with our lead data scientist to experiment different models for various ML use cases in Predictive maintenance space . You will also get to work on the latest technologies in machine learning.\nSkill sets:\nPython programming with Machine learning foundational knowledge.\nTraits expectation:\nSincere, team spirit and interest in research\nExpected learning:\nIn a data science internship, you'll gain hands-on experience in data manipulation, statistical analysis, machine learning, and effective communication while collaborating in a team environment to solve real-world data challenges.\nSpecific courses required for project execution: \nData-structures & Algorithms, Object-Oriented Programming, DBMS",
+  },
+  {
     "Station Name": "National Centre for Biological Sciences (NCBS) ,Bengaluru",
     City: "Bangalore",
     Domain: "Health Care",
@@ -1978,7 +2373,7 @@ const stations = [
   },
   {
     "Station Name": "WCB Robotics India Pvt Ltd - Mechanical",
-    City: "Kondapur",
+    City: "Hyderabad",
     Domain: "Mechanical",
     Title: "Details awaited",
     Stipend: "32500INR",
@@ -2005,13 +2400,14 @@ const stations = [
     "Station Name": "Tectonic Technologies Inc - Software Engineering",
     City: "Bangalore",
     Domain: "IT",
-    Title: "Details awaited",
+    Title: "Title: SDE Intern",
     Stipend: "60000INR",
     Degree: "A7",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
-    "Project Details": "-",
+    "Project Details":
+      "Title: SDE Intern\nDescription: As part of our software engineering team, you will work on\ncutting-edge front-end technologies to create performant storefronts for various\nD2C brands. You will leverage agentic frameworks and Gen AI to dynamically\ncreate various UI components and scale up our onboarding process.\nSkill sets:\n1. A solid foundation in Computer Science\n2. Good programming skills (Python, Javascript, Typescript, etc.)\n3. Familiar with working on Linux/MacOS operating systems.\n4. Working knowledge of Git, Postman, REST APIs, VS Code, Docker, etc.\nTraits expectation:\n1. Initiative: Demonstrate strong work ethic and drive to achieve personal\nand team goals\n2. Resourcefulness: Seeking out resources and learning opportunities\nindependently, researching the problem and using online resources.\n3. Willingness to learn: Strong desire to learn new technologies, grasp new\ntechnologies and be open to feedback.\nExpected learning:\n1. Understand production-grade software engineering practices\n2. Witness the growth and journey of an early-stage tech startup.\n3. Real-world application of theoretical knowledge\n4. Exposure to cutting-edge technology around Gen AI\nSpecific courses required for project execution:\n1. Data Structures\n2. Programming\n3. Algorithms\n4. Operating Systems",
   },
   {
     "Station Name": "Salesforce",
@@ -2285,16 +2681,18 @@ const stations = [
     "Project Details": "-",
   },
   {
-    "Station Name": "WILP- Intelligent systems lab",
+    "Station Name":
+      "WILP- Intelligent systems / AI/ML / Cyber Intelligence, Hyderabad",
     City: "Hyderabad",
     Domain: "Computer Science",
-    Title: "WILP-Intelligent systems lab",
+    Title: "WILP- Intelligent systems / AI/ML / Cyber Intelligence,",
     Stipend: "25000INR",
     Degree: "A7",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
-    "Project Details": "WILP-Intelligent systems lab",
+    "Project Details":
+      "·         Project based on SR GAN, Synthetic data generation, intelligent Chat boat for query resolution, intelligent search and path planning, AIML use-cases in Automotive (AI for enhanced manufacturing and supply chain optimization)\n·         Preferable tools and skills: AICI, Deep Learning, Computer Vision, NLP and RNNs",
   },
   {
     "Station Name": "RIGI - Strategy",
@@ -2355,7 +2753,7 @@ const stations = [
     Domain: "Computer Science",
     Title: "Title: Data Engineering Interns",
     Stipend: "100000INR",
-    Degree: "A7 AA A8 B4",
+    Degree: "A7 AA A8 B4 A3",
     Holidays: "Sunday,Saturday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
@@ -2405,6 +2803,20 @@ const stations = [
       "Title:Platform enhancements to improve end to end delay\nDescription:Hevo Platform aims to reduce the overall replication delay to \u003C5mins.\nThis will be a major architecture improvement to support these limits.\nSkill sets: Java, Dropwizard, Junit, Mysql\nExpected learning: Understanding of Hevo Platform, Java and JUnit, REST APIs\nand ETL\nSpecific courses required for project execution:\nProject 2 Title: Cost optimisation of Destination Loads\nDescription: In order to become the best ETL solution of choice, it is important for\nus to make sure that Destination Loading is optimised to be as economical as\npossible for the end user. This project aims to accomplish few of those features in\nthe product.\nSkill sets: Java, Dropwizard, Junit, Mysql\nExpected learning:Understanding of Hevo Platform, Java and JUnit, REST APIs\nand ETL\nSpecific courses required for project execution:",
   },
   {
+    "Station Name": "Ekibeki India Private Limited",
+    City: "Mumbai",
+    Domain: "Management",
+    Title:
+      "Bamboo Project Implementation /Market entry strategy for Bamboo handicraft products",
+    Stipend: "20000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Description: Ekibeki intends to enter into Bamboo handicraft products. A broad strategy has been created. We expect the student to work on fine tuning it and implementing it. Details attached.\nSkill sets: Analytical Skills, Initiative and Communication Skills\nTraits expectation: Hard working, self starter, passionate\nExpected learning: Building a new business from the ground up\nSpecific courses required for project execution:  Nothing in particular. If they have studied a bit of business or entrepreneurship that is a bonus\nObjective: Creating a strategy and business plan for bamboo handicraft products. Articulating a bold and ambitious vision for Bamboo – for the next 5 years.\n\nKey Activities: \n\nRaw Material & Artisanal Cluster Analysis\nIdentifying the specific bamboo species suited for handicrafts and the regions in India where the required bamboo varieties are abundantly available for viable production. \nEvaluate & choose a suitable artisanal production cluster with the relevant experience and knowledge to build & grow.\n\nMarket Building\nStudy existing bamboo-based businesses in India and abroad. Understand their strengths, weaknesses, product and market positioning.\nIdentifying the target products to manufacture basis its market volume and value, including both domestic and international markets. \n\nDesign and Prototyping\nEvaluate what types of bamboo products fit with artisan-centric model. \nDeveloping prototypes to run small-scale tests to ensure the feasibility and market appeal of products.\n\nProduction and Manufacturing\nResearch various treatment methods and identifying the types of machinery, costs, and labour required for processing bamboo into the desired form.\nMap out the production process from raw bamboo to the final product, detailing artisanal labour requirements, process time, and energy use.\nDevelop quality control standards for bamboo products. Include testing for durability, finish, and design precision. \n\nDistribution and Logistics\nIdentify potential distribution channels for bamboo products and planning out the logistics for transporting raw materials and finished products. \nDetermine warehousing facilities for storing raw materials and finished products.\n\nMarketing and Sales\nDefine how to position bamboo products in the market and develop marketing content around these themes.\nExplore partnerships with organizations that promote eco-friendly and sustainable products, or with other companies in the bamboo ecosystem to build brand awareness and attract customers.\nDevelop a pricing strategy based on production costs, market demand, and competition and plan how you will sell the products.\n\nLegal and Regulatory Compliance\nResearch on government policies or regulations regarding bamboo cultivation, production, and trade, both domestically and internationally.\nBuilding the necessary certifications (like FSC certification for sustainable sourcing) for both domestic and international markets.\n\nFinance and Economics\nOutline the entire cost structure, from raw material procurement to processing, production, marketing, and distribution.\nIdentify revenue streams, including direct sales, export opportunities, and potential collaborations or B2B sales.\nPerform a break-even analysis to project profitability over different time horizons\nIdentify potential sources of funding or investment for scaling up.\n\nSustainability and Impact\nAssess how the business will contribute to sustainability and a positive environmental footprint.\nDetail how expanding into bamboo products will positively affect the community\nEnsure ethical production practices and fair compensation for artisans.",
+  },
+  {
     "Station Name": "AquaCarta ( partnered by Waterlife India ) - StartUp",
     City: "Hyderabad",
     Domain:
@@ -2417,6 +2829,33 @@ const stations = [
     "Office-End-Time": "f17:00:00",
     "Project Details":
       "Description: Detailed Business plan for water mapping \nSkill sets: Satellite imagery, Business plan,  finance, marketing\nTraits expectation: Entrepreneurial, positive, high energy, willing to learn \nExpected learning: Will learn how to make a business / company from scratch\nSpecific courses required for project execution: Business, Marketing, Finance",
+  },
+  {
+    "Station Name":
+      "Centre for Effective Governance of India States (CEGIS)- Hyderabad",
+    City: "Bengaluru",
+    Domain: "Data Science,Statistics,Economics",
+    Title:
+      "Project 1 Title: Telangana School Education Project, Project 2 Title: Telangana School Education Project, Project 3 Title: Telangana Early Childhood Development Project",
+    Stipend: "25000INR",
+    Degree: "B3",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Project 1\nTitle: Telangana School Education Project\nDescription: Provide analytical support for various school education initiatives, including fostering a culture of data-driven decision-making, assisting with school reorganization, and evaluating school education schemes and policies.\nSkill sets: Data Analysis, data visualization and must have working knowledge of STATA or R\nTraits expectation: Committed, dependable and willing to learn\nExpected learning: Gain a deeper understanding of the school education sector, develop expertise in generating insights from large datasets, enhance skills in analyzing and interpreting educational data.\nSpecific courses required for project execution: NA \nProject 2\nTitle: Telangana School Education Project\nDescription: Conduct Secondary Research for various school education schemes and policies across various states and Govt. of India.\nSkill sets: Secondary Research and must have working knowledge of documentation / creating Presentations\nTraits expectation: Committed, dependable and willing to learn\nExpected learning: Develop skills in creating concept notes, policy briefs, and other strategic documents, gain insights into educational policies and frameworks.\nSpecific courses required for project execution: NA\nProject 3\nTitle: Telangana Early Childhood Development Project\nDescription: Project implementation support of the Supportive Supervision app rollout in the state.\nSkill sets: Documentation, Advanced Excel, Basic data analysis.\nTraits expectation: Willingness to learn, Awareness of the Anganwadi ecosystem, (preferred: Telugu speaking)\nExpected learning: Project management and implementation, learning about the early childhood development sector, data analysis.\nSpecific courses required for project execution: Writing, Advanced Excel, and Data analysis",
+  },
+  {
+    "Station Name": "Arista Networks India Private Limited, Pune",
+    City: "Pune",
+    Domain: "CSIS/IT",
+    Title: "FD Lock",
+    Stipend: "75000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details": "FD lock",
   },
   {
     "Station Name": "DBOI- CRDU, Pune",
@@ -2569,7 +3008,7 @@ const stations = [
     Domain: "Infrastructure",
     Title: "Civil, Mech and Electrical project",
     Stipend: "0INR",
-    Degree: "A2 A4 A3 A8 AA",
+    Degree: "0",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -2618,6 +3057,19 @@ const stations = [
       "Title: Applied Data Science Intern\nDescription: Join us in building data-driven solutions that empower farmers and support financial and digital inclusion in agriculture and dairy. As an intern, you will work with diverse data sources to assist in creating robust, scalable systems. Projects will include data preparation, applying AI models, and designing end-to-end pipelines to solve real-world problems.\nSkill sets:\nProgramming: Python, SQL\nMachine Learning: Fundamentals in supervised and unsupervised learning\nData Engineering: Data cleaning, feature engineering, and ETL processes\nVisualization: Ability to present insights using tools like Matplotlib, Seaborn, or Power BI\nTraits expectation: \nStrong analytical skills and problem-solving mindset\nCuriosity and eagerness to learn and apply new techniques\nAbility to communicate technical findings effectively\nAttention to detail, especially with data accuracy and integrity\nProven work/internship experience of at least 3 months in Data Science will be preferred\nPrevious experience with AI/ML will be preferred\nExpected learning:\nHands-on experience with building and deploying data science pipelines\nPractical experience with model training, evaluation, and optimization\nUnderstanding of the data lifecycle within applied Agritech and digital inclusion projects\nWill work with cross functional teams to understand different ways to use data \nChance to work full time at BharatMandi\nSpecific courses required for project execution: \nMachine Learning and AI fundamentals\nData Engineering and ETL Processes",
   },
   {
+    "Station Name": "MSCI - Real Estate Index Management Research,Mumbai",
+    City: "Mumbai",
+    Domain: "Python,Statistics",
+    Title: "Project 1 Title: Real Estate Index Management Research",
+    Stipend: "60000INR",
+    Degree: "A7 B4 B3",
+    Holidays: "Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Project 1\nTitle: Real Estate Index Management Research\n\nDescription: Creation and maintenance of MSCI Real Estate Indexes; Annual representativeness study on Global Real Estate Market Sizes, Develop automation based solution for simulating new product / index research methodologies.\n\nSkill sets: Advanced excel / PowerBI skills, Advanced coding skills (Python/R/SQL), excellent spoken/written communication skills, Proficiency in understanding financial metrics / reports to work on market size research.\n\nTraits expectation: Good communication and reasoning skills; ability to analyze large volumes of data and derive actionable insights from it\n\nExpected learning: Real Estate domain knowledge, Application of programming to real world problems, Solutioning towards enhancement of index quality through tactical IT based tools.\n\nSpecific courses required for project execution: A7, B3, B4",
+  },
+  {
     "Station Name": "Max Trans Tech Limited, Non Tech ( MPCL )",
     City: "Gurgaon",
     Domain: "Finance,Economics",
@@ -2644,6 +3096,19 @@ const stations = [
     "Project Details": "Amazon - ASIC project",
   },
   {
+    "Station Name": "Ernst & Young L.L.P.,Bangalore",
+    City: "Bengaluru",
+    Domain: "Finance",
+    Title: "Complex Securities Valuation",
+    Stipend: "38000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "08:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "Description: Develop models to value a variety of financial instruments and to study various business situations, using option pricing theory, fixed income and structured finance models, Monte Carlo simulation, statistical analysis, optimization, decision analysis and other techniques from the financial engineering or decision sciences literature.\nSkill sets: Excel, VBA , Python (Preferred)\nExpected learning: Understanding of securities and valuation\nSpecific courses required for project execution: Fundamentals of Finance, Business Analysis and Valuation, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Microeconomics, Financial Engineering, Econometrics + Math I + Math II and Math III",
+  },
+  {
     "Station Name": "ValetEZ - Electronics",
     City: "Bengaluru",
     Domain: "AI & ML,Website Development,Circuit Design",
@@ -2658,7 +3123,7 @@ const stations = [
   {
     "Station Name": "Adobe Research",
     City: "Bangalore",
-    Domain: "Artificial Intelligence,Computer Science",
+    Domain: "Artificial Intelligence,Computer Science,Machine Learning",
     Title: "Efficient Systems for Generative AI and Agentic Frameworks",
     Stipend: "100000INR",
     Degree: "A7 A3 A8 AA",
@@ -2734,18 +3199,6 @@ const stations = [
     "Project Details": "-",
   },
   {
-    "Station Name": "GE Vernova Advanced (BANGALORE/NOIDA/HYDERABAD)",
-    City: "Bengaluru",
-    Domain: "Mechanical",
-    Title: null,
-    Stipend: "45000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:30:14",
-    "Office-End-Time": "f18:00:25",
-    "Project Details": null,
-  },
-  {
     "Station Name": "Arista Networks India Private Limited,Bengaluru",
     City: "Bengaluru",
     Domain: "CSIS/IT",
@@ -2794,20 +3247,6 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
     "Project Details": "-",
-  },
-  {
-    "Station Name": "Immensitas Pvt. Ltd. (Lemnisk)",
-    City: "Bengaluru",
-    Domain:
-      "Backend Development,Back end,Big Data Analytics,Front end,Frontend Dev.",
-    Title: "Events Backend",
-    Stipend: "35000INR",
-    Degree: "A3 A7 A8 AA",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "10:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details":
-      "Feature developments with respect to millions of events being received in real time and processing and modification and storing of those in real time.\nLanguage: Java. DB: NoSQL, MySQL\nExpected Learning :\nProduction scale Software development\nPersonal development in terms of how to scale things\nwith millions of events in production",
   },
   {
     "Station Name": "Immensitas Pvt. Ltd. (Lemnisk)",
@@ -3007,7 +3446,7 @@ const stations = [
     "Project Details": "UBS - Reporting and Analytics, Project",
   },
   {
-    "Station Name": "Apple-Machine Learning-BPR team",
+    "Station Name": "Apple- SW-BPR",
     City: "Bengaluru",
     Domain: "AI & ML,Machine Learning",
     Title: "Selected through interview",
@@ -3098,19 +3537,6 @@ const stations = [
   {
     "Station Name": "HSBC - Analyst",
     City: "Gurgaon",
-    Domain: "Finance and Mgmt",
-    Title: "-",
-    Stipend: "65000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f17:00:00",
-    "Project Details":
-      "? The resumes will be sent to the organization. Organization will select students on the basis of test and interaction.\n? Selected students should not drop out at the later stages.\n? If a student is applying for more than one station through this notice process and gets selected in both, then final station allotment will be decided by PSD keeping other constraints in view. The decision of Dean, PS is final in this regard.\n? Students already placed through campus placement with a conditional PS (HD) are not eligible to apply. Also, if a student is applying for HSBC and also simultaneously sitting for campus placement later and gets conditional PS, PSD will take a final call depending on the allotment scenario. Students are strongly advised to keep the PSD office posted in case of any developments.",
-  },
-  {
-    "Station Name": "HSBC - Analyst",
-    City: "Gurgaon",
     Domain: "Finance",
     Title: null,
     Stipend: "65000USD",
@@ -3119,18 +3545,6 @@ const stations = [
     "Office-Start-Time": "09:30:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": null,
-  },
-  {
-    "Station Name": "HSBC - Analyst",
-    City: "Gurgaon",
-    Domain: "Data Science,Machine Learning",
-    Title: "HSBC Data Analyst",
-    Stipend: "65000INR",
-    Degree: "0",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:30:57",
-    "Office-End-Time": "f18:00:09",
-    "Project Details": "1",
   },
   {
     "Station Name": "Victoria's Secret",
@@ -3146,13 +3560,13 @@ const stations = [
       "TEAM:\n\nThe Enterprise Data Sciences & Analytics is an upstart CoE team, incubated within Victoria’ Secret & CO. (VS&Co), building the best-in-class suite of Data Science & Analytics Products that power the best shopping experience for our customers, and deliver actionable, customer-centric insights to our ecommerce, marketing, merchandising and supply chain teams enabling better business decisions on omni channel (digital + store) 360 performances.\nPURPOSE\n\nThe intern data scientist will work with a data science mentor and play a key technical role in analysing large data sets to develop custom models and algorithms to drive business solutions:\n\nYou would be building machine learning models on any of the below areas:\n\n\nA/B testing, measurement frameworks & Causal modelling,\n\nNLP, LLMs & embeddings, GenAI chat-bots,\n\ntime-series forecasting & anomaly detection,\n\noptimization and recommendation systems.\n\n\nYou have a deep interest and passion for technology. You love writing and owning codes and enjoy working with people who will keep challenging you at every stage. You have strong problem solving, analytic, decision-making, and excellent communication with interpersonal skills. You are self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities.\n\nYou will work directly on the AI problems that have the most impact on VS&Co's digital e-commerce, omni-channel, entire supply chain, forecasting, and merchandising.\n\nRESPONSIBILITIES\n\nAn Intern Data Scientist will work very closely with a data science mentor and would be responsible for building data science and machine learning solutions for our business problems across e-commerce, finance, store operations, logistics, and supply chain. \nResearch and propose innovative statistical/ML models to address the requirements. \nTarget and formulate various problems in terms of key business metrics and measure the impact of the built ML techniques. \nAnalyze data for trends & patterns and interpret data with a clear objective in mind. \nDevelop, deploy ML/DL models in production or help develop a platform to facilitate the same. \nWork closely with the Engineering team to take Data Science projects to production. \nCommunicate progress/findings to relevant stakeholders. \nKeep updated with emerging technologies in AI/ML. \nEDUCATION\n\nB.S. degree in Computer Science, Mathematics, Statistics\n\nSKILLS / EXPERIENCE\n\nKnowledge of the foundations of machine learning and statistics. Familiarity with statistical methods such as hypothesis testing, forecasting, time series analysis, etc. (required). \nExperience with SQL, Python (Required). Experience with PySpark, Snowflake and Rest/Fast APIs (Preferred) \nExperience in Machine Learning, Deep Learning or Engineering aspects of ML model deployment (Required). \nHas or pursuing Bachelor’s/Master’s/PhD degree in Computer Science, Statistics, Applied Mathematics, or related discipline (Preferred) \nExperience of working on optimization problems - linear/nonlinear programming, (meta)heuristics for solving optimization problems (Preferred) \nProficiency in data analysis, mathematics/probability, and statistical analysis (Required). Past Data Science project experience (Preferred) \nShould be comfortable multitasking and working in a dynamic, fast-paced environment. \nEffective communication of DS requirements and dissemination of right knowledge to relevant stakeholders \nMost importantly, an inquisitive mind, an ability for self-learning and abstraction, along with a risk appetite for experimentation and failure. \n\nPERSONAL CHARACTERISTICS\n\n\nWe love open source! Many of our team members contribute to open source communities and get to do it during work time. We try to contribute back to our communities where we can and are grateful to be able to open source some of our own projects!\n\nUnique individuals that are innovators\n\nHighly energized personality with a positive attitude and ability to work with minimal supervision, prioritize, multi task and work under tight timelines\n\nWe value diversity. We believe that diversity and inclusion is of core importance when try to create positive in-store experiences for our guests, and we think it is also critically important when building our teams. Read more about our commitment to diversity and inclusion.\nMachine Learning, Python, Big Data Skills, R, Statistics\n\nADDITIONAL QUALIFICATIONS\n\nGood to have projects experience in any of the below areas:\n\ncustomer analytics, market-mix models, cross-selling/upselling models,\nLLMs, NLP systems, chat-bots\ncausal models, measurement frameworks, A/B testing\nrecommendation systems\nsupply chain planning systems\nML engineering, MLOps practices, experience designing algorithms at scale and end-to-end model-development Lifecycles",
   },
   {
-    "Station Name": "Texas Instruments-Embedded, Bengaluru",
+    "Station Name": "Texas Instruments - Embedded Software",
     City: "Bangalore",
     Domain:
       "Embedded Systems,Embedding,Embeded System,RTOS and Embedded Systems",
     Title: "Embedded Software Engineering Intern",
     Stipend: "60000INR",
-    Degree: "A7 A8 AA A3",
+    Degree: "AA A3 A8 A7",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -3172,8 +3586,33 @@ const stations = [
     "Project Details": "Selected through interview",
   },
   {
+    "Station Name": "Dassault Systems,Pune",
+    City: "Pune",
+    Domain: "CSIS/IT",
+    Title: "HD CO",
+    Stipend: "35000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "HD CO",
+  },
+  {
+    "Station Name": "Unique Solutions",
+    City: "Pune",
+    Domain: "IT",
+    Title: "Title: Solution architect and technical presales.",
+    Stipend: "50000INR",
+    Degree: "A3 A7 A8 AA",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:30:00",
+    "Project Details":
+      "Title: Solution architect and technical presales.\nDescription: AI driven observability solutions to manage IT operations.\nSkill sets: Logical thinking and good communication skills.\nExpected learning: AI driven IT operations management.\nSpecific courses required for project execution: none",
+  },
+  {
     "Station Name": "WCB Robotics India Pvt. Ltd. - Electronics",
-    City: "Kondapur",
+    City: "Hyderabad",
     Domain: "Electronics",
     Title: "Details awaited",
     Stipend: "0INR",
@@ -3238,20 +3677,6 @@ const stations = [
   {
     "Station Name": "Meesho",
     City: "Bengaluru",
-    Domain:
-      "Product Management,EMC Testing,IT Product,Product Design,Product Development",
-    Title: "About the Role As our Intern - Product Management,",
-    Stipend: "35000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details":
-      "About the Role\nAs our Intern - Product Management, you will run tests to check whether or not our\nproduct features are in sync with industry trends or not. On a typical day, conduct\nmarket research to project potential costs and issues – and suggest improvements too.\nYou will come up with metrics that will help us understand how to improve our Product.\nYou will support the Product Managers of the team to enhance the experience of our\ncustomers using concrete numbers and statistical insights.\n\nWhat you will do\n? Use qualitative and quantitative data in the product development cycle to generate\nuser and market insights.\n? Conduct effective A/B experiments to measure the impact of and improve the\nproduct.\n? Identify key product metrics and build tools, and dashboards to track them\ncontinuously.\n? Identify usage patterns and come up with action plans to move metrics in the right\ndirection.\n? Ensure swift and better product decisions using data and analytics.\n? Conduct user research and surveys to understand user needs and pain point\n\nWhat you will need\n? Bachelor’s degree in Engineering.\n? Knowledge of basic concepts of statistics and their application in product\nanalytics.\n? Ability to solve problems with a structured, data-driven approach.\n? Aspiration to grow deep into a product role and eventually own product verticals.\n\nEligibility Criteria\n1.Specialization - open to all branches\n2.No standing arrears\n3.Branch - B.Tech/ Integrated MTech from the target school’s batch of 2025",
-  },
-  {
-    "Station Name": "Meesho",
-    City: "Bengaluru",
     Domain: "CSIS/IT",
     Title: "Details awaited",
     Stipend: "35000INR",
@@ -3285,6 +3710,19 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
     "Project Details": "-",
+  },
+  {
+    "Station Name": "Prashanu Hospital, Palghar, Maharashtra",
+    City: "Palghar",
+    Domain: "Data Cleansing,Data Analysis,Big Data Analytics,Data Analytics",
+    Title: "Project 1 Title: Management Trainee",
+    Stipend: "10000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Project 1 Title: Management Trainee\nDescription:\n- Collect and analyze inpatient and outpatient visit data to optimize resource\nutilization and forecast needs.\n-Enhance patient satisfaction by addressing concerns, gathering feedback, and\nimplementing quality improvement strategies.\n- Research local healthcare trends and competitor strategies, developing reports\nand segmenting the market to tailor services.\nTraits expectation: - Strong analytical and problem-solving skills.\n- Ability to work collaboratively with logistics teams.\nExpected learning:\nSpecific courses required for project execution:",
   },
   {
     "Station Name": "Porter - Tech,Bengaluru",
@@ -3392,7 +3830,7 @@ const stations = [
       "Title: Digital Marketing Strategy Optimization\nDescription: Interns will develop and refine digital marketing strategies for enhanced brand visibility. Tasks include SEO analysis, content creation, social media optimization, and campaign performance tracking.\nSkill sets: SEO, social media management, content creation, data analysis.\nTraits expectation: Creativity, adaptability, strong communication skills, an analytical mindset, attention to detail, and enthusiasm for learning.\nExpected learning: Hands-on experience in digital marketing, SEO, social media strategies, and data-driven decision-making.\nSpecific courses required for project execution:  Any",
   },
   {
-    "Station Name": "Eightfold AI India Pvt Ltd,Noida",
+    "Station Name": "Eightfold AI India Pvt Ltd, Bengaluru/Noida",
     City: "Noida",
     Domain: "IT,Software Engg",
     Title: "Engineering Intern",
@@ -3524,6 +3962,18 @@ const stations = [
       "The intern will conduct research in quantitative methods in portfolio management, including optimization techniques. This role requires a strong understanding of stochastic calculus. Strict Requirement of Stochastic Calculus",
   },
   {
+    "Station Name": "Arup India Pvt. Ltd.,Hyderabad",
+    City: "Hyderabad",
+    Domain: "Infrastructure",
+    Title: "HD CO",
+    Stipend: "30000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details": "HD CO",
+  },
+  {
     "Station Name": "Wayfair Global Technology Pvt. Ltd- GST",
     City: "Bengaluru",
     Domain: "GST",
@@ -3590,9 +4040,21 @@ const stations = [
     "Project Details": "Continuing student",
   },
   {
-    "Station Name": "Project44 Software Services Pvt. Ltd.,Bengaluru",
+    "Station Name": "Lupin Pharma,Pune",
+    City: "Pune",
+    Domain: "Pharmaceutics",
+    Title: "Project Awaited",
+    Stipend: "15000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "Project Awaited",
+  },
+  {
+    "Station Name": "Project44 Software Services Pvt. Ltd., Bengaluru",
     City: "Bengaluru",
-    Domain: "IT",
+    Domain: "IT,Computer Science",
     Title: "Title: Sensor monitoring system for shipments",
     Stipend: "135000INR",
     Degree: "A7",
@@ -3603,9 +4065,9 @@ const stations = [
       "Title: Sensor monitoring system for shipments\nDescription: Shipments have multiple sensors, monitoring and making them visible is crucial for\nshippers and their business decision making. The project is aimed at building a reliable and scalable\nsystem that can accommodate any type of sensor data from the trucks and make it visible at a shipment\nlevel\nSkill sets: Java, Spring-boot, git, postgres, gradle\nTraits expectation: Problem solving, deep-dive attitude, product first thinking\nExpected learning: Building large scale data pipelines\nSpecific courses required for project execution: Distributed systems, Database systems",
   },
   {
-    "Station Name": "Project44 Software Services Pvt. Ltd.,Bengaluru",
+    "Station Name": "Project44 Software Services Pvt. Ltd., Bengaluru",
     City: "Bengaluru",
-    Domain: "IT",
+    Domain: "IT,Computer Science",
     Title: "Title: Build and Improve International Visibility System",
     Stipend: "135000INR",
     Degree: "A7",
@@ -3616,9 +4078,9 @@ const stations = [
       "Description: The International Visibility at Project44 provides comprehensive visibility into international\nshipments by handling both air and ocean freight tracking at scale. In response to the rapid growth in\nglobal trade volumes, our system continually evolves to meet increasing demands for high performance\nand advanced feature capabilities. This project involves contributing to multiple microservices that\nintegrate data from various international air and ocean carriers, ensuring accurate and timely tracking\ninformation for users worldwide. The project encompasses critical areas such as data integration, load\nhandling, and performance optimization, as well as new feature development to enhance the system’s\ncapabilities. These enhancements aim to uphold global standards for reliability, speed, and accuracy in\ntracking solutions.\nSkill sets: Python, Java, FastAPI, Springboot, git, postgres, elasticsearch\nTraits expectation: Problem solving, deep-dive attitude, product first thinking\nExpected learning: Design and implementation of reliable and scalable systems.\nSpecific courses required for project execution: Computer Programming, Distributed systems,\nDatabase Management System",
   },
   {
-    "Station Name": "Project44 Software Services Pvt. Ltd.,Bengaluru",
+    "Station Name": "Project44 Software Services Pvt. Ltd., Bengaluru",
     City: "Bengaluru",
-    Domain: "IT",
+    Domain: "IT,AI & ML,Data Science",
     Title: "Title: Improving ETA with ML Models",
     Stipend: "135000INR",
     Degree: "A7",
@@ -3683,6 +4145,20 @@ const stations = [
     "Project Details": "DD Continued student",
   },
   {
+    "Station Name": "Nutanix , Bengaluru / Pune",
+    City: "Bengaluru",
+    Domain: "Backend Development,Cloud Computing,Analysis",
+    Title:
+      "Software-defined computing platform for next generation data centers",
+    Stipend: "110000INR",
+    Degree: "A7 A3 A8 AA",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:01:00",
+    "Office-End-Time": "f21:13:16",
+    "Project Details":
+      "Nutanix is the fastest growing software infrastructure startup in the last decade and we’re expanding our team of world-class programmers to architect, design, test, and implement our super-scalable compute and storage infrastructure for enterprise-class virtualization. Nutanix is able to provide Google-like distributed data center technology to the masses; bringing the public to the private cloud.\n Nutanix is building the software-defined computing platform for next generation data centers that will be scale-out, flash-enabled, and converged. Data centers of the future will run on commodity x86 servers, with most services being virtual (software-defined). We’re building a distributed system that collapses compute and storage into a single tier of machines, and our vision is to fuse the public with private clouds; seamlessly. We aim to enhance special-purpose storage appliances that sit multiple hops away from a general-purpose compute, just like Hadoop did for big data workloads.\n This is an aggregate position for all back-end systems roles including (but not limited to) working on the core data path, platform deployment, manageability and serviceability.\n There will be various projects in the manageability and serviceability back-end systems. The exact project will be decided after interacting with the students depending on their interest and skills.\n ",
+  },
+  {
     "Station Name": "Nanonets",
     City: "Bengaluru",
     Domain: "Machine Learning",
@@ -3694,6 +4170,18 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Nanonets has a vision to help computers see the world starting with reading and understanding\ndocuments. Machine Learning (ML) is no longer a futuristic concept—it's a present-day\npowerhouse transforming the business landscape. Nanonets is at the forefront of this\ntransformation, offering innovative ML solutions designed to make document related processes\nfaster than ever before.\nFrom automating data extraction processes to enhancing reconciliation, our solutions are\ndesigned to revolutionize workflows, optimize operations, and unlock untapped potential for our\nclients. Our client footprint spans across brands such as Toyota, Boston Scientific, Bill.com and\nEntergy to name a few enabling businesses across a myriad of industries to unlock the potential\nof their visual and textual data\nHere's a quick 1-minute intro video.\nWe recently announced a series B round of $29 million in funding by Accel and are backed by\nthe likes of existing investors including Elevation Capital & Y Combinator. This infusion of capital\nunderscores our commitment to driving innovation and expanding our reach in delivering\ncutting-edge AI solutions to businesses worldwide.",
+  },
+  {
+    "Station Name": "AG&E",
+    City: "Hyderabad",
+    Domain: "CSIS/IT",
+    Title: "HD CO",
+    Stipend: "25000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details": "HD CO",
   },
   {
     "Station Name": "Nomura Global Markets SP Quants role",
@@ -3708,17 +4196,18 @@ const stations = [
     "Project Details": "--",
   },
   {
-    "Station Name": "UBER - Data Science,Bengaluru",
-    City: "Bangalore",
-    Domain: "Data Science",
-    Title: "Data Driven Approach",
-    Stipend: "187000INR",
-    Degree: "A7 A3 AA A4 A8 AB",
+    "Station Name": "Ekibeki Association",
+    City: "Mumbai",
+    Domain: "Finance,Management",
+    Title:
+      "Title: Executing strategies for sustain and growing endangered crafts",
+    Stipend: "20000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "apply a data-driven approach to identify, understand and scope complex data problems (including risk,\nfraud, payment, support experience and our Mobility and delivery lines of business) onthe Uber platform.",
+      "Description: Ekibeki Association has developed a strategy for identifying, protecting and growing endangered crafts of India. We expect the student to work on fine tuning it and implementing it. Details attached.\nSkill sets: Analytical Skills, Initiative and Communication Skills\nTraits expectation: Hard working, self starter, passionate\nExpected learning: Working on a project of national importance\nSpecific courses required for project execution: Nothing in particular. If they have any interest in heritage, crafts or history that’s a bonus\n\n?Project Details\nScope: Implement strategies for revival of endangered crafts\n\nAbout the Project:\nEkibeki is committed to preserving Indian endangered crafts by implementing sustainable, long-term revival strategies. As a part of this project, we have researched about the current status of the endangered crafts and developed frameworks for revival at different levels. \nActivities done so far:\nResearch on endangered crafts:  \nConducted in-depth research on critically endangered Indian crafts and the artisans practicing them.\nAnalysed current revival efforts and identified gaps in intervention efforts.\nRevival Strategy:\nIdentified intervention strategies at macro-level, cluster-level and craft-level.\nDeveloped interventions frameworks and strategies at each level\nActivities you will be doing:\nAs an intern, you will play a critical role in driving the implementation of the revival strategies. Below are some of the key activities you will oversee:\nFunding & Partnerships:\nDevelop funding proposals for various funding sources.\nIdentify and engage with potential partners such as corporates, NGOs, design institutes etc.\nCraft Documentation:\nCollaborate with design and tech teams to maintain the online database of endangered crafts.\nCrafts Museum & Exhibitions:\nConduct feasibility analysis for establishing a museum dedicated to endangered crafts, examining potential locations, estimated costs, and resources needed.\nPlan and execute exhibitions showcasing endangered crafts to raise awareness and create market demand.\nAwareness Campaigns:\nDevelop creative campaigns (digital and offline) to promote craft appreciation and generate interest among diverse audiences.\nCoordinate with organisations and government bodies to facilitate GI tag registrations and inclusion in various lists of importance to raise awareness.\nMonitoring & Reporting:\nDevelop metrics to measure the impact of interventions.\nConduct periodic reviews to assess the effectiveness of implemented strategies and suggest improvements.",
   },
   {
     "Station Name": "Franklin Templeton - Data Science/Finance",
@@ -3770,18 +4259,6 @@ const stations = [
     "Office-End-Time": "f17:00:00",
     "Project Details":
       "We are looking for skilled Full-Stack Software Developers to\nbuild dynamic applications that enable seamless interaction\nwith AI outputs in a robust, scalable environment. In this role,\nyou will:\n• Design and implement backend services with Python, Django,\nand PostgreSQL, following industry-standard system design\npractices.\n\n• Deploy and scale AI models on AWS using Docker, with auto-\nscaling setups for optimised efficiency and reliability.\n\n• Develop interactive frontends for AI data consumption using\nReact, TypeScript, and Next.js.\n• Deploy and optimize deep learning models across platforms,\nincluding cloud, edge, and IoT, ensuring high performance on\nthe latest edge devices.\nKey Technologies: React, JavaScript, TypeScript, Python,\nDjango, PyTorch, Next.js, Linux, AWS, Docker, PostgreSQL\nNote: Refer hyperlinks for product description. (Or visit our\nwebsite www.qure.ai to explore more)\nGood experience in any programming language and strong\nanalytical skills. Having a good foundation in mathematics is a\nplus.Communication, presentation and team working skills At least two courses in core computer sciences (DSA, OOPs,\nDBMS, Operating Systems, Computer Architecture) and at least\none course with grade higher than B.Should have strong interest in developing software.1. Full-Stack Development: Hands-on experience with modern\nfront-end and backend development using React, TypeScript,\nPython, and Django.\n2. Cloud and DevOps: Cloud deployment with AWS and Docker,\nincluding CI/CD, scaling, and monitoring.\n3. AI Model Deployment: Techniques for deploying and\noptimizing AI models across cloud, edge, and IoT platforms.\n4. Hybrid Compute: Experience balancing resources across\ncloud and edge environments.\n5. Healthcare AI: Exposure to large-scale healthcare data,\nemphasizing reliability, security, data privacy and compliance.\n6. Collaboration in AI Engineering: Working alongside data\nscientists to bring AI models to production.",
-  },
-  {
-    "Station Name": "AMAZON APPLIED SCIENTIST",
-    City: "Bengaluru",
-    Domain: "Computer Science,Computer Vision",
-    Title: "AMAZON APPLIED SCIENTIST",
-    Stipend: "120000INR",
-    Degree: "A7 AA A8 A3",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details": "AMAZON APPLIED SCIENTIST",
   },
   {
     "Station Name": "AMAZON APPLIED SCIENTIST",
@@ -3938,7 +4415,7 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      'This portal will enable the student to book their lab slots according to\ntheir flexible timelines and also eliminate the manual planning for the\nlab delivery\n\nSkills : Java script(React JS. Node JS),CSS, HTML and SQL\n"Good Problem-solving skills along with Good Comprehension\n\nProject Management , Any certification in Java script would be preferrable\nGood to have Windows active directory architecture\nFront end and Back end development and MS Active directory',
+      "·         Slot booking system\n·         Preferable tools and skills: knowledge of frontend, backend, and web development.",
   },
   {
     "Station Name": "Infineon- Supply Chain",
@@ -3964,6 +4441,20 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": "--",
+  },
+  {
+    "Station Name": "Morningstar - New Product Development, Mumbai",
+    City: "Mumbai",
+    Domain: "Finance,Steam economy",
+    Title:
+      "Project 1 Title: Equity New Product Development using Quantitative Research and Data analysis, 2 Title: Fixed income New Product Development using Quantitative Financial Research and Portfolio Analysis",
+    Stipend: "50000INR",
+    Degree: "A7 C7 B3",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Project\n1\nTitle: Equity New Product Development using Quantitative Research and Data analysis\nDescription: This role provides exposure to the passive investing revolution rocking the world of\nfinance. You will also get exposure to cutting edge concepts in ESG, Climate and Impact investing trying\nto make planet a better place. As an intern you will support the NPD team by using Python and SQL in\nbuilding state of the art capabilities in areas such as portfolio construction, analytics, and data\nvisualization. You will perform analytics on research data and portfolios and will support a global team of\nsenior experts in Quantitative research who are tech and math geeks with world class credentials and\nfrom the best institutions all over the world. These experts develop and support sophisticated portfolios\nunderlying financial products with billions of USD as AUM.\nSkill sets: Basic knowledge of Python/ SQL, Basic knowledge of Finance, Statistical analysis, Data\nAnalytics, Portfolio analysis, Quantitative Aptitude\nExpected learning: Portfolio Management concepts, Equity portfolio analysis, Investment analysis,\nQuantitative Finance, Statistics, Data Analysis\nSpecific courses required for project execution\nPreferably from regular B.E.(Hons) program with some exposure to economics.\nProject\n2\nTitle: Fixed income New Product Development using Quantitative Financial Research and Portfolio\nAnalysis\nDescription: This role provides exposure to the passive investing revolution rocking the world of\nfinance. You will also get exposure to cutting edge concepts in ESG, Climate and Impact investing trying\nto make planet a better place. As an intern you will support the NPD team by using Python and SQL in\nbuilding state of the art capabilities in areas such as portfolio construction, analytics, and data\nvisualization. You will perform analytics on research data and portfolios and will support a global team of\nsenior experts in Quantitative research who are tech and math geeks with world class credentials and\nfrom the best institutions all over the world. These experts develop and support sophisticated portfolios\nunderlying financial products with billions of USD as AUM.\nSkill sets: Basic knowledge of Python/ SQL, Basic knowledge of Finance, Statistical analysis, Data\nAnalytics, Portfolio analysis, Quantitative Aptitude\nExpected learning: Portfolio Management concepts, Equity portfolio analysis, Investment analysis,\nQuantitative Finance, Statistics, Data Analysis\nSpecific courses required for project execution\nPreferably from regular B.E.(Hons) program with some exposure to economics.",
   },
   {
     "Station Name": "Moody's Analytics",
@@ -3992,6 +4483,19 @@ const stations = [
       "Description: As a Product Manager intern, you will be at the forefront of product strategy, development, and execution. You will collaborate with cross-functional teams including engineering, design, and sales to deliver features that align with business goals and customer needs. You will also be responsible for defining product roadmaps, gathering requirements, and prioritizing product features.\nSkill sets: Product Management, Agile Methodologies, Market Research, Data-Driven Decision Making, Stakeholder Management, Roadmap Planning\nExpected learning: Product Lifecycle Management, User-Centered Design, Feature Prioritization, Competitive Analysis, Go-to-Market Strategy, Team Collaboration, and Agile Frameworks",
   },
   {
+    "Station Name": "Ernst & Young LLP, Gurugram",
+    City: "Gurgaon",
+    Domain: "Finance",
+    Title: "Analytics - Sentimental Analysis of Product Reviews",
+    Stipend: "38000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "08:00:00",
+    "Office-End-Time": "f17:30:00",
+    "Project Details":
+      "Description: Develop model to evaluating words in different product reviews in order  to define sentiments and opinions which may be favorable or unfavorable in polarity. This is a classification in which the classifications are either binary (optimistic or pessimistic) or multiple (happy, angry, sad, disgusted, etc.). \nSkill sets: Excel , Python (Preferred)\nExpected learning: Understanding of supervised learning and basic NLP",
+  },
+  {
     "Station Name": "Goldman Sachs - Bengaluru",
     City: "Bangalore",
     Domain: "IT",
@@ -4017,16 +4521,17 @@ const stations = [
       "Description: Our next big launch will be to enable users to control the narrative of the\nstory. We are moving beyond passive consumption towards a more interactive game-like\nconsumption medium. Aim of the project will be to define the product capabilities, design\na user experience and work with the technology team on its implementation.\nSkill sets: User research, product analytics, design wireframes\nTraits expectation: Strong written and spoken communication skills, stakeholder\nmanagement, Analytical\nExpected learning: Building a 0-1 consumer digital product, and driving its adoption",
   },
   {
-    "Station Name": "Syneos Health,Gurugram",
+    "Station Name": "Syneos Health, Gurugram",
     City: "Gurgaon",
     Domain: "Bio-Technology,Pharmacology",
-    Title: "Details awaited",
-    Stipend: "0INR",
+    Title: "Project details given in Description",
+    Stipend: "33000INR",
     Degree: "0",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
-    "Project Details": "Details awaited",
+    "Project Details":
+      "Title: Change management for system implementation for a global pharma\nDescription: Develop strategies around effecting change management and communication for a global pharma undergoing a major system implementation\nSkill sets: MS PowerPoint\nTraits expectation: Good communication skills, good awareness of clinical trial phases, R&D organization scope within pharma companies\nExpected learning: knowledge about ways of working of R&D organization. Client communication and stakeholder management\nSpecific courses required for project execution: NA\nTitle: Business process mapping for clinical teams\nDescription: Create business processes\nSkill sets: MS PowerPoint\nTraits expectation: Good communication skills, good awareness of clinical trial phases, R&D organization scope within pharma companies\nExpected learning: learn how to do process mapping, how to determine existing process gaps and move towards optimization. Client communication and stakeholder management\nSpecific courses required for project execution: NA\nTitle: Business process mapping for regulatory teams\nDescription:\nSkill sets:\nTraits expectation: Good communication skills, good awareness of clinical trial phases, R&D organization scope within pharma companies\nExpected learning: Learn how to do process mapping, how to determine existing process gaps and move towards optimization. Client communication and stakeholder management\nSpecific courses required for project execution: NA",
   },
   {
     "Station Name": "Lifespark Technologies",
@@ -4086,7 +4591,7 @@ const stations = [
     Domain: "Business Development",
     Title: "Business Development Intern",
     Stipend: "50000INR",
-    Degree: "AA A8 A5 A4 A3 A2 AB A1",
+    Degree: "A1 AB A2 A3 A4 A5 A8 AA",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -4098,7 +4603,7 @@ const stations = [
     City: "Pune",
     Domain: "CSIS/IT",
     Title: "FD Lock",
-    Stipend: "0INR",
+    Stipend: "40000INR",
     Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
@@ -4116,18 +4621,6 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
     "Project Details": "-",
-  },
-  {
-    "Station Name": "UBER - Data Science, Hyderabad/Bengaluru",
-    City: "Hyderabad",
-    Domain: "CSIS/IT",
-    Title: "Data Driven approach",
-    Stipend: "177000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details": "Data Driven approach",
   },
   {
     "Station Name": "UBER - Data Science, Hyderabad/Bengaluru",
@@ -4153,7 +4646,8 @@ const stations = [
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
-    "Project Details": "WILP - Control systems, IC Engines, RSM , Hyderabad",
+    "Project Details":
+      "Project 1: Automated Power Window Operation Using ECU Integration\nDescription: The Power Window Control System using an ECU automates the opening and closing of vehicle windows through electric motors, with the ECU serving as the central controller for the system. It receives input from window switches, processes the signals, and directs the electric motors to move the windows accordingly.\nKey Components: Electronic Control Unit (ECU),Window Switches, Window Motors, Window Regulators, Anti-Pinch Sensors (Obstruction Detection) ,Window Motor Driver Circuit (e.g., H-Bridge),Wiring Harnesses and Connectors, Fuses and Circuit Breakers, Master Switch (Driver’s Door Control),Child Lock/Window Lock Mechanism, Power Supply (Battery and Alternator),Relay (for motor power supply control),Diagnostic Interface (OBD-II or other diagnostic tools), Remote Control/Key Fob (for advanced systems),Temperature or Current Sensors (for overload protection)\n Project 2: Smart Windscreen Wiper System (Rain Detection)\nDescription: Create a system that automatically adjusts the speed of the windscreen wipers based on rainfall intensity. Use a rain sensor to detect the amount of water on the windscreen and modify the wiper speed accordingly.\nKey Components: Rain sensor for detecting water presence, Microcontroller (e.g., Arduino or Raspberry Pi), Wiper motor control system, Display or LED indicators for system status\n Project 3: Advanced Cruise Control System Using Adaptive Control Techniques\nDescription: Implement an adaptive cruise control system that adjusts the vehicle's speed based on real-time traffic conditions, using sensors to detect the distance and relative speed of surrounding vehicles.\nKey Components: Radar or ultrasonic sensors, CAN bus communication, microcontroller (e.g., STM32 or ARM Cortex), servo motors (for throttle control), and PID/Model Predictive Control (MPC) algorithm.\n Project 4: Hardware in Loop experiments.\nDescription: Development of Digital twin of the existing hardware in the lab and establish the HIL work flow.\nKey components:  Speedgoat Hardware, Experimental setup available at the controls lab.\n ",
   },
   {
     "Station Name": "Siemens Technology Services Pvt Ltd",
@@ -4232,18 +4726,6 @@ const stations = [
       "Title: Re-architecting Postman's Collection Codebase\nDescription: Work on re-architecting core flows of Postman&#39;s collection feature to optimize\nperformance and improve 99th percentile (aka P99) loading time metrics. Tasks include\ncode optimization, transitioning from synchronous to asynchronous flows, removing\nredundant code, implementing pagination, and reducing complexities.\nSkill sets: Node.js, MySQL, Microservices Architecture, Monitoring Tools (New Relic)\nTraits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn\nand adapt, Good in DS &amp; Database concepts, Team player with good communication skills\nExpected learning: Advanced Node.js, MySQL optimization. Microservices design.\nPerformance optimization strategies, Asynchronous programming, Monitoring and\nperformance analysis (New Relic)\nSpecific courses required for project execution: DS &amp; Algos, OS, Databases\nTitle: Optimise the P95 for Public Documentation\nDescription: This will involve understanding how the collection documentation is rendered,\nhow the workflows of caching and cache expiry works, critical API loading paths,\noptimsations related to the critical paths, DOM virtualisation for the components especially\nin case of large documentations. This also includes instrumenting and measuring various\nclient side performance metrics and coming up with a plan to optimise for each of those\nmetrics.\nSkill sets: Javascript, React, Node.js, MySQL, Microservices Architecture, Monitoring Tools\n(New Relic)\nTraits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn\nand adapt, Team player with good communication skills\nExpected learning: Advanced React and Node.js, Microservices design, Performance\noptimization strategies, Asynchronous programming, Monitoring and performance analysis\n(New Relic)\nSpecific courses required for project execution: React, Node.js, MySQL, OOP\nTitle: Load testing and scaling mock servers to support 10k rpm limit per team\nDescription: This requires understanding of critical API collection API loading for mocks,\noptimising the matching algorithms, caching and expiry of collection data, understanding the\npods and pod based scaling, estimating the capacity of pods and improving the bottlenecks\nin mock execution. This will require load testing of the existing systems and other\ndependent systems in the critical path. This might require some architectural changes as\nwell.\nSkill sets: Node.js, MySQL, Microservices Architecture, Monitoring Tools (New Relic)\nTraits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn\nand adapt, Team player with good communication skills\nExpected learning: Advanced React and Node.js, Microservices design, Performance\noptimization strategies, Asynchronous programming, Monitoring and performance analysis\n(New Relic)\nSpecific courses required for project execution: DS &amp; Algos, OS, Databases\nTitle: Improve end to end test coverage for Postman Secret Scanner feature\nDescription: Writing automations for Postman Secret Scanner features to improve quality\nof feature. Tasks include writing integration tests, Postman collections to monitor feature\nflows.\nSkill sets: Basics of JavaScript, Node.js,\nTraits expectation: Team player, communications, curiosity, eager to learn\nExpected learning: Writing production ready code\nSpecific courses required for project execution: DS &amp; AlgosNetwork Security\nTitle: Show most active Workspaces in a team\nDescription: Create a feature to determine and show most used workspaces within a team\n\nbased on different data sources like activities, user actions etc.\nSkill sets: Node.js, MySQL, Microservices Architecture\nTraits expectation: Strong problem-solving skills, Attention to detail, Eagerness to learn\nand adapt\nExpected learning: Asynchronous programming, Node.js, MySQL schema design,\nMicroservices API design, Monitoring and performance analysis (New Relic)\nSpecific courses required for project execution: OOP, DB",
   },
   {
-    "Station Name": "Postman",
-    City: "Bengaluru",
-    Domain: "-",
-    Title: "p1",
-    Stipend: "0INR",
-    Degree: "A7",
-    Holidays: "Sunday,Saturday",
-    "Office-Start-Time": null,
-    "Office-End-Time": "f",
-    "Project Details": "p1",
-  },
-  {
     "Station Name": "Eltropy - Development (Engineering Team)",
     City: "Bengaluru",
     Domain: "Analysis,Analytics",
@@ -4311,6 +4793,19 @@ const stations = [
       "At Intuit, we want to invest in the next generation of tech entrepreneurs by bringing them\ninto our organization early and encouraging them to bring their talents back to Intuit\nafter they graduate. Our internship program is focused on identifying these\nhigh-potential university students and equipping them with the tools they need to\nsucceed in the tech industry.\nDuring Intuit’s Co-op internship program, our interns will have the opportunity to get\nfirst- hand experience in software engineering practices - learning about agile\ndevelopment, industry best practices, taking part in design discussions and code\nreviews. Our interns will be exposed to shift-left paradigms in devops, quality\nengineering and performance engineering. They will be an integral part of our\ndevelopment teams and get to interact with our senior leaders and learn directly from\nthe top talent at Intuit. During Intuit's Co-op internship program, interns will interact with\nour senior leaders, learn directly from our business partners, and leverage our unique\nbusiness practices all while taking on rigorous assignments.\nThrough our internship program, university students gain the confidence to make\nmeaningful work contributions that enable business growth with our products,\ncustomers, and internal processes. Our interns have opportunities to work in one of the\nfollowing areas:\nSoftware Engineer Co-op Intern:\nFull Stack/Front-End/Back-End/Security/DevOps/Mobile/Data Engineering",
   },
   {
+    "Station Name":
+      "HSBC - DATA SCIENCE Intern, ( Gurgaon/Hyderabad/Chennai/Bangalore//Kolkata)",
+    City: "Bengaluru",
+    Domain: "Finance and Mgmt",
+    Title: "Selection through Interview",
+    Stipend: "72000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "Selection through Interview",
+  },
+  {
     "Station Name": "Integrated Active Monitoring Pvt. Ltd.,Pune",
     City: "Pune",
     Domain: "IoT",
@@ -4324,13 +4819,53 @@ const stations = [
       "Work with software team on various complex backend products\nSkill sets: Python, SQL, DSA",
   },
   {
+    "Station Name": "Unity Growth Investments Pvt Ltd- Tech",
+    City: "Hyderabad",
+    Domain: "SQL,Python,Cloud",
+    Title: "Details Awaited",
+    Stipend: "30000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "19:00:00",
+    "Office-End-Time": "f23:55:00",
+    "Project Details": "Details Awaited",
+  },
+  {
+    "Station Name": "PIERSIGHT SPACE",
+    City: "Inspace Headquarters,",
+    Domain: "Electromechanical design,Satellite Image Processing",
+    Title:
+      "Title: Simulations, Signal processing algorithms and Architecture for a Maritime SAR Satellite",
+    Stipend: "25000INR",
+    Degree: "AA B5",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Simulations, Signal processing algorithms and Architecture for a Maritime SAR Satellite\nDescription: Developing simulations for modelling operations of a SAR+AIS satellite\nSkill sets: Digital Signal Processing, Communication Systems, Electrodynamics\nTraits expectation: -\nExpected learning: Understanding operations of different SAR modes\nSpecific courses required for project execution: Digital Signal processing",
+  },
+  {
+    "Station Name": "PIERSIGHT SPACE",
+    City: "Inspace Headquarters,",
+    Domain:
+      "Embedded Systems,Embedding,Embeded System,RTOS and Embedded Systems",
+    Title: "Design, Development and Verification of memory interface on FPGA",
+    Stipend: "25000INR",
+    Degree: "A8 AA A3",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Design, Development and Verification of memory interface on FPGA\n\nDescription: Design, Development and testing of high-speed memory for several subsystems of\nSynthetic Aperture Radar satellites\nSkill sets: Verilog / VHDL, Embedded Design\nTraits expectation: -\nExpected learning: Understanding of FPGA IP Design, High Speed Embedded Design\nSpecific courses required for project execution: Digital Design",
+  },
+  {
     "Station Name":
       "National Council for Cement and Building Materials,Ballabgarh",
     City: "Ballabgarh",
     Domain: "Mechanical,Chemical",
     Title: "Project 1 Title: Design & Solid Alternative Fuel Dryer",
     Stipend: "0INR",
-    Degree: "A1 A4 AB",
+    Degree: "0",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:30:00",
@@ -4352,13 +4887,26 @@ const stations = [
       "Project 1\nTitle:  Software engineer Intern\nDescription, skill set and expectation: \nHelp us build a unified data platform across EA, spanning 20+ game studios as data sources\nDevelop infrastructure software that can slice and dice data using Spark, Flink, Hadoop and Map/Reduce\nDevelop reporting systems that inform on key metrics, detect anomalies, and forecast future results\nDevelop complex queries to solve data mining problems\nWrite reliable and efficient programs scaling to massive (dozens of petabyte) datasets and large clusters of machines\nFlexibility to work with both SQL and NoSQL solutions\nWork with data modelers, data analysts, and BI developers to understand requirements, develop ETL processes, validate results, and deliver to production\nCoordinate the efficiency, scalability, and stability of data collection, extraction, and storage processes\nYou will work on design and implementation of tools to automate the process and support CI activities.\nYou will work on player metrics collection, analysis, tools for mining the data and presenting in meaningful dashboards\n\nSpecific courses required for project execution:\nBachelor’s in computer science\nA solid foundation in computer science, with competencies in algorithms, data structures, and software design\nFluency with Java, SQL, Python, or C++\nFamiliar with cloud technologies such as AWS, GCP, Azure\nExperience with DevOps tools such as Kubernetes and Docker\nFast prototyping skills, familiarity with scripting languages such as bash, perl, awk, python\nExperience of working with columnar analytics databases or relational databases is a plus\nFamiliarity with visualization tools and database technologies, familiarity with analytic techniques such as predictive modeling and data visualizations\n\n Project 2\nTitle: Software engineer Intern\nDescription, skill set and expectation: \nWork with Product Managers, senior engineers and peers to understand requirements, prototype & build large scale distributed applications\nBuild & Deploy new microservices & enhance feature set of existing micro services\nHave a keen eye on code quality, testability, maintainability & automated test coverage\nAnalyze and troubleshoot cloud native applications relating to performance & scale\nImplement Observability, metrics, traces and telemetry for features to gauge success \nBe able to prototype new technology that fits use cases/problems and validate against success criteria\nCommunicate and coordinate with teams across various geographies\nCommunicate progress & issues in daily stand-ups\n\nSpecific courses required for project execution: \nBachelor's degree/software engineering, Computer Science or related concentration, equivalent and/or combination of education.\nA solid foundation in Computer Science fundamentals, algorithms, design patterns, CI/CD processes, and data structures.\nExpertise in object-oriented design/programming, programming expertise in either Java, Scala or related programming languages\nStrong problem-solving abilities\nKnowledge of Databases - SQL & NoSQL\nFamiliar with Cloud & Cloud Native technologies\nExperience with DevOps tools such as Docker\nGood foundation around building large scale, low latency distributed systems\nExperience with source control management tools (e.g., Perforce, Git).",
   },
   {
+    "Station Name": "Gateway.fm ( Online )",
+    City: "Mumbai",
+    Domain: "Computer Science,Blockchain,Python,BI automation",
+    Title: "Title: Stakeway",
+    Stipend: "500USD",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Stakeway\nDescription: Work involves running and maintaining node that secure blockchain network.\nSkill sets: Good to have 1 or more from the list, Golang or python or smart contract or DevOps (AWS Clouds)\nTraits expectation: \nExpected learning: Work on Blockchain technology, write code which can help us in validating\nSpecific courses required for project execution: Computer programing, data structure algorithms, Linux\nTitle: CDK-Erigon: Go Engineer and QA Automation\nDescription: The project focuses on contributing to the cdk-erigon repository, which is a blockchain infrastructure project. Interns will primarily work on implementing unit tests, refactoring existing code, and making improvements to enhance the performance and maintainability of the codebase. The project is geared towards students interested in blockchain and low-level programming.\nSkill sets: Proficiency in Go – 1) Understanding of blockchain technology (preferably experience with EVM) 2) Python 3) Experience with QA automation tools is a plus\nTraits expectation: 1) Proactivity 2) Teamwork 3) Strong problem-solving skills\nExpect learning: 1) Hands-on experience in EVM and zkEVM core development 2) Improved proficiency in Go programming 3) Practical knowledge of blockchain infrastructure and QA automation \nSpecific courses required for project execution: 1) Understanding of EVM or related blockchain systems 2) Familiarity with Go programming and Python 3) Exposure to software engineering principles and QA best practices",
+  },
+  {
     "Station Name":
       "Flipkart Internet Pvt Ltd - Site Reliability Engineering,Bengaluru",
     City: "Bengaluru",
     Domain: "Computer Science",
     Title: "Data Engineering Interns",
     Stipend: "100000INR",
-    Degree: "A7 AA A8 B4",
+    Degree: "A7 AA A8 B4 A3",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
@@ -4468,6 +5016,19 @@ const stations = [
       "Description: Research of arbitrage strategies using historical data.\nSkill sets: Python, Panda, SQL, Machine Learning, Data Mining, C++, Mathematics\nTraits expectation: Fluent communication skills\nExpected learning: Student will learn about hedge funds research & commodity arbitrage industry.\nSpecific courses required for project execution: DSA, OOP, DBMS, Probability & statistics.",
   },
   {
+    "Station Name": "Genpact -Data Scientist - Hyderabad",
+    City: "Hyderabad",
+    Domain: "Java,AI & ML",
+    Title: "Title: Data Scientist –Internship with Global AI/ML Team",
+    Stipend: "30000INR",
+    Degree: "AA A7 A8 A3",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Data Scientist –Internship with Global AI/ML Team\n\nDescription: The key responsibilities of Data Scientist are:\nCreation of cutting-edge models for understanding vast amounts of textual, numeric, graphic and speech data\nCreation and deployment of production-ready code\nCreate framework for AI/ML code deployment to ensure robustness and reliability of production ready models\n\nMandatory Skill sets: \nExposure to Statistical Toolkits such as R, Weka, Python, Azure ML, AWS Sagemaker\n• Very good Python/R programming skills. Java programming skills a plus\n• Building, deploying and measuring predictive/prescriptive analytics models (i.e. SVM,\ndecision tree, clustering, logistic regression, linear and non-linear regression, ANN,\nCNN, RNN)\n• Deep learning frameworks such as Tensor Flow, Keras, PyTorch, Theano\n• Tooling frameworks like PyCharm or Jupyter\n\nAdditional / Skill Sets (Preferred): \nUnderstanding of Graph DB and tools such as Neo4j etc.\nUnderstanding of NLP, NLU and Machine learning/Deep learning methods\nSQL/NoSQL, MS Access, databases\nUI development paradigms that would enable Text Mining Insights Visualization e.g., Adobe\nFlex Builder, HTML5, CSS3\nLinux, GPU Experience\nSpark, Scala for distributed computing\nPublic cloud exposure.\n\nSpecific courses required for project execution: \n\nAcademic course work in various levels of math dealing with probability and statistics,\nBayesian networking and graphical modeling, and coverage of deep learning and neural\nnetworks and cognitive science, One or more assignments completed in designing, building, training and deploying a model for a given area.",
+  },
+  {
     "Station Name":
       "Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",
     City: "Bengaluru",
@@ -4506,6 +5067,19 @@ const stations = [
     "Office-End-Time": "f17:00:00",
     "Project Details":
       "Title: Generative AI powered platform for private company analysis \nDescription: Build a platform using generative AI to  \nProvide a conversational interface to private company data using generative AI. \nUse a variety of cutting-edge AI models and develop additional models for the platform\nIngest and process data from various sources such as MCA filings, news and internally sourced data and store it in a manner that can be easily consumed by the generative AI engine. \nIntegrate with web search capabilities\nCreate a high quality user interface with rich user experience\nSkill sets: LLM, Generative AI, ReactJS / Javascript, Python, AWS, Vector Databases \nExpected learning:  \nGenerative AI & other AI\no   GPT, Claude \no   Open source LLMs \no   Classification, Named Entity Recognition\nData Engineering \no   Robust pipeline to ingest vast amounts of data. \no   Observability – Alerting and monitoring of the pipeline. \no   Vector databases\nUser Interface creation\nDesigning systems for large scale \nDesigning a cloud native platform \nSpecific courses required for project execution:   \nWe are looking for  \nOne frontend engineer (ReactJS / NextJS / Typescript) \nTwo backend engineers (Python / Golang) \nOne data science engineer  ",
+  },
+  {
+    "Station Name": "Piramal Pharma Limited",
+    City: "Mumbai",
+    Domain: "Data Analytics,Data Analysis",
+    Title: "Data Science & Analytics projects",
+    Stipend: "75000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "At Piramal Pharma, there are multiple Data Science & Analytics projects aimed at engaging data-driven strategies across various business functions such as Sales, Supply Chain, Finance, Ecommerce, etc. These projects use intelligent automation frameworks and advanced analytics to develop and manage performance storyboards. Within each business function, the projects are focused on process optimization, as well as utilizing modern machine learning techniques for descriptive and predictive analytics.\n\n?Key Skills\nKey skills used are Python, Advanced Excel, Cloud infra\nSample Projects\nSales Forecasting, HR Attrition Prediction, Ecommerce Smart Performance Marketing leveraging ML and AI ",
   },
   {
     "Station Name": "DermaQ",
@@ -4575,6 +5149,32 @@ const stations = [
       "Contribution to the development of our core framework “Zango” and\nits packages as well as client applications. Frontend focussed.",
   },
   {
+    "Station Name": "BureauID India Private Limited",
+    City: "Bangalore",
+    Domain: "Coding,Backend Development,Backend Engineering",
+    Title: "Title: Backend Engineering In the Identity Verification Domain",
+    Stipend: "35000INR",
+    Degree: "B3 A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Backend Engineering In the Identity Verification Domain\n\nDescription: Developing inhouse API solutions for fraud prevention, risk mitigation and\nRisk Orchestration\nSkill sets: Coding - Currently pursuing a Bachelor's or Master's degree in Computer\nScience, Software Engineering, or a related field.\nBasic programming skills in one or more programming languages (e.g., Python, Java,\nJavaScript, C++, etc.).\nFamiliarity with software development concepts, tools, and methodologies.\nTraits expectation: Strong passion for software development and technology.\nExcellent problem-solving and analytical skills.\nStrong communication and teamwork skills.\nEagerness to learn and adapt in a fast-paced and collaborative environment.\nExpected learning:\nSoftware Development: Collaborate with our engineering team on software development\nprojects, including coding, testing, and debugging.\nFeature Enhancement: Assist in adding new features and functionalities to our SaaS\napplications, ensuring they meet quality standards and user requirements.\nBug Fixes: Identify and resolve software defects and issues to maintain the reliability and\nperformance of our products.\nDocumentation: Create and update technical documentation for software components,\nAPIs, and procedures.\nCode Review: Participate in code reviews to learn best practices and contribute to the\nteam's code quality.\nTesting: Conduct unit testing and assist in the development of test cases to ensure\nsoftware reliability.\nCollaboration: Work closely with cross-functional teams, including product management\nand design, to understand project requirements and deliver high-quality solutions.\nLearning and Growth: Proactively seek opportunities for skill development and learning\nfrom experienced engineers within the company.\nSpecific courses required for project execution: DSA, OOP, Computer Programming",
+  },
+  {
+    "Station Name": "BureauID India Private Limited",
+    City: "Bangalore",
+    Domain: "AI & ML",
+    Title: "Title: Frontend Engineering in the Identity Verification Domain",
+    Stipend: "35000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:39",
+    "Office-End-Time": "f18:00",
+    "Project Details":
+      "Title: Frontend Engineering in the Identity Verification Domain\n\nDescription: Developing frontend and web dev for fraud prevention, risk mitigation and\nRisk Orchestration\nSkill sets:\nCoding - Currently pursuing a Bachelor's or Master's degree in Computer Science,\nSoftware Engineering, or a related field.\nBasic programming skills in one or more programming languages (e.g., Python, Java,\nJavaScript, C++, etc.).\nFamiliarity with software development concepts, tools, and methodologies.\n\nBoldSign Document ID: 25de6d3d-25f6-4c40-8387-1f0baa83e4c0\n\nTraits expectation:\nStrong passion for software development and technology.\nExcellent problem-solving and analytical skills.\nStrong communication and teamwork skills.\nEagerness to learn and adapt in a fast-paced and collaborative environment.\nKnowledge of HTML, CSS and JavaScript.\nKnowledge of Webflow is a plus.\nExperience with responsive design and best practices.\nKnowledge of current web accessibility standards and requirements.\nKnowledge of information architecture, interaction design, and user-centred design.\nStrong knowledge in core web and browser concepts (eg. how the browser parses and\nconstructs a web page).\nExperience with performance and optimization problems and a demonstrated ability to\nboth diagnose and prevent these problems.\nExperience using design software to collaborate with designers and create web pages\n(eg. Figma, Sketch).\nThe ability to work in an agile, iterative development process and embrace feedback from\nmany perspectives.\nExperience in working with martech tools such as Segment, GTM, Google Analytics,\nMixpanel, etc.\nPrefer an understanding of marketing concepts such as conversion, analytics, A/B\ntesting, lead generation, buyer journeys, and search engine optimization.\nExpected learning:\nSoftware Development: Collaborate with our engineering team on software development\nprojects, including coding, testing, and debugging.\nFeature Enhancement: Assist in adding new features and functionalities to our SaaS\napplications, ensuring they meet quality standards and user requirements.\nBug Fixes: Identify and resolve software defects and issues to maintain the reliability and\nperformance of our products.\nDocumentation: Create and update technical documentation for software components,\nAPIs, and procedures.\nCode Review: Participate in code reviews to learn best practices and contribute to the\nteam's code quality.\nTesting: Conduct unit testing and assist in the development of test cases to ensure\nsoftware reliability.\nCollaboration: Work closely with cross-functional teams, including product management\nand design, to understand project requirements and deliver high-quality solutions.\nLearning and Growth: Proactively seek opportunities for skill development and learning\nfrom experienced engineers within the company.",
+  },
+  {
     "Station Name": "PwC US Advisory",
     City: "Bangalore, Hyderabad",
     Domain: "Digital Profile",
@@ -4642,7 +5242,7 @@ const stations = [
     Domain: "UI & UX",
     Title: "UI Intern",
     Stipend: "100000INR",
-    Degree: "A7 AA A8 B4",
+    Degree: "A7 AA A8 B4 A3",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -4662,6 +5262,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Description: Aerial Mapping of water using HPI/ Lidar/ Radar/ Drones etc\nSkill sets: Use of satellite imagery, drones, mapping tools, data analytics,  \nTraits expectation: Entrepreneurial, positive, high energy, willing to learn \nExpected learning: Aerial imagery, water mapping and sustainability, Analytics\nSpecific courses required for project execution:  CS/ Satellites / Analytics",
+  },
+  {
+    "Station Name": "Pharmeasy",
+    City: "Bengaluru",
+    Domain: "Medical Services",
+    Title: "Analytics Intern",
+    Stipend: "20000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:30:00",
+    "Office-End-Time": "f19:30:00",
+    "Project Details":
+      "Designation : Data Analyst\nLocation : Bangalore\nOur Team\nPharmEasy was founded in 2015 with the sole purpose to make healthcare easily available,\naccessible and affordable to all through the extensive use of new-age cutting-edge technology. Today,\nwe are one of India's largest healthcare aggregators connecting lakhs of patients to licensed\npharmacies & diagnostic centres online for all their medical needs. We are particularly catering to\nthe chronic-care segment, and offer a range of services including medicine delivery,\ntele-consultation, sample collection for diagnostic tests as well as subscription-based services for all\nthese categories.\nOur highly efficient and technology led Consumer and Supply-chain platforms ensure that medicines\nare delivered from a licensed pharmacy within six hours of the validation of prescriptions submitted\nby our customers. And such customer promises are improving with the increasing scale of our\nbusiness, and continuous product innovation.\nBy extensively leveraging the latest in hardware and software technology, we are also committed to\neradicate fake medicines from the Pharma ecosystem that contribute to roughly 30% of drug\nvolumes in India. Our product innovations have allowed for complete data transparency in the entire\nPharma supply-chain to empower even the end-users to validate the authenticity and genuineness of\nthe medicines for every medicine sold, using constructs such as unique barcoding of information like\nexpiry dates, origination of drugs etc.\n\nWith our scalable technology and processes, we are now reliably delivering healthcare services and\nmedicines to every single pin code in the country.\nAnalytics @ Pharmeasy:\nThe analytics team at PharmEasy is a centralized team helping the organization in problem solving\nand making data-driven decisions with the core objectives of making healthcare more accessible,\navailable and affordable using a wide variety of datasets, tools and techniques.\nBeing a data first organization, the team contributes vigorously across all facets of analytics from data\nenrichment and modelling, from descriptive dashboarding to investigative root cause analysis and\ninsight generation, from building predictive/prescriptive algorithms to product integration to create\nreal business impact.\nTeam members also gather a good amount of exposure working closely with key business owners,\ndecision makers and product leaders that leads to building a well rounded experience in problem\nsolving in a new age set up. Over the years, team members also get to work across a variety of\nbusiness units within healthcare ecosystem.\nResponsibilities :\nData Analyst would be responsible for working closely with the Business Teams and helping them in\nmaking data driven decisions. This would require cross-communication between the Business Team,\nProduct Team & Data Engineering as well. Apart from solving the business problem at hand, a Data\nAnalyst would also be responsible for creating reports and dashboards, automating repeated tasks,\nsharing insights and learning basis the data exploration/mining\n\n? Getting business requirements from the respective Business Teams, identifying the\nunderlying business case and building a generalized solution\n? Extracting & Exploring the data from database and other sources that may exist,\ncleaning the data for any issues/missing values also needs to be owned upon\n? Converting the cleaned data into actionable insights and sharing the same with relevant\nAudience\n? Automation of data problems/solutions that occur recursively\n? Flagging to Data Engineering in case of data sanity issues are to be seen\n? Ensure that the action insights shared with the business teams are worked upon\n? Ensure new business requirements are thoroughly vetted and signed off\n? Knowledge sharing within the team and outside if required\n\nWhat are we looking for ?\n? 0 to 2 years of work experience in the relevant field, preferably in a consumer facing\ncompany\n? Proficient in SQL and/or HQ, ability to handle complex/inner queries\n? Hands-on with Google Sheets / Microsoft Excel (basic data cleaning, pivoting and data\nexploration)\n? Must have worked on any one Data Visualization Tool (Tableau, Power BI, Microstrategy,\nMetabase etc)\n? Basic automation skills using Google Sheets or Microsoft Excel are expected\n? Working knowledge on handling data in R/Python is a plus\n? Communication skills to get the business requirements and give out the final insights\n? Data Inquisitiveness",
   },
   {
     "Station Name": "JPMC - GR&C -AWM Investment Risk Analytics",
@@ -4827,7 +5440,8 @@ const stations = [
     "Station Name": "Ribbon Communication",
     City: "Bengaluru",
     Domain: "Computer Science",
-    Title: "abc",
+    Title:
+      "1 Title: OTN Enhancements to Apollo Product line., 2 Title: DWDM Enhancements to Apollo Product line., 3 Title: GMPLS Enhancements to Apollo Product line., Project 4 Title: IP, MPLS Enhancements to Neptune Router Product line.",
     Stipend: "75000INR",
     Degree: "AA A7 A3 A8",
     Holidays: "Sunday",
@@ -4979,7 +5593,7 @@ const stations = [
       "Description: Web development project to create a marketing automation\ndashboard for e-commerce brands\nSkill sets: NodeJs, Typescript, PostgreSQL, ReactJs\nTraits expectation:\nExpected learning: Developing, testing & deploying web projects\nSpecific courses required for project execution: OS, DBMS, DSA",
   },
   {
-    "Station Name": "Blackrock QAE",
+    "Station Name": "Blackrock QAE, Gurgaon",
     City: "Gurgaon",
     Domain: "IT,Finance",
     Title: "Multiple Projects in FinTech/ Asset Management domain",
@@ -4994,13 +5608,13 @@ const stations = [
   {
     "Station Name": "PharmaACE,Pune",
     City: "Pune",
-    Domain: null,
+    Domain: "Health Care",
     Title: "Details awaited",
-    Stipend: "00",
-    Degree: null,
-    Holidays: null,
-    "Office-Start-Time": null,
-    "Office-End-Time": "f",
+    Stipend: "0INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
     "Project Details": "-",
   },
   {
@@ -5058,7 +5672,7 @@ const stations = [
   },
   {
     "Station Name":
-      "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
+      "ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",
     City: "Bhadrachalam",
     Domain: "Software Development",
     Title:
@@ -5073,7 +5687,7 @@ const stations = [
   },
   {
     "Station Name":
-      "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
+      "ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",
     City: "Bhadrachalam",
     Domain: "Computer Science",
     Title: "Historian Data Operations and server Management Tool",
@@ -5087,7 +5701,7 @@ const stations = [
   },
   {
     "Station Name":
-      "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
+      "ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",
     City: "Bhadrachalam",
     Domain: "Analytics",
     Title: "Post-Jumbo Process Streamlining and Truck Load Optimization",
@@ -5101,7 +5715,7 @@ const stations = [
   },
   {
     "Station Name":
-      "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
+      "ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",
     City: "Bhadrachalam",
     Domain: "Software Development",
     Title:
@@ -5116,7 +5730,7 @@ const stations = [
   },
   {
     "Station Name":
-      "ITC Limited, PSPD (Paperboards and Specialty Papers Division)",
+      "ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",
     City: "Bhadrachalam",
     Domain: "Analysis",
     Title: "Materials Procurement Optimization and Business Data Analytics",
@@ -5127,6 +5741,34 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Title: Materials Procurement Optimization and Business Data Analytics\n\nDescription: Multi-facet projects on Inventory Optimization, Material buying strategy, Finance data reporting and insights generation, sales and marketing data dashboarding for business strategy development\n\nSkill sets: Excel, Python, Data visualization, Power BI, Tableau, Data analysis and Statistics\n\nTraits expectation: Passionate about use of data for decision making applications in business in non-manufacturing functions like Materials, Finance, Sales and Marketing\n\nExpected learning: Techno-managerial skill set in business understanding, Strategy making and role of data in uncovering critical business insights\n\nSpecific courses required for project execution: Open to All - Business Analytics, Data Science",
+  },
+  {
+    "Station Name":
+      "ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",
+    City: "Bhadrachalam",
+    Domain: "Others",
+    Title: "DD Continued Student",
+    Stipend: "30000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details": "DD Continued Student",
+  },
+  {
+    "Station Name":
+      "Centre for Effective Governance of India States (CEGIS) - New Delhi",
+    City: "Delhi",
+    Domain: "Algorithms,Analytics,Full Stack Development",
+    Title:
+      "Title: Analytical tool to test accuracy of government data, Title: Dynamic tools for sampling, budgeting, planning various data collection activities of govt",
+    Stipend: "25000INR",
+    Degree: "B3",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Analytical tool to test accuracy of government data\nDescription: The project will involve improving an internal tool to analyse data from projects that aim to improve administrative data quality on the field. You'll be expected to conduct relevant literature review, manage and analyse administrative data from relevant government line departments, and implement required approaches and algorithms as modules in the above tool. You are expected to conduct robust checks on this open-source tool to ensure it works for all users, prepare documentation, implement feedback and bug fixes throughout. You'll also get to work closely with practitioners and government stakeholders to tailor research design and protocols to local context, and translate technical requirements to on-ground implementation. In addition, you'll support development of high-quality outputs (presentations, reports, briefs) summarizing project progress, data analyses, research findings for both technical and non-technical audiences and for dissemination at various forums. \nSkill sets: Knowledge of statistics and econometrics; Python and full-stack open-source web development experience is preferred; Excellent spoken and written communication skills\nExpected learning: In-depth governance issues within state governments and exposure to the realities of implementation of governance reform ideas; Understand advanced statistical concepts and represent them in easy-to-use web interface; Experience of working in a non-profit with diverse and highly experienced professionals, and understand pathways to have a future career in this domain\nSpecific courses required for project execution: Probability and Statistics, Computer Programming, Data Structures and Algorithms, Principles of Economics, Microeconomics, Econometrics (all), Mathematical & Statistical Methods, Behavioural Economics, Object Oriented Programming\nTitle: Dynamic tools for sampling, budgeting, planning various data collection activities of govt\nDescription: This project will involve developing an open-source portal that can used by any internal or government user as a plug-and-play tool to design and estimate the budget for common data collection activities like large-scale household survey, phone survey, survey of government facilities, etc. You'll be expected to conduct relevant literature review, manage and analyze sample data from relevant government line departments, implement required approaches and algorithms as modules in the above tool, automate reports and data visualisations suitable for department audiences at various levels, and go to the field as required. You are expected to conduct robust checks on these portals to ensure it works for all users, prepare documentation, implement feedback and bug fixes throughout. You'll get to work closely with practitioners and government stakeholders to tailor research design and protocols to local context, and translate technical requirements to on-ground implementation. Throughout, you'll support development of high-quality outputs (presentations, reports, briefs) summarizing project progress, data analyses, research findings for both technical and non-technical audiences and for dissemination at various forums. \nSkill sets: Knowledge of statistics and econometrics; Python and full-stack open-source web development experience is preferred; Excellent spoken and written communication skills; Familiarity with public datasets and internationally and nationally recognized surveys (DHS, NFHS, NSS rounds, etc.) is a plus.\nExpected learning: In-depth governance issues within state governments and exposure to the realities of implementation of governance reform ideas; Understand data systems of the government and how to design new surveys to provide insights to government audience at various levels in easy-to-use web interfaces; Experience of working in a non-profit with diverse and highly experienced professionals, and understand pathways to have a future career in this domain\nSpecific courses required for project execution: Probability and Statistics, Computer Programming, Data Structures and Algorithms, Object Oriented Programming, Principles of Economics, Microeconomics, Econometrics (all), Behavioral Economics, Mathematical & Statistical Methods",
   },
   {
     "Station Name": "MSA Global Technology and Engineering P Ltd.",
@@ -5165,6 +5807,20 @@ const stations = [
     "Project Details": "On goingSupply Chain Management",
   },
   {
+    "Station Name": "Snivaa Consulting Engineers",
+    City: "Pune",
+    Domain: "Civil",
+    Title:
+      "1) Design of commercial buildings 2)Design of industrial sheds 3)Design of machine foundations 4)Design of G+7 Residential buildings 5)Miscellaneous structural elements design",
+    Stipend: "8000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "Computational software (ETABS, SAFE,STAAD etc) model preparation , Design of structural elements , Earthquake resistant design , Structural Detailing & Connection design .Design of water tanks, retaining walls, barricades, compound walls, roof structures",
+  },
+  {
     "Station Name": "Dreamplug Technologies - DS",
     City: "Bengaluru",
     Domain: "Machine Learning,Data Science",
@@ -5192,21 +5848,7 @@ const stations = [
     "Project Details": "Selected through Interview",
   },
   {
-    "Station Name":
-      "Apple-MDE-MD team - Manufacturing Design Engineering, Bengaluru",
-    City: "Bengaluru",
-    Domain: "Manufacturing",
-    Title: "Manufacturing Process Development",
-    Stipend: "90000INR",
-    Degree: "A4 AB",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:30:48",
-    "Office-End-Time": "f18:00:01",
-    "Project Details":
-      "Manufacturing Process Development\n• Assess the suitability of a fabrication technology for a given part design\n• Plan validation exercises to demonstrate process feasibility and capability\n• Planning, proposing, and leading experiments to produce analyses used to\ndrive design, development, and supply chain decisions\n• Establish validation procedures to determine acceptance of processes into\ndevelopment builds as well as mass production\nSupplier Execution\n• Review supplier fixture design, process flow, equipment selection, DFM,\nand DOE proposals\n• Identify shortfalls and corrective actions to ensure design compliance\n• Work with supplier engineering teams to map out process development\nexercises, secure resources, and commit to\n• schedules in line with program goals\n• Smart System Development\n• Create program/system that could perform smart analysis of data to enable\nmass qualification of tool, fixtures and equipment\n• Utilizing machine learning concept to achieve automated analysis of\nmanufacturing data, enable closed-loop systems and auto-correction in\nmanufacturing processes\n• Develop automated collection and analysis of line OEE data to enable\nhigher manufacturing efficiencies",
-  },
-  {
-    "Station Name": "WILP-ADAS Lab",
+    "Station Name": "WILP - ADAS , Artificial & Computation, Hyderabad",
     City: "Hyderabad",
     Domain: "Agile Development",
     Title: "WILP-ADAS Lab",
@@ -5215,7 +5857,8 @@ const stations = [
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
-    "Project Details": "WILP-ADAS Lab",
+    "Project Details":
+      "·      Development and deployment of perception-based algorithms in autonomous Test car in lab using sensors such as RADAR, LIDAR, cameras, IMU, GPS, and SLAM techniques. This includes localization and path planning for autonomous vehicles.\n·         Preferable tools and skills: good to have a knowledge of sensors and embedded systems, computer vision and deep learning.\n ",
   },
   {
     "Station Name": "Greenfinch Global Consulting - Non IT",
@@ -5335,7 +5978,7 @@ const stations = [
       'Title: Web Scraping and Data Extraction from Webpages/tableau dashboards for analysis\n Description:\nDevelop and implement web scraping solutions to automate data collection from online sources. Structure and clean extracted data for analysis, enhancing insights and decision-making. Focus on efficiency and accuracy in data retrieval processes.\n Skill sets:\nProficiency in web scraping tools and libraries (e.g., Beautiful Soup, Scrapy). Experience with data cleaning and transformation using Python (Pandas, NumPy). Strong understanding of HTML webpages.\n\nTraits expectation:\nDetail-oriented and analytical with a focus on data accuracy. Innovative and proactive in solving complex data extraction challenges. Ability to work independently and collaboratively in a team environment.\n  Expected learning:\nGain expertise in advanced web scraping techniques and tools. Develop skills in data cleaning, transformation, and analysis. Enhance understanding of data pipelines and integration with data science workflows.\n Specific courses required for project execution: \nCourses on web scraping and data extraction (e.g., DataCamp\'s "Web Scraping with Python"). Training in data cleaning and analysis (e.g., Coursera\'s "Data Science" specialization). Workshops on data integration and pipeline development.\n  Title: Predictive Modeling and Data Insights\nDescription:\nDevelop and implement predictive modeling solutions to identify anomaly/outliers, system linkages, and potential risks. Utilize advanced data mining and machine learning techniques to enhance anomaly detection, system analysis, and audit planning. Create dashboards and self-service tools to provide actionable insights and improve decision-making processes.\n Skill sets:\nProficiency in predictive modeling, machine learning, and data mining techniques. Experience with data visualization tools (e.g., Tableau, Power BI) and platforms like ServiceNow. Strong analytical skills and understanding of anomaly detection, system dependencies, and data integration.\n Traits expectation:\nDetail-oriented and analytical with a focus on accuracy and insight generation. Innovative and proactive in applying data science techniques to solve complex problems. Ability to work independently and collaboratively, effectively communicating findings to stakeholders.\nExpected learning:\nGain expertise in predictive modeling, anomaly detection, and system linkage analysis. Develop skills in data visualization, dashboard development, and self-service tool creation. Enhance understanding of data-driven audit product development and risk assessment strategies.\n Specific courses required for project execution:\nCourses on predictive modeling and machine learning (e.g., Coursera\'s "Machine Learning" by Andrew Ng). Training in data visualization and dashboard development (e.g., DataCamp\'s "Data Visualization with Tableau").\nTitle: Data Model development for Audit Control Analysis\nDescription: Development of data model, automation of transformation for the development of audit controls automation\nSkill sets: Dataiku, SQL, Spark, PySpark\nTraits expectation: Thinking mindset to understand data flow, business requirements.\nExpected learning: Understanding of business requirements, convert business requirements to analytical procedures and, data models to be aligned to reusability standards by other projects. Data cleansing, data transformation techniques using SQL, Spark, PySpark\n\nSpecific courses required for project execution: Databases, Hadoop, SQL, Spark, PySpark\nTitle: Integration of Analytic Products\nDescription: Development of an integrated UI for the department’s analytical products\nSkill sets: Tableau, Dashboard Design\nTraits expectation: Design mindset\nExpected learning: Understand how to bring together all of the department’s analytical products into a single UI\nSpecific courses required for project execution: Tableau Development',
   },
   {
-    "Station Name": "Nvidia Graphics - Bengaluru",
+    "Station Name": "Nvidia Graphics - Bengaluru/Hyderabad",
     City: "Bangalore",
     Domain: "Graphic Design,Graphic Designer,Graphics Designing",
     Title:
@@ -5347,6 +5990,20 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Title: GPU ASIC Design Verification\n\nDescription: As a Hardware Engineer at NVIDIA, you will design and implement the industry's leading Graphics, Video and Mobile Communications Processors. Specific areas include 2D and 3D graphics, mpeg, video, audio, network protocols, high-speed IO interfaces and bus protocols, and memory subsystem design. You will be responsible for Architecture and micro-architecture design of the ASICs, RTL design and synthesis, Logic and Timing verification using leading edge CAD tools and Semiconductor process technologies.\n\nSkill sets: Verilog/ comp arch/ digital design / electronics\n\nTraits expectation: BE / ECE/ EEE ONLY, CGPA of 8 and above.\n\nSpecific courses required for project execution:  Verilog/ VHDL / FPGA / Digital Electronics\n\nTitle: GPU Architecture\n\nDescription: Specific areas include architecture modeling, analysis, and performance verification. The team works on GPUs across all application domains such as gaming for PC and mobile devices, professional graphics & visualization and high-performance computation.\n\nSkills you will use/develop:\nC++ modeling, test development\nRTL design, debug\nASIC design & verification tools, methodologies\nComputer architecture, Graphics, GPU micro-architecture, parallel computing\nPerformance evaluation, analysis and debug\nPerl/Python scripting\n\nAreas you will be working on – Computer Architecture, Memory Systems Architecture, Compiler \nArchitecture / Performance Modelling\n\nTraits expectation: BE / ECE/ EEE ONLY, CGPA of 8 and above.\n\nSpecific courses required for project execution: Verilog/ VHDL / FPGA / Digital Electronics / Compiler / Comp Architecture\n\n Title: Tegra – SOC / IP Design Verification\n\nDescription: As a Hardware Engineer at NVIDIA, you will design and implement the industry's leading Graphics, Video and Mobile Communications Processors. Specific areas include 2D and 3D graphics, mpeg, video, audio, network protocols, high-speed IO interfaces and bus protocols, and memory subsystem design.\n\nSkill sets: Verilog/ comp arch/ digital design / electronics\n\nTraits expectation: BE / ECE/ EEE ONLY, CGPA of 8 and above.\n\nSpecific courses required for project execution:  Verilog/ VHDL / FPGA / Digital Electronics\n\nTitle: CPU IP Design / Verification  \n\nDescription: As a design and verification/validation engineer in the ARM CPU team, you will be working on the next generation of 64bit ARM CPUs and SOCs.  As part of this assignment the intern will get a chance to learn about computer architecture at a very granular level, System Verilog, Design Verification, SOC Verification, Verification methodologies and C/C++ programming. The intern also will get an opportunity to get familiar with industry standard tools in verification and validation.\n\nSkill sets: Verilog/ comp arch/ digital design / electronics\n\nTraits expectation: BE / ECE/ EEE/ E&I, CGPA of 8 and above.\n\nSpecific courses required for project execution:  Verilog/ VHDL / FPGA / Digital Electronics\n\nTitle: VLSI\n\nDescription: VLSI team works in the areas of RTL Design, Verification, Design for Test, CAD tools, Synthesis, Timing, Place & Route, Circuit Design, Silicon Bring-up and Characterization. Responsible for state-of-the-art methodologies, tools, flows and project execution on all Nvidia GPU, CPU, Auto, \nand Switch chips. As an intern you will be working on one or more such areas.\n\nSkills you will use/develop:\nRTL Design, VCS, SV, UVM, Formal\nVerilog, C/C++, Python, TCL, Perl \nLogic Scan Test, Memory Test, High-speed IO Test, In-System Test \nSynthesis, Timing Closure (Primetime) \nPhysical Design, Innovus, ICC2, Physical extraction, Place and Route, Floorplan \nSRAM, Analog, Digital circuit design, Hspice, EMIR, Silicon Correlation (ATPG, data visualization & analysis) \nLayout (Cadence Virtuoso) \nSilicon characterization for ageing, DPPM, Signal Integrity, Power Integrity, and familiarity with PC/SOC sub-system Architecture\n\n\nTraits expectation: BE / ECE/ EEE/ E&I, CGPA of 8 and above.\n\nSpecific courses required for project execution:  Verilog/ VHDL / FPGA / Digital Electronics",
+  },
+  {
+    "Station Name": "MSCI Services Pvt. Ltd. - Index Management Research",
+    City: "Mumbai",
+    Domain: "Coding,Finance",
+    Title:
+      "Title: Creation and maintenance of MSCI Equity & Fixed Income Indexes",
+    Stipend: "60000INR",
+    Degree: "A7 B3 B4",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Creation and maintenance of MSCI Equity & Fixed Income Indexes\nDescription: Constructing and rebalancing the MSCI Equity & Fixed Income Indexes in accordance with the index methodology\nDetailed understanding of the index rebalancing framework and capabilities, in order to support the development and maintenance of MSCI indexes\nUnderstand the rules for constructing and maintaining the index.\nUnderstand global Equity & Fixed Income Markets\nKnowledge of financial ratios, portfolio management\nKnowledge of coding required for back testing of index methodologies & automation\nSkill sets: Coding skills (preferably python & SQL); Excellent verbal & written communication skills\nExpected learning: \nSpecific courses required for project execution:  Coding skills (preferably python & SQL)",
   },
   {
     "Station Name": "Vidyalai",
@@ -5443,19 +6100,7 @@ const stations = [
       "Study of instrumentation and scope of automation in Pulp and Fiber Industry.",
   },
   {
-    "Station Name": "UBER - Data Analytics,Hyderabad.",
-    City: "Hyderabad",
-    Domain: "Data Analysis",
-    Title: "Details Awaited",
-    Stipend: "60000INR",
-    Degree: "A3 A8 A7 AA",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f17:00:00",
-    "Project Details": "-",
-  },
-  {
-    "Station Name": "UBER - Data Analytics,Hyderabad.",
+    "Station Name": "UBER - Data Analytics,Hyderabad/Bengaluru",
     City: "Hyderabad",
     Domain: "Analytics,Data Analytics,Data Analysis",
     Title: "Data-driven and analytical",
@@ -5561,6 +6206,18 @@ const stations = [
       "Description: Involved in New Product Development (NPD) (Planning, Operations etc)\nSkill sets: SAP (Preferred)\nExpected learning: Overall exposure of NPD plant operations\nSpecific courses required for project execution:  NIL",
   },
   {
+    "Station Name": "Unity Growth Investments Pvt Ltd- Non Tech",
+    City: "Hyderabad",
+    Domain: "Management",
+    Title: '"Financial Markets Research"',
+    Stipend: "30000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "19:00:00",
+    "Office-End-Time": "f23:59:58",
+    "Project Details": '"Financial Markets Research"',
+  },
+  {
     "Station Name": "Confluent India Pvt Ltd.,Bengaluru",
     City: "Bengaluru",
     Domain: "Backend Development,Computer Science",
@@ -5585,19 +6242,6 @@ const stations = [
     "Office-End-Time": "f16:00:00",
     "Project Details":
       "Title: Dry-Run and Pinnacle 21 Dashboard/Reports\nDescription: The project focuses on developing R-Shiny/Power BI/Spotfire Dashboard/Python reports for frontloading dry-run and Pinnacle 21 checks which are crucial submission validation criteria for reporting Data Analysis to FDA and other HAs. The project team will develop solutions to address these needs.\nSkill sets: R/R-Shiny/Power BI/Python/Spotfire programming skills, Agile Project Management\nTraits expectation: Aptitude to learn & implement as a team player, good communication skills.\nExpected learning: Clinical Data Reporting and programming requirements, Data Science Insights generations.\nSpecific courses required for project execution: Any Bachelor of Engineering with exposure to Data Science & Analytics Skills",
-  },
-  {
-    "Station Name": "Novartis Health Care Pvt Ltd",
-    City: "Hyderabad",
-    Domain: "Clinical Product",
-    Title: "iCSM Implementation Suppor",
-    Stipend: "22000INR",
-    Degree: "0",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "10:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details":
-      "Description:  Supporting the preparation work and implementation of iCSM (Intelligent Clinical Supply Management) System (S4/Hana). This will include supporting data migration activities, UAT support, Study Setup support etc.\nSkill sets: Understanding the fundamentals of the Pharma domain including the Clinical supply, good documentation practices, basic testing skills.\nTraits expectation: Committed, Self-motivated, critical thinking.\nExpected learning: Exposure to a large-scale enterprise implementation and system functionality in Clinical Supply.\nSpecific courses required for project execution:  Trainings will be provided as part of the onboarding.",
   },
   {
     "Station Name": "DBOI OPS Bengaluru/Jaipur/Mumbai",
@@ -5718,7 +6362,7 @@ const stations = [
     Domain: "Healthcare",
     Title: "Process development, process tech transfer and process validation",
     Stipend: "25000INR",
-    Degree: "0",
+    Degree: "A5",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -5766,6 +6410,85 @@ const stations = [
       "System Design & Integration: Assist in designing and developing mechatronic systems for smart lighting and power solutions, combining mechanical components with electronics and software.\nAutomation & Control: Work on automation projects for smart lighting and energy systems, focusing on efficient control mechanisms for lighting, HVAC, and power distribution.\nIoT Device Development: Help in building IoT-enabled systems that connect sensors, actuators, and controllers for real-time data collection, monitoring, and remote control.\nPrototyping & Testing: Participate in building prototypes, testing mechanical and electronic subsystems, and troubleshooting issues in hardware-software integration.\nSensor & Actuator Integration: Implement and optimize the use of sensors and actuators in lighting and power management, ensuring energy efficiency and smart operation.\nData Analysis & Feedback Systems: Develop feedback control systems for optimized power usage, load balancing, and energy conservation in IoT-connected environments.\nCollaborative Innovation: Work with interdisciplinary teams to research emerging technologies in IoT, smart lighting, automation, and energy-efficient power systems.\n Required Skills:\nStrong foundational knowledge in mechatronics, electro-mechanical systems, electronics, and embedded software.\nExperience with automation, control systems, and integration of sensors and actuators.\nFamiliarity with microcontrollers (Arduino, Raspberry Pi, STM32, etc.) and programming in C/C++, Python, or similar languages.\nBasic understanding of IoT architecture, wireless communication protocols (Zigbee, Bluetooth, Wi-Fi), and embedded systems.\nKnowledge of mechanical design tools (e.g., CAD software) and experience in robotics, motion control, or similar applications.\nInterest in smart systems, renewable energy, and energy-efficient power management solutions.\n Preferred Qualifications:\nCurrently pursuing a degree in Mechatronics, Electronics Engineering, or a related field.\nPrior experience with mechatronic or IoT projects, especially in automation, smart lighting, or power systems, Solar Charger is a plus.\n Opportunities for Interns:\nWork on real-world mechatronics projects that have direct applications in the industry.\nCollaborate with experts in mechatronics, IoT, and power systems, gaining invaluable knowledge.\nOpportunity to develop innovative solutions in smart homes, intelligent energy grids, and advanced automation systems.\nPotential for full-time employment based on internship performance and project outcomes.",
   },
   {
+    "Station Name":
+      "Critical Path Technologies Private Limited (“SalarySe) - Non Tech",
+    City: "Gurgaon",
+    Domain: "Product Development",
+    Title: "Title: Product Intern",
+    Stipend: "61000INR",
+    Degree: "A5",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Product Intern\nDescription: Work closely with PMs, engineers, and designers to drive the development of financial\nproducts for our users. The internship offers a unique opportunity to gain hands-on experience in the\nfast-paced world of fintech while contributing to the growth of a promising startup.\nSkill sets:\n1. Passion for fintech and a keen interest in financial technology trends and innovations.\n2. Strong problem-solving skills and the ability to think critically and creatively.\n3. Excellent communication and teamwork skills.\n4. Highly adaptable and eager to learn in a fast-paced startup environment.\n5. Basic knowledge of product management tools and methodologies is a plus.\nExpected learning:\n1. Workings of the Indian Fintech industry.\n2. Exposure to the end-to-end product development process.\n3. Zero to One problem solving skills.",
+  },
+  {
+    "Station Name": "FUNTASTIC CONNEXIONS PRIVATE LIMITED",
+    City: "Gurgaon",
+    Domain: "Front end,Frontend Dev.",
+    Title: "Title: Backend Engineer Intern",
+    Stipend: "40000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Backend Engineer Intern\nDescription: Possess strong proficiency in Golang with hands-on experience in database systems and a solid understanding of RESTful API design and implementation. Well-versed in cloud computing using AWS, and knowledgeable in security best practices for backend development. Demonstrates outstanding problem-solving and analytical skills, with the ability to tackle complex technical challenges. Known for excellent communication and collaboration skills, effectively working with cross-functional teams to drive project success.\nSkill sets: Golang\nTraits expectation: Basic Programming Knowledge, Attention to Detail,Understanding of APIs, Basic Understanding of Databases\nExpected learning: The intern shall shadow a full time Backend Engineer\nSpecific courses required for project execution:  NA",
+  },
+  {
+    "Station Name": "FUNTASTIC CONNEXIONS PRIVATE LIMITED",
+    City: "Gurgaon",
+    Domain: "Back end,Backend Development",
+    Title: "Title: Frontend Engineer Intern",
+    Stipend: "40000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Frontend Engineer Intern\nDescription: Proficiency in SwiftUI with a strong focus on expanding skills into Kotlin and Android development. Solid foundation in problem-solving and Data Structures and Algorithms (DSA), enabling efficient handling of complex challenges. Understanding of security best practices in front-end development to ensure secure and user-friendly applications. Comprehensive knowledge of UI/UX design principles, prioritizing seamless and intuitive user experiences. Strong communication and collaboration skills, facilitating effective teamwork and the delivery of high-quality solutions.\nSkill sets: Proficiency in SwiftUI with desire to learn Kotlin/Android\nTraits expectation: Strong Programming Foundations, Understanding of Databases, Database Querying and Optimization, Testing and Debugging\nExpected learning: The intern shall shadow a full-time Front Engineer\nSpecific courses required for project execution: NA",
+  },
+  {
+    "Station Name": "FUNTASTIC CONNEXIONS PRIVATE LIMITED",
+    City: "Gurgaon",
+    Domain: "Data Analytics,Big Data Analytics",
+    Title: "Title: Data Analyst Intern",
+    Stipend: "40000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Data Analyst Intern\nDescription: Develop and manage dashboard platforms and processes to meet data-related needs. Skilled in analyzing large, complex datasets from multiple sources and interpreting requirements to create reports that align with stakeholder expectations.\nSkill sets: Python and SQL\nTraits expectation: Strong business acumen, paired with a continuous drive for learning and an innate curiosity.\nExpected learning: The intern shall shadow a full-time Data Analyst\nSpecific courses required for project execution:  NA",
+  },
+  {
+    "Station Name": "EkStep Foundation. Bengaluru",
+    City: "Bangalore",
+    Domain: "Finance,Project Management,Business Development",
+    Title: "Title: Data Operations Analyst",
+    Stipend: "30000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Data Operations Analyst\n\nDescription: \n\nWe are seeking a motivated and detail-oriented individual with keen interest in Business Operations and Data Analysis. They will gain valuable practical experience in business operations, data analysis, and strategic decision-making. They will work closely with our team to support various projects and initiatives, contributing to the overall success of the organization. \n\nKey Responsibilities:\n- Conduct basic data analysis and generate reports using Google Sheets, or Python.\n- Support the development of data visualizations, reports and dashboards and analyze them further to communicate insights.\n- Audit the ongoing classroom sessions on ground, analyze student feedback and performance data to continuously improve and refine our learning product.\n- Conduct workshops and training sessions for educators to maximize the effectiveness of our product in the classroom.\n- Assist in project planning, execution, and monitoring progress.\n- Collaborate and support team members on various related projects\n- Contribute ideas and suggestions to enhance project outcomes and deliverables.\n\nSkill sets: \n- Interest and preferably experience working with Google Sheets, Excel, SQL or Python\n- Strong passion for education and making a lasting impact on students.\n- Detail-oriented and organized, with a proactive attitude towards learning and problem-solving.\n- Interest in learning data analysis and project management\n- Excellent verbal and written communication skills.\n- Ability to work collaboratively in a team environment \n\nExpected learning: \n- Data analysis, project management, business operations, strategy",
+  },
+  {
+    "Station Name": "KPMG- GBS",
+    City: "Gurgaon",
+    Domain: "Business Development,Strategy (Consulting)",
+    Title: "Intern - Position Description",
+    Stipend: "30000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "Collaborate with client teams to driveproject outcomes\nUnderstandingthe clientneedsand expectationsbasedoninteraction with key stakeholders\nCollaborating and working with client teams to drive desired project outcomes(e.g. sourcingdata,alignment on deliverablesand talkingpoints)\nSupporting engagementmanager in identifying potential future needs of the Client\nCommunicate effectively and in a structured manner\nMaking error free presentations,with astructuredstoryline, clearly articulating and presenting the findings / point of view\nInteractwith and presentfindings to clientteams in a clear and structured manner, and showcaselogical reasoning\nFeedback from clients and performance on projects\nCompletes tasks and deliverables to ahigh standard as partof client engagements – working to an agreed plan, budget, and quality\nIdentifies and appropriately documents risks and issues and their conclusionsand consultswith appropriateteammembersasnecessary\nEscalates issues beyond own experienceor skill set\nQuality\nTaking initiatives to learn aboutnew tools and methods and adopting the same for engagementdelivery\nIdentifying opportunitiesto use analytical/ automation / digital enablement tools in the engagement delivery\nProblem Solving-Independently generate insights,develop solutions to address client needs and drive effective implementation of desired outcomes\nQuantitative - applying logical and systematic approach for solving analytical tasks,leveragingquantitative tools to analyzedata,creating financial models and conductingdata analysis\nQualitative - drawing sharp and meaningful insightsfromresearch / data analysis with quick turnaround time for problem solving and decision making; and hypothesizing potential solutions to clientproblems\nQualitative ProcessReview(QPR) ratings/internaldocumentation standards.\nEnsuring completion of PAF files at time of project commencement and working papers for all projects within 7 days of project completion\nEnsuring Managerand Partnerreviewis duly minute and documented in PAFs within 5 days of review\nMaintain workingpapersand internaldocumentation inalignment with QPR policies\nQPR documentation to be completed within 7 days of projectcompletion\nKnowledge Management - uploading deliverables\nIntellego\nUndertakesprofessional qualification& training within required timeline to build on skill and expertise\nExecutes projectsto alevel thatmeet the member FirmsQuality standards\nPeople\nTeam Contribution - effectively carrying outassigned responsibilitiesand collaborating with the largerteam\nGoing beyond the tasks assigned and proactively identifying / seeking opportunitiesto increasecontribution to the teamand projectdelivery\nWorking in acollaborative manner with the engagementteamand delivering quality deliverables within budgeted timelines\nIntroducing new and innovativeideas on the project\nMeets firmdeadlines during Performance Developmentcycles, including seekingquality feedback,settinggoals,providinginputinto engagement/ project reviews and having regular conversations with Performance Manager, to a standard expected under OpenPerformance Development.\nAccurately charges time to Engagementcodesto see truevalueof work delivered.\nStarts to establish networkswith clientsand acrossrelevantprofessional bodies and associations and will participate in internal and external professional activities to develop this network.\nShares knowledge with other KPMG colleagues/teams and contributes to the development of knowledgeresources.\nEmbraces Global People Survey (GPS)and/or wider people focusedactions and initiatives which drive cultural improvementacross theirlocal team(s).\nMay assist new starters, including buddy responsibilities and on-boarding.\nTraining Hours\nPublic Trust\nCompliance with Firm values and processes\nSupporting engagementmanager to ensurecompliancewith respectto documentation related to risk process and policies (QPR) within defined timelines\nEnsuringcompliance with Firm'sprocesses and policiessuch as Information Security measures (DLP), Social Media regulations and Independence Guidelines on theproject\nCompletesall mandatory and regulatorytrainingrequired bymember firm by the due date.\nFlags/escalates work thatdoes notfit with firmcapabilities or Risk Management criteria.\nPro-actively takes action to avoid Personal Independence breaches.\nTakes action and speaks up if they observeand/or aremadeof conduct",
+  },
+  {
     "Station Name": "Flipkart (Software Development),Bengaluru",
     City: "Bengaluru",
     Domain: "Software Development",
@@ -5808,53 +6531,40 @@ const stations = [
     "Station Name": "Oracle, Bangalore",
     City: "Bengaluru",
     Domain: "IT",
-    Title: "Bot Framework for Cloud Databases",
+    Title: "details awaited",
     Stipend: "100000INR",
     Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
-    "Project Details":
-      "Along the lines of AskEd/AskDebbie, we are proposing to build a base framework that can be used for building component-specific bots for various areas like networking, infrapatching, provisioning etc. The proposal is to use and improvise the current bots and to build a framework into which additional bots can be plugged in.\nThese bots can come in internal/external variations – we have lots of information spread across various places like public product documentation, confluence pages, runbooks, support notes, JIRAs, slack channels, etc for product components. These bots can scrap that information and make it available for internal or external usage and make it easier for field facing teams to resolve issues or complete deployments faster. AI/ML, chatbots, python, node.js, slack integrations. Self-learner who is interested in exploring and implementing improvements. AI/ML area, cloud databases, Automation Any course available on building chatbots.",
+    "Project Details": "Details awaited",
   },
   {
-    "Station Name": "UBER - Software Engineer, Bengaluru",
-    City: "Bengaluru",
-    Domain: "CSIS/IT",
-    Title: "uber project",
-    Stipend: "177000INR",
-    Degree: "AA A4 A3 B4",
+    "Station Name": "QualityKiosk Technologies India Pvt Ltd , Navi mumbai",
+    City: "Mumbai",
+    Domain: "AI,Data Science",
+    Title:
+      "Software Quality Engineering Project with use of AI and Data Science.",
+    Stipend: "70000INR",
+    Degree: "A7",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details": "Uber project",
-  },
-  {
-    "Station Name": "UBER - Software Engineer, Bengaluru",
-    City: "Bengaluru",
-    Domain: "Software Development,Software Engg",
-    Title:
-      "Work in all phases of Software development and to writing understandable, maintainable, and reusable software",
-    Stipend: "177000INR",
-    Degree: "A7",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
+    "Office-End-Time": "f19:00:00",
     "Project Details":
-      "As an Uber Intern, you'll have a direct impact on the customer experience for both riders and\ndrivers. Do you like our service and want to bring them to the next level? Do you have a beef with\nour app and want to fix it? Then you should apply to join our team. We are ambitious, engaged\nand excited about disrupting the transportation industry across the world. Not just another\nsocial web app: we are moving real assets and real people around their cities. Outside of your\nwork, you will build meaningful relationships with other Interns and Uber mentors through a\nvariety of summer activities.\nIf you meet these criteria, we welcome you to apply.\n\nQualifications and Desired Skills\nDemonstrated software engineering experience through previous internships, work\nexperience, coding competitions, and/or publications\n? Programming experience one or more application or systems languages (Go, Python,\nRuby, Java, C/C++, etc)\n? Interest in building tools/infrastructure\n? A desire to be part of a team that delivers impactful results every day\n? A commitment to writing understandable, maintainable, and reusable software\n? An innate desire to deliver and a strong sense of accountability for your work\n? Willingness to learn new languages and methodologies\n\nAbout Uber:\nWe’re changing the way people think about transportation. Not that long ago we were just an\napp to request premium black cars in a few metropolitan areas. Now we’re a part of the\nlogistical fabric of more than 600 cities around the world. Whether it’s a ride or a sandwich, we\nuse technology to give people what they want, when they want it.\nFor the people who drive with Uber, our app represents a flexible new way to earn money. For\ncities, we help strengthen local economies, improve access to transportation, and make streets\nsafer.",
+      "Software Quality Engineering Project with use of AI and Data Science.",
   },
   {
     "Station Name": "WILP - IOT,Hyderabad",
     City: "Hyderabad",
     Domain: "Backend Engineering,CFD,AI & ML",
-    Title: "Predictive Modeling and Analysis (Boiler Project)",
+    Title: "6 project details given in Description",
     Stipend: "25000INR",
     Degree: "A4 A7",
     Holidays: "Sunday",
     "Office-Start-Time": "10:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "Develop a Reduced Order Model using CFD to simulate temperature, pressure, and flow behavior within the Waste Heat Recovery Boiler. Conduct detailed analyses on boiler performance degradation and identify critical points of wear. Deliver visualizations and data interpretations that help forecast boiler component failures.",
+      "Project 1: Predictive Modeling and Analysis (Boiler Project)\nExpertise / Skill sets: CFD Expertise\nExpected Outcome:\nDevelop a Reduced Order Model using CFD to simulate temperature, pressure, and flow behavior within the Waste Heat Recovery Boiler. Conduct detailed analyses on boiler performance degradation and identify critical points of wear. Deliver visualizations and data interpretations that help forecast boiler component failures.\n\nProject 2: Predictive Modeling and Analysis (Boiler Project)\nExpertise / Skill sets: Programming Expertise\nExpected Outcome:\nCreate a data-driven predictive model using programming (e.g., Python, MATLAB) to estimate the remaining life of the boiler. Integrate sensor data for real-time monitoring and model validation. Build a dashboard or tool to present predictions and notify for scheduled maintenance, improving lifecycle management.\n\nProject 3: Robotics and Digital Twin Development\nExpertise / Skill sets: Virtual Robotic Welding and Assembly Station\nExpected Outcome:\nDevelop a virtual simulation of a robotic station for automotive sheet metal welding and assembly. Demonstrate effective integration of Siemens tools (Technomatics, AMESIM, TIA Portal, PLCSIM) to simulate real-time assembly line processes. Validate the model's efficiency and accuracy in simulating real-world workflows.\n\nProject 4: Robotics and Digital Twin Development\nExpertise / Skill sets: Digital Twin of Mechatronics Systems Board\nExpected Outcome:\nBuild a digital twin of the mechatronics systems board, with full interaction and control capabilities, in a SCORM-compliant package for LMS integration. Enable visualization of component functionality and performance in a virtual environment, replicating real-time data feedback. Allow trainees to explore and experiment within a controlled, risk-free digital environment.\n\nProject 5: Robotics and Digital Twin Development\nExpertise / Skill sets: Collaborative Robot with VR Integration\nExpected Outcome:\nDesign a Collaborative Robot (CoBot) for transformer assembly, incorporating VR gear for user interaction and real-time process observation. Demonstrate VR-driven enhancements for safer and more efficient human-robot collaboration. Provide VR simulations showing interaction, assembly tasks, and the integration of robotics in assembly.\nProject 6: Experiential Learning Modules\nExpertise / Skill sets: SCORM Package for Foundational Skills\nExpected Outcome:\nDevelop SCORM-compliant learning modules on the basics of electronics, computer programming, connected manufacturing, cybersecurity, and cloud computing. Ensure interactive elements like quizzes, simulations, and coding exercises to reinforce learning and track progress. Provide a cohesive, LMS-ready package that enables foundational knowledge development in Industry 4.0 skill areas.",
   },
   {
     "Station Name": "WILP - IOT,Hyderabad",
@@ -5881,6 +6591,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Develop SCORM-compliant learning modules on the basics of electronics, computer programming, connected manufacturing, cybersecurity, and cloud computing. Ensure interactive elements like quizzes, simulations, and coding exercises to reinforce learning and track progress. Provide a cohesive, LMS-ready package that enables foundational knowledge development in Industry 4.0 skill areas.",
+  },
+  {
+    "Station Name": "Avaamo, Bengaluru",
+    City: "Bangalore",
+    Domain: "AI & ML,Gen AI",
+    Title: "Title: Avaamo LLaMB Skill and Conversation AI",
+    Stipend: "75000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title:      Avaamo LLaMB Skill and Conversation AI\nDescription: A next generation platform, Delivering the modern, conversational enterprises\nSkill sets: 1. Familiarity with transformer models such as BERT, including an introduction to dense retrieval techniques.\n2.    Ability to adapt machine learning libraries and frameworks for Natural Language Processing (NLP) tasks, with some exposure to large language models (LLMs).\n3.    Experience in developing and training machine learning models.\n4.    Practical application of prompt engineering techniques.\n5.    Basic statistical analysis of results to support ongoing model improvements.\n6.    Utilization of transformers for classification algorithms, NER, reranking etc.\nTraits expectation: \nExpected learning: Budling or be part of next generation platform into AI and ML space\n\nSpecific courses required for project execution:  Good to have – Large scale enterprise application development related courses",
   },
   {
     "Station Name": "Wells Fargo",
@@ -5931,6 +6654,20 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": "Corporate Intern",
+  },
+  {
+    "Station Name": "Bread Financial , Bengaluru",
+    City: "Bengaluru",
+    Domain: "Finance and Mgmt",
+    Title:
+      "Title-1: Capital Stress Testing PPNR Model Development and Model Execution, Title-2: Financial Data Analytics & Reporting",
+    Stipend: "50000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Capital Stress Testing PPNR Model Development and Model Execution\nDescription: The candidate is expected to work on model development data preparation for PPNR suite of models . Once the data preparation is complete, the expectation is to run multiple model iterations to identify the champion model as per business and statistical requirements.\nSkill sets: Python, SQL, Econometrics\nTraits expectation: Communication, Accountability and ownership of tasks assigned, analytics, regression techniques\nExpected learning: Understanding the end-to-end process of Regulatory Account Level Model Development\nSpecific courses required for project execution: Modeling Techniques, Intermediate Python\n2. Title: Financial Data Analytics & Reporting\nDescription: This project involves reprocessing financial data with a conversion fix and ensuring accessibility for team members. The goal is to enhance the accuracy and accessibility of financial data for better decision-making\nSkill sets: SQL, Python, Data Analysis, Financial Reporting\nTraits expectation: Attention to detail, Analytical thinking, Team collaboration\nExpected learning: Improved data processing skills, Enhanced understanding of financial data analytics, Experience with collaborative tools\nSpecific courses required for project execution: Data Analysis with Python/SQL and emerging tools like PowerBI/Microstrategy",
   },
   {
     "Station Name": "Nielsen Global Media",
@@ -5996,6 +6733,60 @@ const stations = [
       "Title: Intern - Full Stack Developer Description: Skill sets: Java, Reactjs, Nextjs, Nodejs Rumble B2B2C Gaming Portal- Rumble is a B2B gaming platform empowering global publishers with Al-driven solutions for enhanced engagement. Traits expectation: Self-starter, attitude to work in a face paced environment Expected learning: Basic Details Specific courses required for project execution: As a Full Stack Intern at Rumble, you'l gain hands-on experience in OOP principles, SOLID design, and modern cloud technologies. You'll have the opportunity to explore system architecture, database design, and work with cutting-edge GenAl tools. This role offers a comprehensive foundation in both front-end and back-end development, preparingyou forfuture challenges in the tech world Computer Programming I &lIi, Data Structures and Algorithms (if applicable) ",
   },
   {
+    "Station Name": "Carbon Impact Capial Pvt Ltd",
+    City: "Singapore",
+    Domain: "Computer Science,Python,MS Office,Data Science",
+    Title: "Title: Technology and Data Intern",
+    Stipend: "25000INR",
+    Degree: "A7",
+    Holidays: "Sunday,Saturday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      'Title: Technology and Data Intern\n\nDescription: We seek a dynamic and motivated Technology and Data Intern to support our team in various technology and data-related tasks. This internship offers an excellent opportunity to gain hands-on experience in a fast-paced environment while contributing to meaningful projects. The internship period is for 6 months and will be "work from home.” \n\nKey Responsibilities: \n\n1. Data Entry and Management: Assist in organizing and maintaining databases, ensuring accuracy and completeness of data. \n\n2. Data Analysis: Support in analyzing data sets using tools like Excel, SQL, or Python to derive insights and inform decision-making processes. \n\n3. Technology Support: Provide technical support to team members, troubleshoot basic IT issues, and assist in software installations and updates. \n\n4. Documentation: Assist in documenting processes, procedures, and workflows related to technology and data management. \n\n5. Research: Conduct research on emerging technologies and trends in data management, providing summaries and recommendations to the team. \n\n6. Project Assistance: Collaborate with team members on various technology and data-related projects, contributing ideas and executing tasks as needed. \n\n7. Blockchain and AI: Research and application of blockchain technology and AI where practical and relevant.\n\nSkill sets: - Strong analytical skills with the ability to manipulate and interpret data. \n- Proficiency in Microsoft Office suite, particularly Excel. \n- Basic understanding of database management systems and SQL. \n- Familiarity with programming languages such as Python is a plus. \n- Excellent communication and interpersonal skills.\n\nTraits expectation: - Detail-oriented with a proactive and self-motivated attitude. \n- Ability to work independently and as part of a team in a fast-paced environment.\n\nExpected learning:  - Hands-on experience in technology and data-related tasks. \n- Opportunity to work directly with and learn from senior and experienced professionals in the field. \n- Exposure to real-world projects and challenges. \n- Potential for growth and career development within the company. \n- Flexible working hours and remote work.\n\nSpecific courses required for project execution: Currently pursuing a degree in Computer Science, Information Technology, Data Science, or related field.',
+  },
+  {
+    "Station Name": "Carbon Impact Capial Pvt Ltd",
+    City: "Singapore",
+    Domain: "Business Operations,Process,Civil",
+    Title: "Title: Project and Research Intern",
+    Stipend: "25000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Project and Research Intern\n\nDescription: We are seeking a detail-oriented and proactive Project and Research Intern to support our team in exploring diverse areas in climate science. This internship offers an excellent opportunity for individuals to gain hands on experience with a dynamic organization on design of new projects. \n\nKey Responsibilities: \n\n1. Research: Study literature and global standards to understand opportunities in emerging fields. Create summary and recommendations for the team.\n\n2. SOP Development: Assist in developing new SOPs for new project areas being explored.\n\n3. Process Mapping: Use process mapping tools and techniques to visually represent workflows and identify areas for optimization and standardization. \n\n4. Training Material: Create training materials and manuals based on SOPs to facilitate the standardization of processes for new projects.\n\n5. Project Assistance: Collaborate with team members on various aspects of project management\n\nSkill sets: - Excellent communication skills, both written and verbal. \n- Proficiency in Gen AI Prompts, Microsoft Office suite, particularly Word and Excel.\n- Keen interest in Climate science\n\nTraits expectation: - Strong attention to detail and ability to document processes accurately and comprehensively.\n- Ability to analyze complex information to distill key insights.\n- Proactive and self-motivated with a strong desire to learn and contribute to organization.\n\nExpected learning: - Hands-on experience in new project development within a real-world organizational setting. \n- Exposure to cross-functional collaboration and interaction with professionals from diverse backgrounds.\n- Opportunity to learn from experienced professionals \n- Potential for growth and career development within the company. \n- Flexible working hours and remote work.\n\nSpecific courses required for project execution: - Currently pursuing a degree in Civil, Environmental Science or related field",
+  },
+  {
+    "Station Name": "Exobot Dynamics Pvt Ltd,Sonepat",
+    City: "Sonipat",
+    Domain: "Electromechanical design,Mechanical,Mechatronics",
+    Title:
+      "Title: Technology Advancement and Testing of Bionic Hand (Multi-disciplinary)",
+    Stipend: "12000INR",
+    Degree: "A4 A8 AA A3",
+    Holidays: "Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Technology Advancement and Testing of Bionic Hand (Multi-disciplinary)\nDescription: Building on several prototypes already developed, this project focuses on refining and\nadvancing the technological aspects of the bionic hand. Interns will work on improving control\nalgorithms, enhancing sensor integration, optimizing mechanical designs, and contributing to the\nminiaturization and efficiency of the electronics. The goal is to push the boundaries of existing prototypes\nto achieve a market-ready product.\nSkill sets:\nMechanical Engineering –\n? Mechanical design using CAD software (SolidWorks)\n? Knowledge of mechanical structures and ergonomics for prosthetic devices\n? Prototyping and testing of mechanical components\nRobotics/Control Systems –\n? Signal processing and control systems for myoelectric control\n? Machine learning for adaptive control optimization\n? Integration of sensors, encoders, and actuators for precise control\nElectronics/Electrical Engineering –\n? Microcontroller programming (e.g. Arduino, Raspberry Pi, STM32)\n? Circuit design, PCB layout, and hardware troubleshooting\n? Power management for embedded systems\nTraits expectation:\n? Strong analytical and problem-solving skills\n? A passion for innovation in assistive technology\n? Ability to work in a fast-paced R&D environment\n? Strong collaboration and communication skills\nExpected learning:\n? In-depth experience in advanced prosthetic design and development\n? Understanding of product development from prototype to pre-commercialization\n? Exposure to cutting-edge technology in bionics\nSpecific courses required for project execution:\nMechanical Engineering –\n? Mechanical design\n? Product design and development\n? Mechanics\n? CAD/CAM/3D Printing\nRobotics/Control Systems –\n? Robotics and automation\n? Control systems engineering\n? Signal processing\nElectronics/Electrical Engineering –\n? Embedded systems and microcontroller design\n? Circuit design and electronics",
+  },
+  {
+    "Station Name": "Exobot Dynamics Pvt Ltd,Sonepat",
+    City: "Sonipat",
+    Domain: "Mechanical,Electromechanical design",
+    Title:
+      "Title: Design and Development of Passive Prosthetic Grippers for Upper Limb Amputees",
+    Stipend: "12000INR",
+    Degree: "A4",
+    Holidays: "Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Design and Development of Passive Prosthetic Grippers for Upper Limb Amputees\nDescription: This project is in its early stages and aims to develop passive prosthetic grippers from the\nground up. The focus will be on creating a simple, mechanical alternative to advanced prosthetics,\nproviding a cost-effective solution for individuals with upper limb amputations. Interns will be involved in\nevery phase, from initial concept design to prototyping, material selection, and testing.\nSkill sets:\n\n? Mechanical design and CAD modeling (SolidWorks, AutoCAD)\n? Basic knowledge of human biomechanics and kinematics\n? Prototyping and hands-on fabrication skills\n? Understanding of material properties and selection\nTraits expectation:\n? Strong creativity and initiative to explore new design possibilities\n? Interest in social impact and cost-effective healthcare solutions\n? Collaborative spirit and ability to work in a start-up environment\n? Willingness to experiment with new ideas and iterate quickly\nExpected learning:\n? Experience in the complete product development lifecycle, from ideation to testing\n? Skills in mechanical design, rapid prototyping, and user-centered design\n? Exposure to the unique challenges of developing affordable prosthetic devices\n? Hands-on experience in creating solutions with real-world impact\nSpecific courses required for project execution:\n? Mechanical Design and CAD\n? Material Science\n? Introduction to Biomechanics\n? Product Design and Prototyping",
+  },
+  {
     "Station Name": "AjayVision Education Private Limited (VisionIAS)",
     City: "Noida",
     Domain: "AI",
@@ -6024,20 +6815,6 @@ const stations = [
       "Description:\n\nhe AI Evaluator project focuses on developing an AI-powered system that can automatically evaluate handwritten student assignments. By using cutting-edge technologies like Computer Vision, Optical Character Recognition (OCR), and Large Language Models (LLMs), the system will recognize handwriting, analyze the content, and provide instant evaluations. The system will assess grammar, spelling, structure, and content accuracy while generating detailed feedback for students. Teachers will also benefit from a streamlined grading process, allowing them to focus more on teaching. The AI Evaluator will learn from evaluation patterns, improving accuracy with each assessment.\nSkill sets:\n\nComputer Vision (OpenCV, YOLO, Faster R-CNN)\nOptical Character Recognition (OCR)\nLarge Language Models (LLMs) for Content Evaluation\nPython, TensorFlow, PyTorch\nNatural Language Understanding (NLU)\n\nCloud AI Deployment (AWS, Azure, GCP)\n\nTraits expectation: \n\nStrong attention to detail\nAbility to develop and fine-tune AI models for handwriting recognition\nKnowledge of educational evaluation processes\nPassion for solving real-world problems using AI\n\nCollaborative mindset and teamwork skills\nExpected learning:\n\nHands-on experience with AI-driven handwriting recognition\nPractical knowledge of applying LLMs for text evaluation and grading\nAdvanced understanding of computer vision and OCR techniques\nInsights into deploying large-scale AI models on cloud platforms\nReal-world experience in automating student assessment processe\nSpecific courses required for project execution: \n\nDeep Learning for Computer Vision (Coursera)\nOptical Character Recognition Using AI (Udacity)\nLarge Language Models for Natural Language Understanding (Coursera)\n\nAI for Real-World Grading Systems (EdX)",
   },
   {
-    "Station Name":
-      "JPMC - G&C - CIO, Treasury & Corporate (CTC) Risk team – Innovation & Analytics",
-    City: "Mumbai",
-    Domain: "Data Analytics",
-    Title: "CIO, Treasury & Corporate (CTC) Risk team – Innovation & Analytics",
-    Stipend: "150000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "10:00:24",
-    "Office-End-Time": "f19:00:00",
-    "Project Details":
-      "Establish and analyze risk metrics to support business as usual.\n• Understand various Treasury Service Products and operating platform.\n• Perform Risk analysis for Firmwide and Chief Investment Office, Treasury and\nCorporate(CTC) including CTC Market Risk, Credit Risk, Capital Risk, Liquidity Risk, and\nInterest Rate Risk.\n• Work on innovative projects to build best-in-class analytical solutions to transform risk review\nprocess in CTC leveraging advanced analytics, machine learning and generative AI\n• Stakeholder management – Build strong relationships and maintain open communication\nchannels with stakeholders across multiple geographies.\n• Develop skills in Intelligent Solutions like Tableau and Alteryx and employ them to automate\nexisting manual analysis\n• Ensure meeting deliverables in terms of accuracy and timeliness",
-  },
-  {
     "Station Name": "Cadence Design Systems,Bengaluru",
     City: "Bengaluru",
     Domain: "Electronics,VLSI Design",
@@ -6061,6 +6838,21 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f17:00:00",
     "Project Details": "It is continuing student",
+  },
+  {
+    "Station Name":
+      "Centre for Effective Governance of India States (CEGIS)- Tamil Nadu",
+    City: "Chennai",
+    Domain: "Analytics,Data Analytics,Finance",
+    Title:
+      "Title: Product Management Intern - Public Procurement Analytics and Process Platforms",
+    Stipend: "25000INR",
+    Degree: "A7 B3",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Product Management Intern - Public Procurement Analytics and Process Platforms\n\nDescription: \nWe are seeking an organized and proactive Product Management Intern to support our team in enhancing public procurement processes for the state government of Tamil Nadu. \n\nAnalytics Automation and Coordination:\nCollaborate with an IT partner to automate procurement analytics processes for the Tamil Nadu government.\nAssist in analyzing tender data using R or Python, creating wireframes for automating analysis, coordinating with IT vendors on project plans, and conducting user testing to validate the output’s accuracy and usability.\nProcess Platform Launch:\nWork with an IT partner to compile and organize platform requirements from various government departments.\nSupport in user testing of the platform: Carry out user testing of the platform and document inputs from the government department\nDocument and compile progress updates for senior government stakeholders\n\nSkill sets: \nAnalytical Skills: Proficient in data analysis, with coding experience in R or Python preferred. Ability to interpret tender data and support requirements specification for analytics projects.\nData visualization: Knowledge of Power BI to create detailed visualizations in automated formats\nStrong interpersonal and communication skills to facilitate project coordination with vendors, government stakeholders, and IT teams. Proficiency in Tamil is strongly preferred to support communication with state government departments.\n\nTraits expectation: \nOrganizational and Documentation Skills: Demonstrates strong attention to detail and the ability to keep comprehensive and accurate records, with a structured approach to compiling requirements, user feedback, and project updates.\nAdaptability and Problem-Solving: Quick learner with a proactive approach to identifying issues and proposing solutions in a fast-paced project environment.\nProduct Management Mindset: An interest in product management, with an understanding of user-centered design, iterative testing, and continuous improvement principles.\n\nExpected learning: The intern will work closely with an IT partner to develop and manage analytics and process platforms that streamline government procurement functions. This position offers a unique opportunity to gain hands-on experience in product management, analytics, and cross-functional project coordination within a public-sector context.\n\nSpecific courses required for project execution: \nData analytics course in R, Python, or SQL\nSoftware system architecture (optional)",
   },
   {
     "Station Name": "Morgan Stanley Advantage Services - FRM",
@@ -6101,6 +6893,19 @@ const stations = [
       "About this opportunity\nWe are seeking a motivated individual to join our team as an Entry-Level Azure DevOps Engineer. This role is focused on the\nfoundational aspects of Azure DevOps, including security, compliance, networking, and continuous integration and delivery\n(CI/CD). Prior experience is not required, making this an excellent opportunity for those looking to start their career in a\nsupportive and growth-oriented environment.\nIn this role, you will...\n• Develop and maintain CI/CD pipelines to automate and streamline operations.\n• Implement and uphold security measures and compliance controls within the Azure DevOps framework.\n• Manage networking resources to ensure secure and efficient configurations.\n• Facilitate the deployment of applications across various Azure services in adherence to security policies.\n• Collaborate with teams to integrate security and compliance practices into the DevOps lifecycle.\n• Engage in process improvement initiatives for CI/CD, including automation, monitoring, and optimization.\n• Keep abreast of the latest trends and technologies in Azure DevOps, security, and compliance.\nIn this role, you’ll need ...\n• Bachelor's degree in Computer Science, Information Technology, or a related field, or equivalent educational\nexperience.\n• A foundational understanding of Azure DevOps, security, compliance, and networking principles.\n• Knowledge of CI/CD methodologies.\n• Strong analytical and problem-solving skills.\n• Excellent communication and teamwork capabilities.\n• A proactive learning mindset and adaptability in a dynamic environment.\nPreferred (but not required):\n• Azure, security, or networking certifications.\n• Experience with DevOps practices through internships or academic projects.",
   },
   {
+    "Station Name": "AMD,Hyderabad",
+    City: "Hyderabad",
+    Domain: "Electronics,Verification and validation",
+    Title: "Graphics Engineering",
+    Stipend: "35000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Strong knowledge in C/C++, Assembly languages and Test development methodologies\nStrong knowledge in Computer/Graphics Architecture, System knowledge\nStrong knowledge in debugging skills and scripting languages\nSkill sets: C/C++/Comp/Graphics Arch, Scripting languages",
+  },
+  {
     "Station Name": "Digitral Private Limited",
     City: "Hyderabad",
     Domain: "AI",
@@ -6112,6 +6917,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Brief of project/assignment:\nWe are seeking enthusiasti c interns to join our team and gain hands-onexperience working on Proof of Concepts (POCs) that explore the latest advancements in technology,with a strong focus on\nArti fi cial Intelligence (AI)\n. This internship off ers a unique opportunity to engagewith cutti ng-edge industry trends, expand technical skills, and contribute to real-world projects.\nKey Responsibiliti es\nIndependent POC Development\n: Interns will work on individual POC projects, designed to explore anddemonstrate new technologies, especially in the realm of AI. This includes research, experimentati on,and building prototypes using AI tools and frameworks, potenti ally shaping future soluti ons in fi elds suchas machine learning, natural language processing, and computer vision.\n10/14/24, 5:22 PM BITS Pilani University Mail - Fwd: Inquiry about candidate availability for 6-Month Internship program\nhttps://mail.google.com/mail/u/0/?ik=9233a0bef6&view=pt&search=all&permthid=thread-f:1812880752012227792&simpl=msg-f:18128807520122… 2/9\nFeature Development on Existi ng Products\n: Interns will collaborate with our team to enhance ourcurrent products by adding new features, including AI-powered functi onaliti es where applicable. This willinvolve understanding the product roadmap, learning best practi ces in AI and soft ware development,and contributi ng meaningful improvements.",
+  },
+  {
+    "Station Name": "Bharat Forge Ltd.,Pune",
+    City: "Pune",
+    Domain: "Mechanical",
+    Title: "Project detials given in Description",
+    Stipend: "10000INR",
+    Degree: "A4 AB",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "Project 1 Title: Design and development of independent suspension for mining truck\n\nDescription: Project involves finding latest technologies in this area and implementation of\nthe same, complete design, analysis of independent suspension for better ride & comfort,\nK&C evaluation and strength & durability for road loads.\nSkill sets: Vehicle dynamics, Tools – Motionsolve\nTraits expectation: Strong technical fundamentals, pro-active, innovative mindset\nExpected learning: design of suspension systems\nSpecific courses required for project execution: Vehicle dynamics, structural mechanics, vibrations\n\nProject 2 Title: Heat treatment distortion prediction for gears\n\nDescription: Project involves evaluation of distortion during heat treatment process using numerical\nmethods. It involves numerical modeling of phase transformation and comparison of distortion with\nactual parts which are heat treated.\nSkill sets: FEA, Basics of heat treatment, Tools – Ansys /Abaqus\nTraits expectation: Strong technical fundamentals, pro-active, innovative mindset\nExpected learning: Simulation of manufacturing methods like heat treatment\nSpecific courses required for project execution: Metallurgy, FEA, Numerical methods\nProject 3 Title: Design and development of shifting mechanism for multi speed transmission\nDescription: To design auto shifting mechanism for 2 speed transmission for electric 3W\nSkill sets: Matlab, Simulink, Mechatronics,\nTraits expectation: Strong technical fundamentals, pro-active, innovative mindset\nExpected learning: Design of shifting systems\nSpecific courses required for project execution: Control systems, Mechatronics\nProject 4 Title: Engineering design process automation using VB script in Excel\nDescription: To align with IATF/ISO design process requirements\nSkill sets: Engineering design process, VB\nTraits expectation: Strong technical fundamentals, pro-active, innovative mindset\nExpected learning: Automation of engineering processes\nSpecific courses required for project execution: Programming, Product development process\n\nProject 5 Title: Laser welding of two components – Design, simulation, testing\n\nDescription: To design laser welded differential\nSkill sets: New joining technology, FEA, heat transfer\nTraits expectation: Strong technical fundamentals, pro-active, innovative mindset\nExpected learning: New manufacturing technologies\nSpecific courses required for project execution: FEA, Manufacturing technology, Metallurgy",
   },
   {
     "Station Name": "Birla Cellulose, Pulp & Fiber Business, Taloja",
@@ -6142,6 +6960,19 @@ const stations = [
       "This project is focused on keeping brightness on target & reduce the variability in a Swedish Pulp mill.\nDescription: This project is focused on keeping brightness on target & reduce the variabilityin a Swedish Pulp mill.\nSkill sets: Strong MLOps skill, Python, Plotly Dash, Machine learning modelling, visual studio etc\nTraits expectation: Self-driven, inspired, quick learner\nExpected learning: End-to-end ML Model development & deployment in real time\nSpecific courses required for project execution:  ML Andrew Coursera , www.pypi.org",
   },
   {
+    "Station Name": "Genpact- Data Scientist - Bengaluru",
+    City: "Bengaluru",
+    Domain: "Data Science",
+    Title: "Title: Data Scientist –Internship with Global AI/ML Team",
+    Stipend: "30000INR",
+    Degree: "A7 AA",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Data Scientist –Internship with Global AI/ML Team\n\nDescription: The key responsibilities of Data Scientist are:\nCreation of cutting-edge models for understanding vast amounts of textual, numeric, graphic and speech data\nCreation and deployment of production-ready code\nCreate framework for AI/ML code deployment to ensure robustness and reliability of production ready models\n\nMandatory Skill sets: \nExposure to Statistical Toolkits such as R, Weka, Python, Azure ML, AWS Sagemaker\n• Very good Python/R programming skills. Java programming skills a plus\n• Building, deploying and measuring predictive/prescriptive analytics models (i.e. SVM,\ndecision tree, clustering, logistic regression, linear and non-linear regression, ANN,\nCNN, RNN)\n• Deep learning frameworks such as Tensor Flow, Keras, PyTorch, Theano\n• Tooling frameworks like PyCharm or Jupyter\n\nAdditional / Skill Sets (Preferred): \nUnderstanding of Graph DB and tools such as Neo4j etc.\nUnderstanding of NLP, NLU and Machine learning/Deep learning methods\nSQL/NoSQL, MS Access, databases\nUI development paradigms that would enable Text Mining Insights Visualization e.g., Adobe\nFlex Builder, HTML5, CSS3\nLinux, GPU Experience\nSpark, Scala for distributed computing\nPublic cloud exposure.\n\nSpecific courses required for project execution: \n\nAcademic course work in various levels of math dealing with probability and statistics,\nBayesian networking and graphical modeling, and coverage of deep learning and neural\nnetworks and cognitive science, One or more assignments completed in designing, building, training and deploying a model for a given area.",
+  },
+  {
     "Station Name": "CSIR - Central Road Research Institute (CRRI)",
     City: "New Delhi",
     Domain: "Civil",
@@ -6165,6 +6996,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "The students will be working on the various aspects of our different\nproducts built on Gen AI",
+  },
+  {
+    "Station Name": "Indus Insights and Analytical Services Pvt Ltd,Gurugram",
+    City: "Gurgaon",
+    Domain: "Management,Data Science,Data Analysis,Data Analytics",
+    Title: "Project area : Data Science and Advanced Analytics",
+    Stipend: "100000INR",
+    Degree: "B4 B2 B1 AB AA A8 A4 A3 A2 A1 B5 B3",
+    Holidays: "Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Project area : Data Science and Advanced Analytics\nExpected learning (in bullet points)\nAt the completion of the internship, candidates would have the following learnings:\nWorking knowledge of using data science and data analysis tools, such as SQL, Excel, Python, R\nApplication of Data Science and Analytics in dynamic sectors such as Fintech, Insurtech, etc\nClient management and communication skills\nSkill set required to execute the project (Technical)\nExcel, SQL, Python/R (Extensive training will be provided onsite during the internship)",
   },
   {
     "Station Name": "UBS- RAS (Finance), Pune",
@@ -6219,7 +7063,7 @@ const stations = [
       "Project 1\nTitle: AI, ML\n\nDescription: Analysis on dataset formats, architecture backbones, saved model formats, performance, etc. of available object detection models. Identifying and automating stages like annotation, training, comparison, testing and prediction API deployment.\n  Research and documentation of current state of the art models and methodologies in NLP, Speech and Computer Vision. Hands on task at the end for their experience.\n\nSkill sets: Programming skills, Python, basic understanding of ML.\n\n\nProject 2\nTitle: Data Science\n\nDescription: Application of Data Science and Machine Learning techniques to improve production, supply chain, sales, marketing and retail strategies of Fast-Moving Consumer Goods (FMCG).\n\nSkill sets: Python-pandas, NumPy, scikit-learn, matplotlib; Basic understanding of transforming and claiming data, manipulation of data, data visualization, Understanding of ML regression and classification algorithm, SQL",
   },
   {
-    "Station Name": "Nurix Labs Private Limited",
+    "Station Name": "Nurix Labs Private Limited - Tech",
     City: "Bangalore",
     Domain: "Machine Learning,AI & ML",
     Title: "Gen AI based Agents",
@@ -6233,28 +7077,16 @@ const stations = [
   {
     "Station Name": "MBB Labs Private Limited (Maybank),Bengaluru",
     City: "Bangalore",
-    Domain: "Application Development",
-    Title: "Project 1: Product Engineering Projects",
+    Domain:
+      "Backend Development,Full Stack Development,Front end,Software Development",
+    Title: "Title: Will be decided once the student joins",
     Stipend: "35000INR",
-    Degree: "A2 A1 A3 A4 A7 A8 AB AA B4 D2",
+    Degree: "B4 AB A1 AA A8 A7 A4 A3 A2 D2",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details":
-      "Title: Will be decided once the student joins\nDescription: Will be decided once the student joins\nSkill Set:\nAspiration to become a software developer\nWillingness to learn Java, Python, React etc. on the job\nTraits expectation:\nCuriosity to learn\nAbility to pick up new skills quickly\nExpected learning:\nDevelop original algorithms, logic and code, and ensure that it withstands any test\nUnderstand the difference between creating a product and working on a turnkey project, and write code accordingly\nDemonstrate significant abstraction skills to convert requirements into usable product features\nCreating original algorithms and ideas to solve complex issues\nSpecific courses required for project execution: Knowledge of Java, Python, React etc. will be an advantage",
-  },
-  {
-    "Station Name": "MBB Labs Private Limited (Maybank),Bengaluru",
-    City: "Bangalore",
-    Domain: "Application Development",
-    Title: "Project 2: Product Engineering Projects - Python",
-    Stipend: "35000INR",
-    Degree: "A1 A2 A3 A8 AB AA D2 B4",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details":
-      "Title: Will be decided once the student joins\nDescription: Will be decided once the student joins\nSkill Set:\nAspiration to become a software developer\nWillingness to learn Java, Python, React etc. on the job\nTraits expectation:\nCuriosity to learn\nAbility to pick up new skills quickly\nExpected learning:\nDevelop original algorithms, logic and code, and ensure that it withstands any test\nUnderstand the difference between creating a product and working on a turnkey project, and write code accordingly\nDemonstrate significant abstraction skills to convert requirements into usable product features\nCreating original algorithms and ideas to solve complex issues\nSpecific courses required for project execution: Python and React working knowledge is a must",
+      "Title: Will be decided once the student joins\nDescription: Will be decided once the student joins\nSkill Set:\n? Aspiration to become a software developer\n? Willingness to learn Java, Python, React etc. on the job\nTraits expectation:\n? Curiosity to learn\n? Ability to pick up new skills quickly\nExpected learning:\n? Develop original algorithms, logic and code, and ensure that it withstands any test\n? Understand the difference between creating a product and working on a turnkey project,\nand write code accordingly\n? Demonstrate significant abstraction skills to convert requirements into usable product\nfeatures\n? Creating original algorithms and ideas to solve complex issues\nSpecific courses required for project execution: Knowledge of Java, Python, React etc. will\nbe an advantage\n\nProject 2: Product Engineering\nProjects\n\nTitle: Will be decided once the student joins\nDescription: Will be decided once the student joins\nSkill Set:\n? Aspiration to become a software developer\n? Willingness to learn Java, Python, React etc. on the job\nTraits expectation:\n? Curiosity to learn\n? Ability to pick up new skills quickly\nExpected learning:\n? Develop original algorithms, logic and code, and ensure that it withstands any test\n? Understand the difference between creating a product and working on a turnkey project,\nand write code accordingly\n? Demonstrate significant abstraction skills to convert requirements into usable product\nfeatures\n? Creating original algorithms and ideas to solve complex issues\nSpecific courses required for project execution: Python and React working knowledge is a",
   },
   {
     "Station Name": "MBB Labs Private Limited (Maybank),Bengaluru",
@@ -6268,6 +7100,20 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "Title: Will be decided once the student joins\nDescription: Will be decided once the student joins\nSkill Set:\nAspiration to become a techno-functional expert in the Financial Software domain\nWillingness to learn Selenium, automation testing etc. on the job\nTraits expectation:\nCuriosity to learn\nAbility to pick up new skills quickly\nExpected learning:\nAssist in analysing product performance data to identify areas for improvement in speed, efficiency, and reliability\nDocument changes and optimizations made to products, updating technical documentation and maintenance records.\nResearch industry best practices and emerging technologies to recommend methods for improving product efficiency.\nCollaborate with quality assurance teams to ensure all optimizations meet standards for product quality and user experience.\nSpecific courses required for project execution: Knowledge of Banking, Finance etc. will be an advantage",
+  },
+  {
+    "Station Name": "CISPL-Complete Instrumentation Solutions Private Limited",
+    City: "Gurgaon",
+    Domain: "Civil",
+    Title:
+      "Title : It will be depend on the projects available during the time of PS.",
+    Stipend: "18000INR",
+    Degree: "A2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title : It will be depend on the projects available during the time of PS.\nDescription : Mostly projects will be in domain of pavement evaluation and structural health monitoring.\nSkill set : Pavement evaluation, Pavement management system, Structural analysis etc.\nTraits Expectation : Eagerness to learn, Teamwork and Collaboration, Adaptability and basic skills and knowledge.\n\nExpected learning : Different type of equipment used for evaluation of structures and Pavement domain. Software required for industry, latest innovations in technologies regarding civil engineering.\nSpecific courses required for Project execution : Pavement material, pavement analysis and Design, Pavement management system, building materials, RCC and other Civil engineering courses.",
   },
   {
     "Station Name": "WILP - Communication Lab, Hyderabad",
@@ -6312,7 +7158,7 @@ const stations = [
     Domain: "Software Domain",
     Title: "Details awaited",
     Stipend: "100000INR",
-    Degree: "A3 A8 A7 AA",
+    Degree: "AA A7 A8 A3",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "08:00:00",
     "Office-End-Time": "f17:00:00",
@@ -6535,6 +7381,18 @@ const stations = [
     "Project Details": "--",
   },
   {
+    "Station Name": "CME GROUP",
+    City: "Bengaluru",
+    Domain: "Computer Science",
+    Title: "Selection through Interview",
+    Stipend: "80000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "Selection through Interview",
+  },
+  {
     "Station Name": "Varaha ClimateAg Private Limited",
     City: "Gurgaon",
     Domain: "Analytics",
@@ -6600,6 +7458,19 @@ const stations = [
     "Project Details": "--",
   },
   {
+    "Station Name": "SeamlessAI Softtech Private Limited",
+    City: "Bengaluru",
+    Domain: "Python,Website optimization,Website Development",
+    Title: "Title: Building AI agent for website optimization",
+    Stipend: "45000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Building AI agent for website optimization \nDescription: Automation of the current CRO process \nSkill sets: Python, LLM applications, basics of AI \nTraits expectation: Ability to learn quickly, good understanding of computer science and problem solving\nExpected learning: \nSpecific courses required for project execution:  Data analytics, Computer science",
+  },
+  {
     "Station Name": "Capital One",
     City: "Bengaluru",
     Domain: "Software Engg",
@@ -6624,6 +7495,20 @@ const stations = [
     "Office-End-Time": "f18:30:00",
     "Project Details":
       "OfBusiness is a well funded startup which is a unique combination of Fintech and\nEcommerce. OfBusiness is on the mission to bring a change, by leveraging Technology, in the way SMEs in India transact with one another. In our quest, OfBusiness is building India’s most trusted SME network, serving all that they\ncare for: Credit,\nCommerce (material\nsupply) and SME SaaS\n(via its Bidassist\nplatform).",
+  },
+  {
+    "Station Name":
+      "Critical Path Technologies Private Limited (“SalarySe) - Tech",
+    City: "Gurgaon",
+    Domain: "FinTech",
+    Title: "Title: Tech Intern",
+    Stipend: "71000INR",
+    Degree: "A7 A3 AA A8",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Title: Tech Intern\nDescription: Work on building industry first and state of the art lending, payments and credit card\nplatform. You will gain firsthand exposure to building core fintech features from the ground up. You will\nreceive guidance and collaborate closely with engineering and product leaders. A typical day would\nhave extensive brainstorming to address customer challenges using technology, discussions on\ntechnical architecture and writing tons of code.\nSkill sets:\n1. Experience in object-oriented programming language, preferably Java.\n2. Understanding of fundamental concepts of computer science - programming, database, data\nstructures and algorithms.\nExpected learning:\n1. Building financial products from grounds up\n2. Collaboration with various stakeholders (internal and external)\n3. Understanding of fintech industry and ecosystem",
   },
   {
     "Station Name": "UBS GCRG, Mumbai/Pune",
@@ -6687,6 +7572,71 @@ const stations = [
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
     "Project Details": "-",
+  },
+  {
+    "Station Name": "Synchrony, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Backend Development,Java,API",
+    Title: "Title: EIS API Engagements, DARE",
+    Stipend: "45000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "14:00:00",
+    "Office-End-Time": "f23:00:00",
+    "Project Details":
+      "Title: EIS API Engagements, DARE\nDescription: EIS API Engagements, DARE\nSkill sets: API Development, REST FULL API, Authentication & authorization and Design, AWS Cloud services\nTraits expectation: \nExpected learning: Java Programming, Project execution, API Archtecture & Design\nSpecific courses required for project execution: \nApplication training, REST FULL API, AWS Cloud basics, \nCore Java, API Architecture, Cloud",
+  },
+  {
+    "Station Name": "Synchrony, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Java,API,Cloud,Cloud Computing",
+    Title: "Title: Digital Engineering - FE Org",
+    Stipend: "45000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "14:00:00",
+    "Office-End-Time": "f23:00:00",
+    "Project Details":
+      "Title: Digital Engineering - FE Org \nDescription: Digital Engineering - Vista \nSkill sets:\n HTML, CSS, JS, ES6, React and  Redux\nTraits expectation: \nExpected learning:\nMust be interested in Frontend development and have some knowledge of HTML, CSS, and JavaScript.\nSpecific courses required for project execution:  \nCore Java, API Architecture, Cloud, https://synchrony.udemy.com/course/the-complete-web-development-bootcamp/",
+  },
+  {
+    "Station Name": "Synchrony, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Java,Cloud,Computer Science",
+    Title: "Title:CIA Jack Ryan",
+    Stipend: "45000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "14:00:00",
+    "Office-End-Time": "f23:00:00",
+    "Project Details":
+      "Title:CIA Jack Ryan\n\nDescription: \n API Engineering\nSkill sets:\nJava, Spring Boot, Spring Batch, APIGEE and AWS\nTraits expectation: \nExpected learning:\n Java, Spring Boot and Spring Batch\nSpecific courses required for project execution:  https://synchrony.udemy.com/course/the-complete-web-development-bootcamp/",
+  },
+  {
+    "Station Name": "Synchrony, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Management",
+    Title: "title: Prism Initiative",
+    Stipend: "45000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "14:00:00",
+    "Office-End-Time": "f23:00:00",
+    "Project Details":
+      "title: Prism Initiative\nDescription: Prism Initiative \nSkill sets: \nAPI Development, REST FULL API, Authentication & authorization and Design, AWS Cloud services\nTraits expectation: \nExpected learning: \nJava Programming, Project execution, API Archtecture & Design\nSpecific courses required for project execution:  \nApplication training, REST FULL API, AWS Cloud basics, \nCore Java, API Architecture, Cloud",
+  },
+  {
+    "Station Name": "Synchrony, Hyderabad",
+    City: "Hyderabad",
+    Domain: "Application Development,Mobile App,Mobile App Development",
+    Title: "Title: Digital Engineering - Mobile Org",
+    Stipend: "45000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "14:00:00",
+    "Office-End-Time": "f23:00:00",
+    "Project Details":
+      "Title: Digital Engineering - Mobile Org\nDescription: Native iOS – SyPI Team KitKat – (Tushar AL)\nSkill sets:\nJava/Swift/Kotlin, iOS/Android Platforms, Javascript and any scripting is a plus (Python, Bash, Groovy, etc)\nTraits expectation: \nExpected learning:\n Native mobile app development for iOS and Android platforms\n\nSpecific courses required for project execution:  https://synchrony.udemy.com/course/the-complete-web-development-bootcamp/",
   },
   {
     "Station Name": "Mita Robot India Pvt Ltd",
@@ -6804,19 +7754,6 @@ const stations = [
       "Description: Create a machine learning model that can be trained to detect posture\nbased behavioral analysis and predict threats\nSkill sets::Computer Vision, machine learning\nExpected learning: Image classification, Computer vision, machine learning\nSpecific courses required for project execution:",
   },
   {
-    "Station Name": "Mokshagna Technolgoies Pvt. Ltd (Remit2Any)-Tech",
-    City: "Bengaluru",
-    Domain: "Java,SQL,Computer Science",
-    Title: "Title: Backend Software Development Intern - Remit Money",
-    Stipend: "30000INR",
-    Degree: "A7",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "09:30:00",
-    "Office-End-Time": "f17:30:00",
-    "Project Details":
-      "Description:\nYou will work on building and scaling the backend systems for a payments\nplatform that simplifies global money movement using stablecoins. This is a\nhigh-impact role where you’ll get hands-on experience with designing scalable\nAPIs, database management, and building backend infrastructure for Remit\nMoney’s customer-facing platform.\nSkill Sets:\n? Proficiency in Java, Node.js, or Python\n? Experience with API development\n? Knowledge of databases (SQL and NoSQL)\n? Familiarity with cloud platforms (AWS/GCP)\n? Understanding of blockchain fundamentals is a plus\nTraits Expectation:\n? Strong problem-solving skills\n? Ability to work in a fast-paced environment\n? Team player with a growth mindset\nExpected Learning:\n? Experience in building financial platforms using modern backend\ntechnologies\n? Exposure to blockchain and stablecoins\n? Hands-on experience in scaling backend systems for global users\nSpecific Courses Required for Project Execution:\n? Data Structures and Algorithms\n? Databases and Cloud Computing\n? Blockchain fundamentals (optional)",
-  },
-  {
     "Station Name": "SkyServe- Hyspace Technologies Pvt Ltd",
     City: "Bengaluru",
     Domain: "Product Management,Project Management,Project Task Management",
@@ -6842,6 +7779,19 @@ const stations = [
     "Office-End-Time": "f18:00",
     "Project Details":
       "Understand the manufacturing process and implement Lean Manufacturing and Supply Chain.",
+  },
+  {
+    "Station Name": "SG Analytics, Pune",
+    City: "Pune",
+    Domain: "Programming and Scripting,Computer Science,Python,Data Science",
+    Title: "Project details given in Description.",
+    Stipend: "28000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:30:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Project 1: Title: Publication Monitoring Tool\nDescription: This is a proprietary document monitoring tool that helps enhance efficiency in the client’s document procurement process. This tool scours several global stock exchanges and company websites using advanced multi-level crawling\nTech stack: Vue.js, Node.js, Python Programming, Postgresql, AWS\nExpected Learning: Data ETL & Solutions\nSpecific Courses Required for Project Execution: Data Engineering\nProject reference: https://www.sganalytics.com/esg-document-tracking-software/\n\nProject 2: Intelligent Data Extraction & Tagging Tool (IDEAT)\nDescription: This is an AI-powered solution that streamlines data extraction & analysis from documents, enabling secondary research analysts to swiftly extract metrics & answers, with better accuracy and saves their time by minimizing manual processes\nTech Stack: Vue.js, Node.js, Python Programming, Data Science, In-house LLM, Postgresql, AWS\nExpected Learning: Data Science & Solutions\nSpecific Courses Required for Project Execution: Data Science\nProject reference: https://www.sganalytics.com/esg-data-management-software/",
   },
   {
     "Station Name":
@@ -6883,43 +7833,7 @@ const stations = [
     "Project Details": "Details awaited",
   },
   {
-    "Station Name": "UBER - Software Engineer,Bangalore",
-    City: "Bengaluru",
-    Domain: "Software Engg",
-    Title: "Details awaited",
-    Stipend: "177000INR",
-    Degree: "B4 A3 A8 AA",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f17:00:00",
-    "Project Details": "-",
-  },
-  {
-    "Station Name": "UBER - Software Engineer,Bangalore",
-    City: "Bengaluru",
-    Domain: "CSIS/IT",
-    Title: "---",
-    Stipend: "0INR",
-    Degree: "A7",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details": "----",
-  },
-  {
-    "Station Name": "UBER - Software Engineer,Bangalore",
-    City: "Bengaluru",
-    Domain: "CSIS/IT",
-    Title: "---",
-    Stipend: "177000INR",
-    Degree: "A7 A3 A8 AA",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details": "----",
-  },
-  {
-    "Station Name": "UBER - Software Engineer,Bangalore",
+    "Station Name": "UBER - Software Engineer, Hyderabad/Bengaluru",
     City: "Bengaluru",
     Domain: "Software Development",
     Title:
@@ -6931,6 +7845,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "As an Uber Intern, you'll have a direct impact on the customer experience for both riders and\ndrivers. Do you like our service and want to bring them to the next level? Do you have a beef with\nour app and want to fix it? Then you should apply to join our team. We are ambitious, engaged\nand excited about disrupting the transportation industry across the world. Not just another\nsocial web app: we are moving real assets and real people around their cities. Outside of your\nwork, you will build meaningful relationships with other Interns and Uber mentors through a\nvariety of summer activities.\nIf you meet these criteria, we welcome you to apply.\n\nQualifications and Desired Skills\nDemonstrated software engineering experience through previous internships, work\nexperience, coding competitions, and/or publications\n? Programming experience one or more application or systems languages (Go, Python,\nRuby, Java, C/C++, etc)\n? Interest in building tools/infrastructure\n? A desire to be part of a team that delivers impactful results every day\n? A commitment to writing understandable, maintainable, and reusable software\n? An innate desire to deliver and a strong sense of accountability for your work\n? Willingness to learn new languages and methodologies\n\nAbout Uber:\nWe’re changing the way people think about transportation. Not that long ago we were just an\napp to request premium black cars in a few metropolitan areas. Now we’re a part of the\nlogistical fabric of more than 600 cities around the world. Whether it’s a ride or a sandwich, we\nuse technology to give people what they want, when they want it.\nFor the people who drive with Uber, our app represents a flexible new way to earn money. For\ncities, we help strengthen local economies, improve access to transportation, and make streets\nsafer.",
+  },
+  {
+    "Station Name": "Genpact- Data Scientist - Gurugram",
+    City: "Gurgaon",
+    Domain: "AI & ML,Java",
+    Title: "Title: Data Scientist –Internship with Global AI/ML Team",
+    Stipend: "30000INR",
+    Degree: "A7 AA A3 A8",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Data Scientist –Internship with Global AI/ML Team\n\nDescription: The key responsibilities of Data Scientist are:\nCreation of cutting-edge models for understanding vast amounts of textual, numeric, graphic and speech data\nCreation and deployment of production-ready code\nCreate framework for AI/ML code deployment to ensure robustness and reliability of production ready models\n\nMandatory Skill sets: \nExposure to Statistical Toolkits such as R, Weka, Python, Azure ML, AWS Sagemaker\n• Very good Python/R programming skills. Java programming skills a plus\n• Building, deploying and measuring predictive/prescriptive analytics models (i.e. SVM,\ndecision tree, clustering, logistic regression, linear and non-linear regression, ANN,\nCNN, RNN)\n• Deep learning frameworks such as Tensor Flow, Keras, PyTorch, Theano\n• Tooling frameworks like PyCharm or Jupyter\n\nAdditional / Skill Sets (Preferred): \nUnderstanding of Graph DB and tools such as Neo4j etc.\nUnderstanding of NLP, NLU and Machine learning/Deep learning methods\nSQL/NoSQL, MS Access, databases\nUI development paradigms that would enable Text Mining Insights Visualization e.g., Adobe\nFlex Builder, HTML5, CSS3\nLinux, GPU Experience\nSpark, Scala for distributed computing\nPublic cloud exposure.\n\nSpecific courses required for project execution: \n\nAcademic course work in various levels of math dealing with probability and statistics,\nBayesian networking and graphical modeling, and coverage of deep learning and neural\nnetworks and cognitive science, One or more assignments completed in designing, building, training and deploying a model for a given area.",
   },
   {
     "Station Name": "Silverleaf Capital Services Private Limited",
@@ -7111,45 +8038,6 @@ const stations = [
     "Station Name":
       "Novartis Healthcare Private Limited- Data Science & Analytics",
     City: "Hyderabad",
-    Domain: null,
-    Title: "to be decided",
-    Stipend: "00",
-    Degree: null,
-    Holidays: null,
-    "Office-Start-Time": null,
-    "Office-End-Time": "f",
-    "Project Details": "-",
-  },
-  {
-    "Station Name":
-      "Novartis Healthcare Private Limited- Data Science & Analytics",
-    City: "Hyderabad",
-    Domain: null,
-    Title: "to be decided",
-    Stipend: "00",
-    Degree: null,
-    Holidays: null,
-    "Office-Start-Time": null,
-    "Office-End-Time": "f",
-    "Project Details": "-",
-  },
-  {
-    "Station Name":
-      "Novartis Healthcare Private Limited- Data Science & Analytics",
-    City: "Hyderabad",
-    Domain: null,
-    Title: "to be decided",
-    Stipend: "00",
-    Degree: null,
-    Holidays: null,
-    "Office-Start-Time": null,
-    "Office-End-Time": "f",
-    "Project Details": "-",
-  },
-  {
-    "Station Name":
-      "Novartis Healthcare Private Limited- Data Science & Analytics",
-    City: "Hyderabad",
     Domain: "Healthcare",
     Title: "to be decided",
     Stipend: "50000INR",
@@ -7200,6 +8088,18 @@ const stations = [
       "Gain profound insights into the financial domain, developing a\ncomprehensive understanding of the industry\n• Acquire an end-to-end understanding of trading systems workflow\nwhile actively contributing to the development of core trading\nsystems components\n\n• Design and implement scalable, real-time software that meets the\ndemanding requirements of the financial industry",
   },
   {
+    "Station Name": "Gameskraft, IT- Product Management",
+    City: "Bengaluru",
+    Domain: "Product Management",
+    Title: "IT – Product Management",
+    Stipend: "75000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "10:30",
+    "Office-End-Time": "f18:30",
+    "Project Details": "IT – Product Management",
+  },
+  {
     "Station Name": "Google India Software",
     City: "Bangalore, Hyderabad Or Pune",
     Domain: "Software Domain",
@@ -7211,6 +8111,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "The Area: Intern - Technical\nGoogle is and always wil be an engineering company. We hire people with a broad set of technical ski ls who are ready to address some of technology's greatest chalenges and make an impact on milions, if not bilions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new pla orms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement a er another.\nAdditional Role Description: Our Winter internships wi l start in January 2024 and wil be 22-24 weeks in duration. As a So ware Engineering Intern, you wil work on our core products and services as wel as those who support critical functions of our engineering operations. Depending on your background and experience, you wil be working in one of the folowing areas: Product and Systems Development Whether it's nding new and innovative ways to advance search quality, building computing pla orms and networking technologies, automating the indexing of videos, or continuing to re ne and scale complex auction systems, you' l develop solutions for chalenging technical problems. You wil research, conceive and develop so ware applications to extend and improve on Google's product o erings and colaborate on scalability issues involving access to massive amounts of data and information. Engineering Productivity As part of the Engineering Productivity organization, you' l use your so ware design, analysis and programming skils to create innovative automated test systems. The Test team undertakes a range of chalenges on a daily basis, designing and building inteligent systems that can explore various use cases and scenarios for distributed computing infrastructure. Just imagine trying to design and build an automated testing system for something that's never been done before. Responsibilities: ? Create and support a productive and innovative team, including working with peers, managers, and teams. ? Develop scripts to automate routine tasks. ? Analyze information and evaluate results to choose the best solution to e ectively solve problems. ? Apply knowledge gained in computer science courses to real-world problems.? Experience in so ware development. ? Experience coding in one or more of C, C++, Java, JavaScript, Python, or similar.Experience with Data Structures or Algorithms gathered from inside or outside of school or work (including open source hobby coding). ? Experience working with some of the folowing: web application development, Unix/Linux environments, mobile application development, distributed and para lel systems, machine learning, information retrieval, natural language processing, networking, developing large so ware systems, or security so ware development. ? Ability to speak and write in English uently.",
+  },
+  {
+    "Station Name": "FlexiLoans Technologies Pvt Ltd",
+    City: "Mumbai",
+    Domain: "Data Science",
+    Title: "Project detials given in Description",
+    Stipend: "65000INR",
+    Degree: "A3 A4 A8 A7 AA",
+    Holidays: "Sunday",
+    "Office-Start-Time": "10:00:00",
+    "Office-End-Time": "f19:00:00",
+    "Project Details":
+      "Project 1 Title: Building an ML based propensity model to increase conversion from SL to HL, HL to AL\n& AL To DL\nDescription: Developing an ML model to convert existing rule-based model to machine\nlearning models. These propensity scores at different stages could help in prioritizing the\ncorrect leads which in turn would increase conversion & reduce TAT. Use EDA and ML\ntechniques on various parameters/attributes to improve the msme loan lending business\nSkill sets: SQL, Python/R, Excel, Bash, MS Office\nTraits expectation: proactive, adaptable, collaborative, curiosity, open-mindedness and\nwillingness to take risks.\nExpected learning:\nSpecific courses required for project execution: Machine learning, Predictive modeling - Good\nto have, Python\nProject 2 Title: Leveraging external data sources & Building real time data pipelines\nDescription: Integrating various external data sources to enhance the data ecosystem and\nenable advanced analytics. You'll work on designing and developing real-time data pipelines,\nensuring seamless data flow between external APIs, databases, and our internal systems. The\nrole will involve handling data ingestion, transformation, and storage in a scalable manner\nwhile optimizing for performance. you'll gain hands-on experience with modern data\nengineering tools and technologies, contributing to the creation of a robust data infrastructure\nthat powers real-time insights and decision-making.\nSkill sets: SQL, Python, Excel, Bash, MS Office, AWS Basic Modules, PySpark, Kafka\nTraits expectation: proactive, adaptable, collaborative, curiosity, open-mindedness and\nwillingness to take risks.\nExpected learning:\nSpecific courses required for project execution: Data Engineering, Python\nProject 3 Title: Gen AI - LLM based model development & Insights Generation\nDescription: Developing and fine-tuning of LLMs to harness the power of GenAI for business\napplications. Working on building models that can understand and generate human-like\nresponses, with a specific emphasis on creating solutions that provide prompt-based\nresponses and generate actionable insights. It involves end-to-end processes, including data\nacquisition, model training, fine-tuning, and deploying models in real-world scenarios.\nAdditionally, you'll explore methods to extract valuable insights from unstructured data,\nenabling data-driven decision-making.\nThe project aims to create AI models that are not only capable of understanding complex\nqueries but can also offer deep analytics, helping to enhance operational efficiency and\ncustomer engagement.\nSkill sets: SQL, Python, Excel, LLM (GPT, BERT or other transformer model)\nTraits expectation: proactive, adaptable, collaborative, curiosity, open-mindedness and\nwillingness to take risks.\nExpected learning:\nSpecific courses required for project execution: Hugging Face - Transformers",
   },
   {
     "Station Name": "Nomura- Fintech",
@@ -7291,40 +8204,15 @@ const stations = [
   {
     "Station Name": "Scapia Technology Private Limited - Software Engineering",
     City: "Bangalore",
-    Domain: "Finance and Mgmt",
-    Title: "Business Analyst",
+    Domain: "Java,Data Science",
+    Title: "Title: Software Engineering Intern (backend)",
     Stipend: "100000INR",
-    Degree: "A3 B2",
-    Holidays: "Saturday,Sunday",
-    "Office-Start-Time": "10:00:00",
-    "Office-End-Time": "f18:00:00",
-    "Project Details": "-",
-  },
-  {
-    "Station Name": "Scapia Technology Private Limited - Software Engineering",
-    City: "Bangalore",
-    Domain: "Data Analytics",
-    Title: "Business Analyst Intern for Travel Growth & Customer Experience",
-    Stipend: "100000INR",
-    Degree: "A1 D2 C7 C6 C2 B5 B4 B2 AB AA A8 A7 A5 A4 A3 A2 B1 B3",
+    Degree: "A7",
     Holidays: "Sunday",
-    "Office-Start-Time": "09:30:26",
-    "Office-End-Time": "f18:00:40",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f19:08:08",
     "Project Details":
-      "You will work on varied problem statements that help us understand our customer's better\nand drive significant growth for Scapia travel through actionable insights.\nOn customer experience, you will get to derive insights looking at all the data around customer chats\nand support queries. Your insights will help us improve our customer support as well as work with\nProduct teams to build AI solutions for our customers.",
-  },
-  {
-    "Station Name": "Scapia Technology Private Limited - Software Engineering",
-    City: "Bangalore",
-    Domain: "Software Engineering",
-    Title: "Software Engineering Intern (backend)",
-    Stipend: "100000INR",
-    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB",
-    Holidays: "Sunday",
-    "Office-Start-Time": "09:30:20",
-    "Office-End-Time": "f18:00:33",
-    "Project Details":
-      "The Engineering Intern will work closely with our engineering team to assist in various\nprojects and initiatives aimed at advancing our technical capabilities. Under the guidance of experienced\nengineers, the intern will gain hands-on experience in engineering principles, processes, and\ntechnologies relevant to our industry.\nFocus areas:\n• Assist in the design, development, and testing of engineering systems, components, or\nprocesses.\n• Collaborate with team members to contribute to the creation of engineering solutions and\nprototypes.\n• Conduct research, gather data, and perform analysis to support engineering projects and\ndecision-making.\n• Participate in design reviews, brainstorming sessions, and problem-solving discussions.\n• Assist in the preparation of technical documentation, reports, and presentations.\n• Learn and adhere to industry standards, regulatory requirements, and best practices.\n• Utilize engineering software and tools effectively to support project objectives.\n• Follow safety protocols, procedures, and guidelines to ensure a safe working environment.\n• Other duties as assigned by the engineering team.",
+      "Title: Software Engineering Intern (backend)\nDescription: The Engineering Intern will work closely with our engineering team to assist in various\nprojects and initiatives aimed at advancing our technical capabilities. Under the guidance of experienced\nengineers, the intern will gain hands-on experience in engineering principles, processes, and\ntechnologies relevant to our industry.\nFocus areas:\n• Assist in the design, development, and testing of engineering systems, components, or\nprocesses.\n• Collaborate with team members to contribute to the creation of engineering solutions and\nprototypes.\n• Conduct research, gather data, and perform analysis to support engineering projects and\ndecision-making.\n• Participate in design reviews, brainstorming sessions, and problem-solving discussions.\n• Assist in the preparation of technical documentation, reports, and presentations.\n• Learn and adhere to industry standards, regulatory requirements, and best practices.\n• Utilize engineering software and tools effectively to support project objectives.\n• Follow safety protocols, procedures, and guidelines to ensure a safe working environment.\n• Other duties as assigned by the engineering team.\nSkill sets: JAVA, Data Structures, C, C++\nTraits expectation: Strong understanding of software architecture, design patterns, and best practices\nfor building scalable and maintainable systems.\nKnowledge of cloud services (e.g., AWS, Google Cloud) is a plus.\nExpected learning: Software development & coding\nSpecific courses required for project execution: C, C++, Java, Data Structures and Algorithms",
   },
   {
     "Station Name": "Apple-Software development-MSI, Product Operations team",
@@ -7339,7 +8227,7 @@ const stations = [
     "Project Details": "Selection through interview",
   },
   {
-    "Station Name": "Eureka Forbes Limited, Bengaluru",
+    "Station Name": "Eureka Forbes Ltd - Bengaluru",
     City: "Bengaluru",
     Domain: "Data Science",
     Title:
@@ -7353,7 +8241,7 @@ const stations = [
       "Description: Heuristic, Analytical and/or ML models for driving engagement and revenue with out of contract customers \nSkill sets: Python, SQL, Pyspark, Basic Machine Learning\nTraits expectation: Business Acumen, Communication, Collaboration\nExpected learning: Real Data Science Projects Workflow, Navigating DS career in corporate\nSpecific courses required for project execution: Andrew NG - Machine Learning, any basic Python and SQL course",
   },
   {
-    "Station Name": "Eureka Forbes Limited, Bengaluru",
+    "Station Name": "Eureka Forbes Ltd - Bengaluru",
     City: "Bengaluru",
     Domain: "Data Science",
     Title:
@@ -7367,7 +8255,7 @@ const stations = [
       "Description: Analytical insights to service leaders for service quality improvement. ML modes for practice service quality degradation detection.\nSkill sets: Python, SQL, Pyspark, Basic Machine Learning\nTraits expectation: Business Acumen, Communication, Collaboration\nExpected learning: Real Data Science Projects Workflow, Navigating DS career in corporate\nSpecific courses required for project execution: Andrew NG - Machine Learning, any basic Python and SQL course",
   },
   {
-    "Station Name": "Eureka Forbes Limited, Bengaluru",
+    "Station Name": "Eureka Forbes Ltd - Bengaluru",
     City: "Bengaluru",
     Domain: "Mechanical",
     Title: "Title: Design of Eco Friendly Packaging for water purifiers",
@@ -7380,7 +8268,7 @@ const stations = [
       "Description: Design Calculations for drop test and transportation\nSkill sets: Excel, 3D CAD, 2D Drawings\nTraits expectation: Team Work, Perseverance, Analytical ability\nExpected learning: Strength calculations, Difference between static and dynamic applications\nSpecific courses required for project execution:  NA",
   },
   {
-    "Station Name": "Eureka Forbes Limited, Bengaluru",
+    "Station Name": "Eureka Forbes Ltd - Bengaluru",
     City: "Bengaluru",
     Domain: "Mechanical",
     Title:
@@ -7394,12 +8282,27 @@ const stations = [
       "Description: Performance improvement by 25% & At least one Proof of concept development (Working Prototype)\nSkill sets: MS Office Tools like Excel, PowerPoint, 7 QC Tools\nTraits expectation: Communication, Accountability, Discipline, Critical Thinking, Integrity\nExpected learning: Various international performance standards used for Robotic Vacuum Cleaner Development. & Understanding of various Robotics Navigation and Obstacle detection Technologies\nSpecific courses required for project execution:  NA",
   },
   {
+    "Station Name":
+      "CISPL-Complete Instrumentation Solutions Private Limited,Pavement Engineering",
+    City: "Gurgaon",
+    Domain: "Civil",
+    Title:
+      "Title : It will be depend on the projects available during the time of PS.",
+    Stipend: "22000INR",
+    Degree: "0",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title : It will be depend on the projects available during the time of PS.\nDescription : Mostly projects will be in domain of pavement evaluation and structural health monitoring.\nSkill set : Pavement evaluation, Pavement management system, Structural analysis etc.\nTraits Expectation : Eagerness to learn, Teamwork and Collaboration, Adaptability and basic skills and knowledge.\n\nExpected learning : Different type of equipment used for evaluation of structures and Pavement domain. Software required for industry, latest innovations in technologies regarding civil engineering.\nSpecific courses required for Project execution : Pavement material, pavement analysis and Design, Pavement management system, building materials, RCC and other Civil engineering courses.",
+  },
+  {
     "Station Name": "Altair,Bengaluru",
     City: "Bengaluru",
     Domain: "Electronics,Computer Science",
     Title: "Intern",
     Stipend: "37500INR",
-    Degree: "AB A4 A7 AA A8 A3",
+    Degree: "A3 A8 AA A7 A4 AB",
     Holidays: "Saturday,Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -7563,6 +8466,18 @@ const stations = [
       "The candidate must have unique capability to create, design and build systems for collecting, storing, and analyzing data at scale & implement methods to improve data reliability and quality, which would be used to transform data into knowledge. The candidate should have good understanding of developing web applications which supports different Form-factors and Web browsers.\n  Skillsets: 6 months – 1 year experience in JavaScript/Full Stack development. Python skill is suggested.\nComfortable as single contributor as well as team player\nStrong problem solving and analytical skills\nExperience with ReST & push communications\nExperience using large application frameworks like React, AngularJS or EmberJS is suggested\nUnderstanding of Data Science concepts is a plus\nNature of work:\nDevelop reusable code and components\nWorking closely with the architect and other developers on software architecture, design, dependencies and code maintainability\nDesigning and developing Business Intelligent solutions\nThe above skills would be used in the areas of : Data Analytics, Data Management, Weight Analytics, IoT etc.\nHow You Will Be Successful:\nEnvision the Future\nCommunicate Honestly and Broadly\nSeek Technology and Business “Firsts”\nEmbrace Diversity and Take Risks\n The candidate must have unique capability to create, design and build systems for collecting, storing, and analyzing data at scale & implement methods to improve data reliability and quality, which would be used to transform data into knowledge. The candidate should have good understanding of developing web applications which supports different Form-factors and Web browsers.\n  Skillsets: 6 months – 1 year experience in JavaScript/Full Stack development. Python skill is suggested.\nComfortable as single contributor as well as team player\nStrong problem solving and analytical skills\nExperience with ReST & push communications\nExperience using large application frameworks like React, AngularJS or EmberJS is suggested\nUnderstanding of Data Science concepts is a plus\nNature of work:\nDevelop reusable code and components\nWorking closely with the architect and other developers on software architecture, design, dependencies and code maintainability\nDesigning and developing Business Intelligent solutions\nThe above skills would be used in the areas of : Data Analytics, Data Management, Weight Analytics, IoT etc.\nHow You Will Be Successful:\nEnvision the Future\nCommunicate Honestly and Broadly\nSeek Technology and Business “Firsts”\nEmbrace Diversity and Take Risks\n ",
   },
   {
+    "Station Name": "Texas Instruments -- Digital",
+    City: "Bangalore",
+    Domain: "Electronics",
+    Title: "Details awaited",
+    Stipend: "60000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details": "--",
+  },
+  {
     "Station Name": "Align (Invisalign India LLP) - Web Developer",
     City: "Hyderabad",
     Domain: "Full Stack Development,Full-Stack Engineering",
@@ -7589,6 +8504,139 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "What you will do? ? Strategize and think about product ideas\nthat will delight customers\n? Give shape to product ideas that come from other members of the organization ?\nManage all the aspects of product life cycle, including strategy, conceptualization,\nuser research, process understanding, feature requirements definition, user\ninterface, prototyping, feedback, rollout and enhancements\nQualification:\n? Currently enrolled in Btech course with specialization in CSE/IT and are expected to graduate by\nJuly 2025\n.Skills Required:\n\n? Comfortable working with complex data-sets using standard data analysis tools &\ntechniques (Proficiency in excel, PowerPoint, SQL querying)\n? Structured thinking, strong written and verbal skills to process & deliver high quality\ndocuments & facilitate technical & non-technical interactions\n? Must be able to write detailed product specification which can be understood by the\ntech and business\n? Must be able to deal with “internal” customer requirements as well as “external”\ncustomer requirements\n? Must be able to thrive in a fast faced and rapidly changing environment and must\nadapt quickly to a changing business environment\n? Must be details oriented and able to juggle multiple initiatives\n? Prior experience in operations, supply chain, procurement, last mile delivery etc.\nwould be an added advantage",
+  },
+  {
+    "Station Name": "Bugbase Security Private Limited",
+    City: "Delhi",
+    Domain: "Computer Science,IoT",
+    Title: "Integrated Platform Enhancement Project: Software Development",
+    Stipend: "10000INR",
+    Degree: "A1 A2 A3 A4 A5 A7 A8 AA AB B1 B2 B3 B4 B5 C2 C6 C7 D2",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f17:00:00",
+    "Project Details":
+      "Description: BugBase is a continuous vulnerability assessment platform. It is a managed marketplace\nof bounty hunters that facilitates startups and enterprises in hosting and managing bug bounty programs\nand helps organizations continuously identify, manage, and mitigate real security vulnerabilities by\nplugging into Bug Bounty and pen-testing programs.\nWe are looking for Full-Stack Developer interns, preferably dual-degree students with a Master's in\nSciences and a Bachelor's in Engineering, having a possibility of continuing this internship for the\nfurther semester as a part of the dual-PS2 procedure.\nResponsibilities:\nYour role would be to build new features and improve the website.\nIntroducing best coding practices, which include frontend and backend technologies in web\napplications.\nImproving code quality and implementing new features in the application\nCollaborate with the technical team to upkeep and enhance BugBase's website.\nSkillsets: Nextjs, Reactjs, Javascript + Typescript, CSS, Node.js, Express, MongoDB, Mongoose +\nKnowledge of Web Fundamentals, Browser Workings, REST API, Docker, Creativity and Innovation,\nCollaboration and Teamwork, Adaptability and Flexibility, Attention to Detail, Time Management and\nOrganization.\nAdditional Plus points: Orchestration using Docker, Docker Compose, Self Deployments of full-stack\napplications",
+  },
+  {
+    "Station Name": "Voicegain,Texas",
+    City: "Texas",
+    Domain: "AI & ML,AI",
+    Title: "Voicegain Deep-Neural-Network based Speech Recognition",
+    Stipend: "42000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "00:00:00",
+    "Office-End-Time": "f00:00:00",
+    "Project Details":
+      "Description: Build new features of the Voicegain Deep learning Voice AI platform\nSkill sets: Python, Java, ML Model building libraries like Tensorflow, Pytorch,\nTraits expectation: Training Deep Neural Networks, Voice AI\nExpected learning: Practical knowledge of Machine Learning in the industry\nSpecific courses required for project execution: Data Structures & Algorithms Database\nSystems, Object Oriented Programming, Design Preferred – Machine Learning, Foundations of\nData Science, Artificial Intelligence,",
+  },
+  {
+    "Station Name": "Voicegain,Texas",
+    City: "Texas",
+    Domain: "AI & ML",
+    Title: "Enhance Voicegain Call Center AI Suite",
+    Stipend: "42000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "00:00:00",
+    "Office-End-Time": "f00:00:00",
+    "Project Details":
+      "Description: Build new functionality for Voicegain Contact Center AI Apps (Web & Mobile)\nSkill sets: UI Frameworks like React\nTraits expectation: Attention to detail with respect to user-interfaces, user-empathy\nExpected learning: Learn about building user interfaces for AI/ML products and invoking APIs\nto AI Models\nSpecific courses required for project execution: Data Structures & Algorithms, Web\nDevelopment, Programming course",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "Finance,E-COMM",
+    Title: "Title: Market Research / Company Research",
+    Stipend: "40000INR",
+    Degree: "B3 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Market Research / Company Research\n\nDescription: Process of gathering, analyzing and interpreting information about a market/company, including information about the target audience, competitors, industry multiples and overall industry trendsSkill sets: Analytical mindset, Report Writing, Problem-Solving Skills, Business acumen, versatility\n\nSkill sets: \nTraits expectation: \nExpected learning: Market trends / opportunities, understand the competitive landscape, discover unexplored areas to expand product capabilities in\n\nSpecific courses required for project execution:  Background in eCom, finance would be helpful but not a prerequisite ",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "Finance,E-COMM",
+    Title: "Title: M&A Deals",
+    Stipend: "40000INR",
+    Degree: "B3 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: M&A Deals\n\nDescription: Evaluation, and execution of mergers, acquisitions, divestitures, and other strategic transactions including fund raising Skill sets: Project management, Managing stakeholders, Financial Analysis and Valuation Skills,  Strategic thinking and Insights, Negotiation / Communication skills, Understanding/Interpreting company financial reports, excel and ppt proficiency\n\nSkill sets:\nTraits expectation: \nExpected learning: Detailed understanding of Pixis capabilities to help identify targets which would complement the current offerings of Pixis AI tool \n\nSpecific courses required for project execution: Background in eCom, finance would be helpful but not a prerequisite ",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "Finance,E-COMM",
+    Title: "Title: Preparing Management / Stakeholder decks",
+    Stipend: "40000INR",
+    Degree: "B3 C7 D2",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Preparing Management / Stakeholder decks\n\nDescription: Prepare presentations and reports for senior management and the board of directors to support strategic decision-making; maintain regular tracking of acquired entities/financial metrics/operational performances tracking\n\nSkill sets: Analytical mindset, Report Writing, Problem-Solving Skills, Business acumen, versatility, benchmarking skills, Excel and PPT proficiency\n\nTraits expectation: \nExpected learning:Enhancement of technical, analytical, and interpersonal skills; insights into how inorganic growth is tracked \n\nSpecific courses required for project execution:  Background in eCom, finance would be helpful but not a prerequisite",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "Python,Cloud,Cloud Computing,Computer Science",
+    Title:
+      "Title: Development of Data Ingestion and Transformation Pipeline for Cross-Platform Advertising Data",
+    Stipend: "40000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Development of Data Ingestion and Transformation Pipeline for Cross-Platform Advertising Data\n\nDescription: This project involves building a data ingestion pipeline that fetches, transforms, and stores advertising data from multiple platforms (e.g., Google Ads, Facebook Ads) into Pixis's data lake using a lakehouse approach with Apache Iceberg. Students will work on optimizing the ingestion pipeline for performance, ensuring compliance with data security standards, and normalizing data to handle varying attribution windows, metrics, and demographic breakdowns from different platforms.\n\nSkill sets: \nProficiency in Python or Scala\nKnowledge of Apache Iceberg, Apache Parquet\nExperience with cloud platforms (AWS)\nBasic understanding of AdTech and data pipeline concepts\n\nTraits expectation: Strong analytical and problem-solving skills, attention to detail, and a collaborative mindset.\n\nExpected learning: \nData engineering principles in AdTech\nDesigning high-performance ingestion and transformation pipelines\nUnderstanding cross-platform data normalization and attribution complexities\n\nSpecific courses required for project execution: Data Engineering, Cloud Computing, Database Management Systems, Distributed Systems",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "Web Development,Website Development,Web 3.0",
+    Title:
+      "Title: Building Real-Time Analytics Dashboard for Ad Campaign Performance",
+    Stipend: "40000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Building Real-Time Analytics Dashboard for Ad Campaign Performance\n\nDescription: The focus of this project is on creating a real-time analytics dashboard to monitor cross-platform ad campaign performance. Using data from Pixis's data lake, students will implement a solution to visualize metrics, trends, and KPIs for ad campaigns, handling high-throughput, low-latency reads from Apache Iceberg tables.\n\nSkill sets: \nProficiency in JavaScript (React/Angular)\nKnowledge of data visualization libraries (D3.js, Plotly)\nFamiliarity with Apache Iceberg, Parquet\nUnderstanding of real-time data processing (Kafka/Flink)\n\nTraits expectation: Good communication skills, creativity in data visualization, strong teamwork skills.\n\nExpected learning: \nBuilding scalable, real-time analytics dashboards\nHandling high-performance data queries for visualization\nWorking with cross-platform metrics in a consolidated format\n\nSpecific courses required for project execution: Data Visualization, Real-Time Data Processing, Web Development, Databases",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "Management,Project Management",
+    Title:
+      "Title: Rule Engine Design and Integration in Business Rule Management System (BRMS)",
+    Stipend: "40000INR",
+    Degree: "A7",
+    Holidays: "Saturday,Sunday",
+    "Office-Start-Time": "11:00:00",
+    "Office-End-Time": "f20:00:00",
+    "Project Details":
+      "Title: Rule Engine Design and Integration in Business Rule Management System (BRMS)\n\nDescription: This project involves designing and integrating a modular, performant rule engine within Pixis's BRMS. The rule engine will handle large volumes of business rules to personalize ad strategies dynamically across multiple ad platforms. The students will focus on performance optimization, modular rule design, and integration with other Pixis data platform components.\n\nSkill sets: \nExperience in designing and implementing rule engines\nKnowledge of data modeling and database optimization\nFamiliarity with software architecture patterns and modular design\n\nTraits expectation: Detail-oriented, strong in system design, adaptive to complex requirements.\n\nExpected learning: \nExposure to business rule management systems and rule engines\nModular design for scalable and extensible systems\nIntegration with other platform components for streamlined data processing\n\nSpecific courses required for project execution: Advanced Database Management, Software Architecture, AI in Business Applications, Systems Design",
+  },
+  {
+    "Station Name": "Pixis - Tech, Bengaluru",
+    City: "Bangalore",
+    Domain: "IT Product,Product Design,Product Development,Product Management",
+    Title: "Title: Product Analyst",
+    Stipend: "40000INR",
+    Degree: "A7",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Product Analyst\n\nDescription: We're looking for an analytically sharp Product Analyst Intern to join our AdRoom team. AdRoom is our advanced AI platform that enables businesses to generate compelling product advertisements through generative AI. As an intern, you'll dive deep into data, exploring user interactions and uncovering insights that fuel product growth. This role offers a unique opportunity to work with data at the intersection of AI and product analytics, helping shape the future of AI-powered advertising\n\nSkill sets: \nConduct in-depth analysis of user interaction data, identifying patterns and opportunities to enhance user engagement with our AI tools\nUse SQL and Python/R to analyze large datasets and distill actionable insights that drive product improvements\nDesign, execute, and interpret A/B tests to optimize features and understand their impact on user behavior and engagement\nBuild and maintain dashboards that track key performance indicators, offering teams a clear, data-driven view of product usage and adoption\nPresent findings and insights to stakeholders, highlighting trends and opportunities for growth\n\nTraits expectation: Sharp analytical mindset with a curiosity for data driven insights Clear communication skills to explain complex data insights in accessible terms\nSelf-starter mentality with a proactive approach to problem-solving\n\nExpected learning: \nIn-depth analysis of user behavior patterns in real-world applications\nHow to drive product improvements through data insights and A/B testing\nAdvanced data visualization techniques for tracking product success\n\nSpecific courses required for project execution: \nStrong foundation in SQL for querying large datasets and analyzing user behavior\nProficiency in Excel/Google Sheets for data exploration and reporting\nExperience with data visualization tools (Tableau, PowerBI) to translate insights into clear, accessible visuals\nBasic understanding of digital advertising metrics and A/B testing",
   },
   {
     "Station Name": "Mitigata (Alphawave Technologies Private limited)",
@@ -7694,12 +8742,12 @@ const stations = [
     "Project Details": "Selection through interview",
   },
   {
-    "Station Name": "Texas Instruments - Analog, Bengaluru",
+    "Station Name": "Texas Instruments - Analog",
     City: "Bangalore",
     Domain: "Electronics",
     Title: "Analog Engineering Intern",
     Stipend: "60000INR",
-    Degree: "A3 A8 AA",
+    Degree: "AA A8 A3",
     Holidays: "Sunday",
     "Office-Start-Time": "09:00:00",
     "Office-End-Time": "f18:00:00",
@@ -7811,6 +8859,19 @@ const stations = [
     "Office-End-Time": "f18:00:00",
     "Project Details":
       "project might involve the student to build data science models for a challenging business problem and execute the model on the ground",
+  },
+  {
+    "Station Name": "Merck Group",
+    City: "Bengaluru",
+    Domain: "Cyber Security,Security",
+    Title: "Title: Mtech in Cybersecurity",
+    Stipend: "45000INR",
+    Degree: "0",
+    Holidays: "Sunday",
+    "Office-Start-Time": "09:00:00",
+    "Office-End-Time": "f18:00:00",
+    "Project Details":
+      "Title: Mtech in Cybersecurity\nDescription: \nSkill sets: excellent communication and good knowledge on cybersecurity and enterprise architecture\nTraits expectation:  confidence, stakeholder management skills , excellent communications\nExpected learning: \nSpecific courses required for project execution:  Enterprise architecture",
   },
 ];
 
